@@ -1,0 +1,1226 @@
+Booking_ID,Checkin_Date,Nights,Room_Type,Booking_Channel,Traveler_Type,Lead_Time_Days,Room_Rate,Canceled
+BK1697,2025-02-03,2,Standard,Corporate,Business,10,4347.0,No
+BK2156,2025-11-12,3,Deluxe,OTA,Business,13,6025.0,Yes
+BK1555,2025-08-18,2,Suite,Direct Website,Business,26,11324.0,Yes
+BK1961,2025-09-22,4,Suite,Travel Agent,Leisure,42,10577.0,No
+BK1020,2025-03-21,1,Standard,Corporate,Business,3,4317.0,No
+BK2030,2025-01-29,2,Standard,Corporate,Business,37,4393.0,No
+BK1654,2025-08-30,2,Suite,Travel Agent,Leisure,8,8413.0,No
+BK2143,2025-05-22,7,Standard,OTA,Leisure,67,2800.0,No
+BK1279,2025-12-16,3,Deluxe,Walk-in,Business,0,5649.0,No
+BK2064,2025-09-03,3,Deluxe,Corporate,Business,48,6317.0,No
+BK2023,2025-04-11,1,Standard,Direct Website,Leisure,39,3300.0,No
+BK1651,2025-03-28,5,Standard,OTA,Leisure,16,3517.0,No
+BK1452,2025-10-28,6,Deluxe,OTA,Leisure,82,7066.0,No
+BK1891,2025-07-11,1,Standard,Travel Agent,Leisure,3,3675.0,No
+BK2140,2025-12-29,6,Deluxe,Corporate,Leisure,55,7523.0,No
+BK1701,2025-03-30,1,Standard,Travel Agent,Business,7,3376.0,No
+BK1901,2025-03-24,3,Deluxe,Direct Website,Business,47,4919.0,No
+BK1146,2025-02-27,5,Standard,Travel Agent,Leisure,51,2827.0,No
+BK1061,2025-09-24,2,Standard,Direct Website,Business,59,3935.0,No
+BK1663,2025-02-26,3,Deluxe,Corporate,Leisure,45,5687.0,Yes
+BK1985,2025-04-01,6,Standard,OTA,Leisure,21,3147.0,Yes
+BK1476,2025-10-11,5,Standard,OTA,Leisure,24,4086.0,No
+BK1732,2025-12-09,6,Suite,OTA,Leisure,32,10337.0,Yes
+BK1959,2025-07-17,5,Standard,Direct Website,Leisure,11,3300.0,No
+BK1498,2025-01-11,2,Standard,OTA,Business,60,3937.0,No
+BK1684,2025-01-16,2,Deluxe,OTA,Business,6,6542.0,Yes
+BK1248,2025-06-28,4,Standard,OTA,Leisure,28,2994.0,No
+BK2075,2025-07-10,3,Deluxe,Travel Agent,Leisure,43,5930.0,No
+BK1837,2025-04-13,2,Suite,Corporate,Leisure,42,9031.0,No
+BK1484,2025-06-21,7,Deluxe,Corporate,Leisure,62,4127.0,No
+BK1401,2025-02-02,4,Standard,Travel Agent,Leisure,13,,No
+BK1733,2025-01-22,7,Deluxe,Direct Website,Leisure,12,6742.0,Yes
+BK1771,2025-05-20,2,Suite,Direct Website,Business,15,9373.0,No
+BK1649,2025-01-03,3,Standard,Direct Website,Business,69,4773.0,Yes
+BK1659,2025-10-25,3,Standard,Direct Website,Leisure,2,4434.0,Yes
+BK1440,2025-11-09,1,Standard,Direct Website,Leisure,9,4682.0,No
+BK2152,2025-02-10,7,Standard,Travel Agent,Leisure,43,3590.0,No
+BK1496,2025-04-06,1,Deluxe,OTA,Business,16,5398.0,No
+BK1704,2025-05-25,2,Standard,Corporate,Leisure,18,3245.0,No
+BK1943,2025-04-14,2,Deluxe,OTA,Leisure,16,5327.0,No
+BK1551,2025-09-14,1,Deluxe,OTA,Business,20,6034.0,No
+BK1137,2025-04-11,1,Deluxe,OTA,Leisure,62,,No
+BK2029,2025-05-24,1,Standard,Walk-in,Business,0,2663.0,No
+BK2036,2025-02-16,1,Standard,Walk-in,Business,0,3457.0,No
+BK1628,2025-09-17,4,Standard,Corporate,Leisure,39,3846.0,No
+BK2078,2025-09-01,2,Deluxe,Corporate,Business,60,5221.0,No
+BK1488,2025-07-11,4,Suite,Travel Agent,Leisure,27,7931.0,No
+BK1367,2025-11-02,3,Deluxe,Travel Agent,Leisure,41,7007.0,Yes
+BK1268,2025-12-02,3,Suite,Travel Agent,Business,48,11801.0,No
+BK2089,2025-12-17,6,Standard,Corporate,Leisure,20,4181.0,No
+BK1370,2025-06-09,2,Standard,Direct Website,Business,8,2908.0,No
+BK1293,2025-03-30,3,Deluxe,Direct Website,Business,43,5829.0,No
+BK1405,2025-01-13,7,Suite,Direct Website,Leisure,33,12226.0,No
+BK1047,2025-07-27,2,Deluxe,,Business,37,,Yes
+BK1465,2025-07-15,5,Deluxe,Direct Website,Leisure,52,5742.0,No
+BK1749,2025-06-29,6,Deluxe,Direct Website,Leisure,,5185.0,Yes
+BK1992,2025-09-09,1,Standard,Corporate,Business,28,3322.0,Yes
+BK1668,2025-10-15,1,Deluxe,OTA,Business,34,7444.0,No
+BK1220,2025-08-25,2,Standard,Travel Agent,Business,29,3357.0,No
+BK1284,2025-12-14,2,Standard,Travel Agent,Leisure,62,4505.0,No
+BK1842,2025-09-16,2,Standard,Direct Website,Business,19,3692.0,No
+BK1212,2025-02-16,3,Deluxe,OTA,Business,62,5126.0,Yes
+BK1573,2025-01-18,7,Standard,OTA,Leisure,23,4740.0,No
+BK1682,2025-11-29,1,Deluxe,OTA,Business,35,7010.0,No
+BK1328,2025-01-06,6,Standard,OTA,Leisure,47,4431.0,Yes
+BK1486,2025-11-17,3,Deluxe,Direct Website,Business,51,6344.0,No
+BK1230,2025-12-20,3,Deluxe,,Leisure,49,,No
+BK2097,2025-12-03,2,Standard,Direct Website,Leisure,17,4127.0,No
+BK1988,2025-11-23,1,Suite,OTA,Business,14,10265.0,No
+BK1664,2025-08-11,2,Standard,Walk-in,Business,0,4120.0,Yes
+BK1905,2025-01-15,1,Standard,,Business,8,4222.0,No
+BK2164,2025-04-21,6,Suite,Direct Website,Leisure,35,8495.0,No
+BK1882,2025-07-30,3,Standard,Direct Website,Business,41,3517.0,No
+BK1400,2025-07-06,7,Suite,Walk-in,Leisure,0,,No
+BK1780,2025-02-14,2,Deluxe,Walk-in,Business,0,5191.0,No
+BK1385,2025-07-28,1,Standard,OTA,Business,34,3467.0,No
+BK1361,2025-02-21,3,Standard,OTA,Leisure,29,3672.0,Yes
+BK1102,2025-08-11,1,Standard,OTA,Business,48,3497.0,No
+BK1441,2025-07-30,2,Standard,OTA,Business,45,3333.0,No
+BK1922,2025-09-18,7,Standard,OTA,Leisure,22,3173.0,Yes
+BK1068,2025-04-12,7,Deluxe,Travel Agent,Leisure,19,5324.0,No
+BK1263,2025-03-26,2,Standard,OTA,Leisure,16,3730.0,Yes
+BK1793,2025-09-14,6,Standard,Corporate,Leisure,17,3556.0,No
+BK1577,2025-03-11,3,Deluxe,OTA,Leisure,47,,Yes
+BK1913,2025-03-15,3,Standard,Corporate,Business,31,3558.0,No
+BK2181,2025-03-28,1,Standard,Direct Website,Business,21,3423.0,No
+BK1182,2025-07-28,6,Standard,OTA,Leisure,22,,No
+BK1879,2025-09-19,4,Standard,Direct Website,Leisure,41,3502.0,Yes
+BK2098,2025-04-24,3,Deluxe,OTA,Business,47,5750.0,Yes
+BK1363,2025-01-03,5,Standard,OTA,Leisure,28,4338.0,Yes
+BK1832,2025-04-11,6,Standard,OTA,Leisure,12,3166.0,No
+BK1181,2025-02-10,1,Deluxe,Walk-in,Leisure,0,5735.0,No
+BK1933,2025-06-04,3,Deluxe,Travel Agent,Leisure,11,4669.0,No
+BK1568,2025-02-15,1,Deluxe,Direct Website,Business,50,5756.0,No
+BK1817,2025-06-18,2,Deluxe,Corporate,Leisure,36,4079.0,No
+BK2056,2025-04-30,4,Standard,Travel Agent,Leisure,32,3532.0,No
+BK1015,2025-09-03,3,Standard,Direct Website,Business,34,3543.0,No
+BK1522,2025-03-28,6,Standard,OTA,Leisure,12,3362.0,No
+BK1792,2025-07-09,6,Standard,OTA,Leisure,18,3877.0,Yes
+BK1398,2025-09-01,1,Standard,Corporate,Business,34,3692.0,No
+BK1881,2025-08-09,5,Deluxe,Direct Website,Leisure,38,5504.0,No
+BK1417,2025-08-08,2,Suite,OTA,Business,43,9274.0,No
+BK1835,2025-11-19,1,Deluxe,Direct Website,Leisure,48,6184.0,No
+BK1007,2025-01-11,7,Standard,OTA,Leisure,9,4553.0,No
+BK1067,2025-10-23,2,Standard,Corporate,Business,62,3991.0,No
+BK1071,2025-09-04,3,Deluxe,,Business,42,4965.0,No
+BK1349,2025-12-16,4,Standard,OTA,Leisure,30,4102.0,No
+BK1099,2025-04-07,7,Standard,OTA,Leisure,31,3257.0,Yes
+BK1568,2025-02-15,1,Deluxe,Direct Website,Business,50,5756.0,No
+BK1432,2025-04-16,2,Standard,Direct Website,Business,8,3074.0,Yes
+BK1323,2025-12-13,1,Standard,OTA,Leisure,36,4009.0,No
+BK2082,2025-02-27,4,Standard,Direct Website,Leisure,9,4357.0,No
+BK1083,2025-07-30,1,Suite,Direct Website,Leisure,49,9589.0,No
+BK1683,2025-06-14,1,Standard,OTA,Business,7,3105.0,No
+BK1239,2025-02-06,1,Deluxe,Travel Agent,Business,36,5491.0,No
+BK1741,2025-10-09,6,Standard,Corporate,Leisure,17,,No
+BK1356,2025-07-09,1,Standard,Travel Agent,Business,11,3735.0,No
+BK1301,2025-02-17,3,Standard,Direct Website,Business,17,3530.0,No
+BK1058,2025-12-20,6,Standard,Direct Website,Leisure,11,4607.0,No
+BK1199,2025-06-29,5,Suite,Direct Website,Leisure,31,8493.0,No
+BK1884,2025-07-29,3,Standard,Direct Website,Business,40,2833.0,Yes
+BK1481,2025-09-29,7,Standard,Corporate,Leisure,27,3111.0,No
+BK1280,2025-12-20,1,Standard,Corporate,Leisure,32,4584.0,No
+BK1995,2025-07-27,3,Standard,OTA,Business,33,3671.0,No
+BK1677,2025-11-11,7,Suite,Direct Website,Leisure,87,11306.0,No
+BK1877,2025-07-31,6,Deluxe,Walk-in,Leisure,0,,No
+BK1437,2025-04-07,3,Suite,OTA,Leisure,49,6954.0,No
+BK1232,2025-10-12,6,Standard,Direct Website,Leisure,48,4477.0,No
+BK1387,2025-04-09,2,Standard,Direct Website,Business,9,3498.0,No
+BK2095,2025-07-19,1,Standard,Corporate,Business,37,3344.0,No
+BK1838,2025-02-16,6,Deluxe,Walk-in,Leisure,0,5421.0,No
+BK1070,2025-02-15,1,Standard,Direct Website,Business,59,3216.0,No
+BK1970,2025-02-09,3,Standard,Travel Agent,Business,19,3348.0,No
+BK1821,2025-02-13,1,Deluxe,OTA,Business,149,4526.0,No
+BK1066,2025-10-10,3,Deluxe,Travel Agent,Business,29,7381.0,No
+BK1235,2025-08-03,5,Standard,OTA,Leisure,13,3330.0,No
+BK2174,2025-12-12,5,Suite,OTA,Leisure,41,10908.0,No
+BK1305,2025-03-13,7,Deluxe,Direct Website,Leisure,38,6090.0,No
+BK1101,2025-02-03,1,Deluxe,Direct Website,Business,21,6335.0,No
+BK1270,2025-06-08,1,Standard,Corporate,Business,121,3176.0,No
+BK2068,2025-02-27,3,Deluxe,Direct Website,Business,13,6389.0,No
+BK1388,2025-06-18,2,Deluxe,OTA,Leisure,48,4628.0,Yes
+BK1806,2025-05-15,6,Deluxe,OTA,Leisure,39,5063.0,Yes
+BK1581,2025-10-19,2,Deluxe,OTA,Business,56,6934.0,Yes
+BK1984,2025-05-15,2,Deluxe,Direct Website,Business,13,4124.0,No
+BK1375,2025-12-03,1,Deluxe,OTA,Business,,6537.0,No
+BK1615,2025-10-16,2,Standard,Corporate,Business,69,4571.0,No
+BK1119,2025-07-26,3,Suite,Corporate,Business,31,9040.0,No
+BK1285,2025-11-05,1,Standard,OTA,Business,100,3949.0,Yes
+BK1953,2025-09-04,2,Deluxe,Direct Website,Business,66,5459.0,Yes
+BK1355,2025-08-18,3,Deluxe,Direct Website,Leisure,42,5607.0,No
+BK2199,2025-10-31,19,Standard,OTA,Business,8,4512.0,No
+BK1556,2025-01-30,2,Deluxe,Travel Agent,Leisure,,7283.0,No
+BK1460,2025-03-17,5,Deluxe,OTA,Leisure,25,5784.0,No
+BK1813,2025-04-26,3,Standard,Direct Website,Business,2,2768.0,No
+BK1021,2025-01-15,7,Deluxe,Direct Website,Leisure,8,6921.0,No
+BK2167,2025-06-19,6,Deluxe,OTA,Leisure,15,4855.0,No
+BK2001,2025-09-25,4,Deluxe,OTA,Leisure,31,4751.0,No
+BK2141,2025-06-01,1,Deluxe,OTA,Business,,5168.0,No
+BK1226,2025-08-26,1,Standard,Travel Agent,Leisure,69,3922.0,No
+BK1745,2025-04-26,3,Standard,Corporate,Leisure,22,3054.0,Yes
+BK1966,2025-11-16,4,Standard,OTA,Leisure,67,4400.0,Yes
+BK1504,2025-03-26,3,Standard,OTA,Business,33,3716.0,No
+BK1045,2025-03-19,6,Deluxe,Corporate,Leisure,49,6163.0,No
+BK1864,2025-09-09,4,Deluxe,Corporate,Leisure,45,4737.0,No
+BK1708,2025-10-07,1,Standard,Corporate,Leisure,28,4304.0,No
+BK1129,2025-05-02,7,Deluxe,Corporate,Leisure,9,5080.0,No
+BK1158,2025-10-16,6,Deluxe,OTA,Leisure,37,5530.0,Yes
+BK1857,2025-09-09,4,Standard,Travel Agent,Leisure,,3407.0,No
+BK2072,2025-11-14,6,Deluxe,OTA,Leisure,18,7040.0,No
+BK1596,2025-03-07,3,Standard,Corporate,Leisure,65,3625.0,Yes
+BK1980,2025-10-07,1,Deluxe,Corporate,Leisure,66,7848.0,No
+BK2196,2025-12-03,6,Deluxe,OTA,Leisure,,6907.0,Yes
+BK1365,2025-10-06,1,Standard,Travel Agent,Leisure,70,4787.0,No
+BK1993,2025-07-05,5,Deluxe,Corporate,Leisure,14,5707.0,No
+BK1126,2025-02-12,3,Suite,OTA,Business,14,8790.0,Yes
+BK1653,2025-10-18,5,Standard,OTA,Leisure,61,4826.0,Yes
+BK2008,2025-10-12,2,Suite,Travel Agent,Leisure,21,13516.0,Yes
+BK1640,2025-11-22,2,Standard,OTA,Business,28,4097.0,Yes
+BK1379,2025-10-02,3,Deluxe,OTA,Business,21,6340.0,No
+BK2009,2025-12-16,2,Standard,OTA,Business,56,4573.0,No
+BK2117,2025-03-28,2,Suite,Corporate,Business,30,9825.0,Yes
+BK1508,2025-08-26,1,Standard,OTA,Business,108,3403.0,Yes
+BK1273,2025-08-03,2,Standard,Direct Website,Leisure,25,3382.0,No
+BK1104,2025-10-15,7,Deluxe,Direct Website,Leisure,78,7013.0,Yes
+BK1157,2025-07-23,2,Standard,OTA,Business,10,2871.0,No
+BK1265,2025-01-13,2,Standard,Direct Website,Business,22,4444.0,No
+BK1692,2025-06-05,5,Standard,Travel Agent,Leisure,37,3096.0,Yes
+BK1856,2025-08-14,2,Standard,OTA,Leisure,28,3361.0,Yes
+BK1711,2025-05-13,4,Deluxe,Corporate,Leisure,10,5113.0,No
+BK1662,2025-06-22,6,Deluxe,Direct Website,Leisure,49,5031.0,No
+BK1963,2025-01-01,4,Standard,OTA,Leisure,16,4385.0,No
+BK1037,2025-06-25,2,Standard,Direct Website,Business,30,2966.0,No
+BK1743,2025-10-08,2,Standard,Corporate,Business,26,4139.0,No
+BK1740,2025-10-05,3,Suite,OTA,Leisure,48,12009.0,No
+BK1535,2025-12-12,2,Deluxe,OTA,Leisure,54,6811.0,No
+BK1287,2025-08-16,7,Suite,OTA,Leisure,108,8863.0,Yes
+BK1116,2025-06-02,7,Standard,OTA,Leisure,4,3018.0,No
+BK1091,2025-10-09,2,Deluxe,OTA,Business,43,6768.0,Yes
+BK1678,2025-03-14,1,Deluxe,Direct Website,Leisure,32,5373.0,No
+BK1374,2025-12-06,7,Standard,Travel Agent,Leisure,28,3498.0,No
+BK1776,2025-09-01,2,Standard,OTA,Leisure,39,3436.0,No
+BK1873,2025-06-22,3,Standard,OTA,Business,19,3374.0,No
+BK1824,2025-02-14,1,Suite,OTA,Leisure,65,9478.0,No
+BK1917,2025-07-12,3,Deluxe,OTA,Business,9,5512.0,No
+BK1090,2025-11-22,7,Deluxe,Direct Website,Leisure,58,6889.0,No
+BK2081,2025-03-02,2,Suite,OTA,Leisure,20,9124.0,No
+BK1849,2025-06-17,3,Standard,Walk-in,Business,0,2643.0,Yes
+BK2138,2025-01-08,6,Standard,Corporate,Leisure,28,4588.0,No
+BK1391,2025-06-19,2,Standard,Direct Website,Business,49,3131.0,No
+BK1737,2025-08-07,2,Standard,OTA,Leisure,24,3155.0,No
+BK1431,2025-12-01,1,Deluxe,Travel Agent,Business,12,7813.0,No
+BK1169,2025-08-09,3,Deluxe,OTA,Business,25,5587.0,No
+BK2003,2025-08-21,2,Standard,OTA,Business,18,3614.0,No
+BK1833,2025-02-06,2,Deluxe,Direct Website,Leisure,25,4783.0,Yes
+BK1999,2025-04-10,4,Standard,OTA,Leisure,110,3050.0,No
+BK1612,2025-05-17,1,Deluxe,OTA,Business,33,5346.0,No
+BK1473,2025-07-10,3,Standard,OTA,Business,103,3635.0,No
+BK2197,2025-07-12,2,Deluxe,Travel Agent,Business,15,5254.0,Yes
+BK1455,2025-01-18,4,Deluxe,Travel Agent,Leisure,25,7206.0,No
+BK1462,2025-03-13,2,Deluxe,Corporate,Leisure,71,5610.0,No
+BK1421,2025-03-22,3,Standard,OTA,Business,40,4012.0,Yes
+BK1272,2025-07-07,3,Deluxe,Direct Website,Leisure,12,5499.0,No
+BK1717,2025-03-22,3,Deluxe,Corporate,Leisure,32,4934.0,No
+BK2109,2025-12-18,1,Suite,Corporate,Business,,13512.0,No
+BK1281,2025-11-19,1,Standard,OTA,Leisure,22,4048.0,No
+BK1513,2025-03-02,7,Deluxe,,Leisure,54,5698.0,No
+BK1584,2025-04-11,1,Deluxe,OTA,Business,42,4686.0,No
+BK1601,2025-04-01,1,Deluxe,OTA,Leisure,56,5301.0,No
+BK1931,2025-08-27,1,Standard,Direct Website,Business,21,3224.0,No
+BK1141,2025-10-25,4,Standard,OTA,Leisure,15,4133.0,No
+BK2037,2025-05-17,3,Standard,OTA,Business,24,3128.0,Yes
+BK1223,2025-02-20,3,Standard,OTA,Business,18,3738.0,No
+BK2132,2025-07-15,1,Deluxe,OTA,Business,81,5166.0,No
+BK1213,2025-09-01,3,Standard,OTA,Business,59,4106.0,No
+BK1524,2025-01-10,2,Deluxe,OTA,Business,59,6612.0,No
+BK1060,2025-01-16,2,Standard,OTA,Leisure,28,4551.0,No
+BK1322,2025-06-15,1,Deluxe,OTA,Leisure,36,4848.0,No
+BK1887,2025-12-03,3,Standard,OTA,Business,54,4868.0,No
+BK1502,2025-04-27,2,Deluxe,Travel Agent,Business,38,4975.0,No
+BK1451,2025-01-26,2,Standard,OTA,Business,,4707.0,No
+BK2157,2025-03-21,3,Standard,Travel Agent,Business,14,3773.0,No
+BK1000,2025-10-03,2,Suite,OTA,Business,33,11207.0,No
+BK2191,2025-02-16,7,Suite,Direct Website,Leisure,68,8921.0,Yes
+BK1724,2025-09-24,6,Deluxe,OTA,Leisure,32,5432.0,No
+BK1183,2025-03-04,3,Standard,Direct Website,Leisure,45,3515.0,No
+BK1414,2025-10-15,1,Standard,OTA,Business,45,4832.0,Yes
+BK1327,2025-02-02,3,Suite,OTA,Leisure,100,9034.0,Yes
+BK2063,2025-09-21,1,Deluxe,OTA,Leisure,41,5741.0,Yes
+BK1330,2025-10-06,1,Suite,OTA,Business,25,10701.0,No
+BK1595,2025-12-24,3,Standard,OTA,Business,,4408.0,No
+BK1979,2025-12-04,3,Deluxe,OTA,Business,6,6738.0,Yes
+BK1888,2025-03-17,1,Standard,OTA,Business,48,3212.0,No
+BK1658,2025-08-20,1,Standard,OTA,Leisure,26,3601.0,No
+BK1407,2025-07-26,3,Standard,OTA,Business,17,3434.0,No
+BK1656,2025-01-25,3,Deluxe,OTA,Business,8,6507.0,No
+BK2165,2025-06-12,3,Standard,OTA,Business,24,2854.0,No
+BK2195,2025-08-01,3,Deluxe,OTA,Business,11,4743.0,Yes
+BK1727,2025-05-17,1,Deluxe,Travel Agent,Leisure,34,4816.0,No
+BK1990,2025-01-16,3,Deluxe,Corporate,Leisure,41,6409.0,No
+BK1418,2025-08-02,1,Standard,Direct Website,Business,11,3893.0,No
+BK1702,2025-11-15,7,Deluxe,Direct Website,Leisure,8,6694.0,No
+BK1512,2025-05-20,1,Deluxe,Travel Agent,Leisure,90,5414.0,No
+BK1779,2025-08-15,3,Standard,OTA,Business,14,3256.0,No
+BK1810,2025-01-11,1,Deluxe,OTA,Business,45,6765.0,Yes
+BK1333,2025-12-16,6,Suite,Direct Website,Leisure,30,11738.0,No
+BK2059,2025-10-25,1,Standard,Corporate,Leisure,36,4390.0,No
+BK1228,2025-02-01,5,Standard,Direct Website,Leisure,26,3597.0,No
+BK1695,2025-04-17,5,Deluxe,Direct Website,Leisure,34,5275.0,No
+BK1552,2025-01-21,5,Deluxe,Direct Website,Leisure,75,7560.0,No
+BK1770,2025-10-13,1,Suite,Walk-in,Leisure,0,12485.0,No
+BK1286,2025-08-08,6,Deluxe,Direct Website,Leisure,13,6033.0,No
+BK1914,2025-05-01,6,Deluxe,Travel Agent,Leisure,58,5247.0,No
+BK1197,2025-12-25,3,Deluxe,OTA,Business,71,6894.0,No
+BK1546,2025-07-21,3,Deluxe,Direct Website,Business,47,6110.0,No
+BK1532,2025-03-02,6,Deluxe,OTA,Leisure,26,5332.0,No
+BK1128,2025-06-22,2,Deluxe,OTA,Business,4,4895.0,No
+BK2015,2025-04-15,3,Deluxe,OTA,Leisure,28,5237.0,No
+BK1200,2025-05-06,3,Standard,OTA,Leisure,21,3201.0,No
+BK2177,2025-12-15,3,Deluxe,Corporate,Business,107,6376.0,No
+BK1619,2025-03-13,6,Standard,Direct Website,Leisure,30,3244.0,No
+BK1571,2025-01-21,7,Deluxe,Corporate,Leisure,18,6215.0,No
+BK1148,2025-06-09,3,Deluxe,Direct Website,Leisure,13,5298.0,No
+BK1315,2025-11-12,4,Suite,OTA,Leisure,13,11990.0,No
+BK1969,2025-02-28,5,Suite,Direct Website,Leisure,51,8917.0,No
+BK1065,2025-09-24,4,Suite,OTA,Leisure,76,9855.0,Yes
+BK2025,2025-09-19,1,Standard,Direct Website,Leisure,,3731.0,No
+BK1897,2025-01-18,3,Deluxe,OTA,Business,33,6232.0,No
+BK1567,2025-09-02,5,Suite,OTA,Leisure,55,8618.0,Yes
+BK1271,2025-04-28,2,Standard,Travel Agent,Business,18,3249.0,No
+BK1143,2025-12-01,3,Standard,OTA,Leisure,16,3805.0,Yes
+BK1690,2025-11-24,7,Standard,Walk-in,Leisure,0,4944.0,No
+BK2159,2025-02-28,2,Deluxe,Direct Website,Business,72,5410.0,No
+BK1343,2025-11-08,1,Standard,Travel Agent,Leisure,60,4478.0,No
+BK1086,2025-01-06,2,Deluxe,Travel Agent,Leisure,,7424.0,No
+BK1164,2025-03-01,7,Suite,Direct Website,Leisure,8,9334.0,No
+BK1549,2025-03-24,5,Standard,Direct Website,Leisure,41,2983.0,Yes
+BK2051,2025-08-13,4,Standard,OTA,Leisure,81,3235.0,No
+BK1318,2025-12-05,1,Suite,OTA,Business,11,13940.0,No
+BK1529,2025-06-25,4,Standard,Travel Agent,Leisure,41,2875.0,No
+BK2148,2025-05-04,7,Standard,Direct Website,Leisure,35,2889.0,No
+BK1397,2025-07-27,3,Standard,OTA,Business,,3965.0,No
+BK1193,2025-05-05,6,Deluxe,Direct Website,Leisure,49,4327.0,No
+BK2026,2025-08-30,1,Deluxe,OTA,Business,71,4924.0,Yes
+BK1108,2025-12-06,7,Deluxe,Direct Website,Leisure,9,6270.0,No
+BK1309,2025-02-13,3,Standard,Direct Website,Leisure,19,3775.0,No
+BK1171,2025-10-27,1,Standard,Corporate,Business,22,4108.0,Yes
+BK1018,2025-10-02,4,Deluxe,OTA,Leisure,49,7363.0,No
+BK1926,2025-10-09,2,Standard,OTA,Business,37,4948.0,No
+BK1155,2025-05-27,4,Deluxe,Direct Website,Leisure,86,4126.0,No
+BK1487,2025-08-11,3,Standard,OTA,Leisure,2,3383.0,No
+BK1439,2025-04-22,7,Deluxe,Direct Website,Leisure,65,4718.0,No
+BK1744,2025-12-29,6,Standard,OTA,Leisure,34,4500.0,No
+BK1847,2025-05-02,3,Standard,Walk-in,Business,0,2835.0,Yes
+BK1468,2025-12-04,5,Standard,Corporate,Leisure,43,4411.0,Yes
+BK2120,2025-01-02,3,Standard,Travel Agent,Leisure,31,4803.0,No
+BK1335,2025-09-09,3,Deluxe,Direct Website,Leisure,28,6296.0,Yes
+BK1016,2025-12-20,2,Deluxe,Direct Website,Leisure,4,7804.0,No
+BK1974,2025-06-21,1,Standard,Walk-in,Business,0,3405.0,No
+BK1075,2025-07-03,1,Standard,Corporate,Leisure,43,3276.0,No
+BK1948,2025-09-13,3,Standard,Direct Website,Leisure,34,2926.0,No
+BK1869,2025-08-14,2,Standard,Direct Website,Business,61,3514.0,Yes
+BK1819,2025-01-23,3,Deluxe,OTA,Business,20,6831.0,No
+BK1775,2025-10-08,1,Standard,Travel Agent,Business,38,4744.0,No
+BK1665,2025-06-07,1,Deluxe,Direct Website,Leisure,8,5599.0,No
+BK1319,2025-10-14,5,Suite,Direct Website,Leisure,53,12673.0,No
+BK1241,2025-03-20,1,Standard,Travel Agent,Leisure,12,3494.0,No
+BK1540,2025-02-20,1,Standard,OTA,Business,18,3916.0,No
+BK1829,2025-04-30,2,Deluxe,Corporate,Leisure,17,4996.0,No
+BK1688,2025-03-02,1,Deluxe,OTA,Business,10,5726.0,No
+BK1544,2025-02-28,2,Standard,Direct Website,Leisure,2,3699.0,No
+BK1795,2025-02-13,4,Deluxe,OTA,Leisure,49,,Yes
+BK1981,2025-06-23,1,Standard,Walk-in,Business,0,3833.0,No
+BK1321,2025-09-24,2,Standard,Direct Website,Leisure,37,3643.0,No
+BK2007,2025-07-26,4,Deluxe,Corporate,Leisure,25,5483.0,No
+BK1575,2025-02-27,4,Standard,Travel Agent,Leisure,,3468.0,No
+BK1757,2025-04-23,1,Deluxe,Walk-in,Business,0,4624.0,No
+BK2184,2025-05-17,3,Deluxe,Direct Website,Business,12,4550.0,No
+BK1843,2025-02-23,2,Standard,Direct Website,Business,19,3569.0,No
+BK1579,2025-07-22,4,Standard,OTA,Leisure,63,3436.0,No
+BK1089,2025-03-13,4,Deluxe,Walk-in,Leisure,0,5007.0,No
+BK1490,2025-09-05,6,Deluxe,Direct Website,Leisure,14,5402.0,No
+BK1945,2025-06-21,5,Standard,Corporate,Leisure,44,3042.0,Yes
+BK1419,2025-06-06,6,Suite,OTA,Leisure,65,8515.0,Yes
+BK1082,2025-09-20,4,Standard,Travel Agent,Leisure,47,3043.0,No
+BK1958,2025-10-31,3,Deluxe,Direct Website,Business,67,5970.0,Yes
+BK2158,2025-02-09,7,Suite,OTA,Leisure,,10248.0,No
+BK1624,2025-01-23,7,Deluxe,OTA,Leisure,47,6288.0,No
+BK2002,2025-08-05,2,Standard,OTA,Business,89,3957.0,No
+BK1194,2025-02-08,1,Deluxe,OTA,Leisure,25,,No
+BK1251,2025-03-25,1,Standard,Direct Website,Leisure,34,3213.0,No
+BK1827,2025-07-22,1,Suite,Direct Website,Leisure,16,11079.0,No
+BK1436,2025-06-21,2,Standard,Direct Website,Business,33,3180.0,No
+BK1852,2025-10-20,1,Standard,OTA,Business,30,4179.0,No
+BK1574,2025-12-03,6,Standard,OTA,Leisure,3,4572.0,No
+BK1399,2025-04-26,2,Standard,OTA,Leisure,11,3335.0,Yes
+BK1311,2025-05-10,6,Suite,OTA,Leisure,35,8084.0,No
+BK1402,2025-07-18,4,Deluxe,Direct Website,Leisure,16,5320.0,No
+BK2160,2025-04-02,1,Deluxe,OTA,Business,40,5685.0,Yes
+BK1283,2025-04-10,2,Deluxe,OTA,Business,27,4569.0,No
+BK1802,2025-12-10,2,Suite,Walk-in,Business,0,12951.0,No
+BK1593,2025-08-04,3,Suite,Direct Website,Business,15,9987.0,No
+BK1464,2025-10-29,6,Deluxe,OTA,Leisure,8,8238.0,No
+BK2093,2025-06-15,1,Suite,Direct Website,Business,16,7902.0,No
+BK1840,2025-09-24,3,Deluxe,Travel Agent,Business,73,5713.0,Yes
+BK2021,2025-12-03,2,Suite,Direct Website,Business,46,11671.0,Yes
+BK1457,2025-06-04,1,Standard,Direct Website,Business,17,3367.0,No
+BK2100,2025-08-25,6,Standard,Direct Website,Leisure,52,3050.0,No
+BK1915,2025-07-31,5,Standard,Corporate,Leisure,12,3421.0,No
+BK1525,2025-05-30,3,Deluxe,OTA,Leisure,42,4630.0,Yes
+BK1530,2025-02-04,6,Deluxe,Direct Website,Leisure,60,5312.0,No
+BK1477,2025-09-05,19,Standard,OTA,Business,38,3761.0,Yes
+BK1351,2025-05-28,4,Standard,OTA,Leisure,17,3501.0,Yes
+BK1641,2025-07-28,3,Deluxe,OTA,Business,110,6006.0,Yes
+BK1080,2025-04-30,4,Deluxe,Direct Website,Leisure,27,4846.0,No
+BK1345,2025-05-09,2,Standard,Direct Website,Business,33,3027.0,Yes
+BK1643,2025-10-20,1,Deluxe,OTA,Leisure,80,7316.0,No
+BK1250,2025-07-15,3,Standard,OTA,Leisure,32,3413.0,No
+BK1308,2025-02-10,7,Standard,OTA,Leisure,26,3608.0,No
+BK1295,2025-11-16,2,Deluxe,OTA,Leisure,9,7260.0,No
+BK1521,2025-01-31,1,Standard,Corporate,Business,75,4374.0,No
+BK1907,2025-03-19,3,Deluxe,Direct Website,Business,87,4976.0,No
+BK1545,2025-05-04,5,Standard,Direct Website,Leisure,52,3369.0,No
+BK1786,2025-12-17,3,Standard,OTA,Leisure,54,4270.0,No
+BK1326,2025-10-20,3,Standard,Direct Website,Business,7,5110.0,Yes
+BK1761,2025-07-04,1,Deluxe,OTA,Leisure,,5628.0,Yes
+BK1120,2025-08-28,3,Standard,OTA,Business,69,3298.0,No
+BK1777,2025-05-31,3,Standard,Corporate,Leisure,19,3050.0,No
+BK1664,2025-08-11,2,Standard,Walk-in,Business,0,4120.0,Yes
+BK1219,2025-06-13,4,Standard,Direct Website,Leisure,15,2895.0,No
+BK1589,2025-04-21,3,Deluxe,Travel Agent,Leisure,117,5367.0,Yes
+BK1453,2025-07-09,7,Standard,OTA,Leisure,8,3355.0,No
+BK1192,2025-10-20,3,Standard,Corporate,Business,4,4298.0,No
+BK1909,2025-07-23,2,Standard,Travel Agent,Business,20,3247.0,No
+BK1290,2025-08-20,1,Suite,OTA,Leisure,11,8705.0,Yes
+BK1180,2025-07-16,3,Suite,Travel Agent,Leisure,,8898.0,No
+BK1558,2025-11-21,1,Deluxe,Direct Website,Business,31,7222.0,No
+BK1185,2025-09-21,2,Standard,Corporate,Leisure,30,3162.0,No
+BK1411,2025-09-13,7,Standard,Travel Agent,Leisure,13,3408.0,No
+BK1861,2025-01-12,3,Standard,Walk-in,Business,0,4369.0,No
+BK1470,2025-10-25,4,Deluxe,Corporate,Leisure,86,,No
+BK1204,2025-01-28,1,Standard,Walk-in,Leisure,0,3735.0,No
+BK2016,2025-05-31,4,Standard,Direct Website,Leisure,48,3690.0,Yes
+BK1550,2025-01-15,6,Standard,Corporate,Leisure,52,3885.0,No
+BK1074,2025-02-26,3,Standard,Direct Website,Leisure,6,3701.0,Yes
+BK1949,2025-07-18,7,Standard,OTA,Leisure,24,3280.0,No
+BK1599,2025-03-04,2,Standard,Direct Website,Leisure,8,3819.0,No
+BK2189,2025-11-16,3,Deluxe,OTA,Leisure,39,7939.0,Yes
+BK1002,2025-04-24,2,Deluxe,Travel Agent,Business,54,5003.0,No
+BK1267,2025-05-10,4,Deluxe,Travel Agent,Leisure,32,4752.0,No
+BK1084,2025-05-25,5,Deluxe,Direct Website,Leisure,35,5367.0,No
+BK2129,2025-03-20,5,Standard,Corporate,Leisure,30,2842.0,No
+BK2004,2025-12-30,3,Suite,OTA,Leisure,84,11460.0,Yes
+BK2092,2025-08-12,3,Deluxe,OTA,Business,16,5332.0,Yes
+BK2139,2025-07-14,2,Standard,Corporate,Business,55,3452.0,No
+BK1471,2025-04-17,5,Suite,Travel Agent,Leisure,83,8774.0,No
+BK1142,2025-03-31,4,Standard,Travel Agent,Leisure,20,3282.0,No
+BK1680,2025-10-06,7,Standard,Travel Agent,Leisure,6,3926.0,No
+BK2188,2025-06-12,1,Standard,Travel Agent,Leisure,19,3139.0,No
+BK1156,2025-06-06,2,Suite,Travel Agent,Business,4,8692.0,No
+BK1209,2025-03-26,4,Deluxe,OTA,Leisure,73,5176.0,No
+BK1492,2025-05-24,3,Deluxe,Direct Website,Leisure,27,5419.0,No
+BK1752,2025-08-22,2,Deluxe,Direct Website,Leisure,13,6450.0,No
+BK1511,2025-04-15,3,Standard,OTA,Business,40,3255.0,Yes
+BK2039,2025-09-12,1,Standard,OTA,Leisure,58,,No
+BK1179,2025-01-29,7,Standard,Travel Agent,Leisure,41,4382.0,No
+BK1592,2025-03-01,1,Standard,Direct Website,Business,27,3696.0,No
+BK1739,2025-11-25,3,Standard,OTA,Business,6,4341.0,Yes
+BK1134,2025-03-18,1,Standard,Travel Agent,Business,57,3221.0,Yes
+BK1001,2025-05-05,6,Suite,Direct Website,Leisure,53,9787.0,No
+BK1312,2025-08-06,1,Standard,Walk-in,Leisure,0,3733.0,No
+BK1109,2025-06-10,3,Deluxe,Direct Website,Leisure,41,5050.0,Yes
+BK1160,2025-05-22,1,Deluxe,Travel Agent,Business,71,5531.0,Yes
+BK1644,2025-05-28,3,Deluxe,Direct Website,Leisure,28,4935.0,No
+BK1557,2025-06-15,4,Standard,Direct Website,Leisure,9,3440.0,No
+BK1376,2025-10-21,1,Standard,Direct Website,Business,37,4422.0,Yes
+BK1205,2025-09-14,1,Deluxe,Corporate,Business,25,4858.0,No
+BK2096,2025-03-30,3,Deluxe,Direct Website,Business,24,6422.0,No
+BK1288,2025-07-30,6,Deluxe,OTA,Leisure,51,4824.0,Yes
+BK1056,2025-02-18,6,Standard,Direct Website,Leisure,7,3393.0,No
+BK1172,2025-06-09,1,Standard,OTA,Business,60,3302.0,No
+BK1384,2025-06-18,4,Standard,OTA,Leisure,38,3316.0,Yes
+BK1600,2025-07-02,7,Deluxe,OTA,Leisure,36,5495.0,No
+BK2057,2025-05-20,6,Deluxe,OTA,Leisure,30,4623.0,Yes
+BK1231,2025-07-29,5,Deluxe,Corporate,Leisure,38,5594.0,No
+BK2077,2025-01-12,2,Standard,Direct Website,Business,55,4503.0,No
+BK2083,2025-01-23,2,Deluxe,Direct Website,Business,16,6689.0,No
+BK1715,2025-08-14,4,Deluxe,Direct Website,Leisure,24,14963.0,No
+BK2033,2025-02-10,3,Suite,OTA,Leisure,54,10025.0,No
+BK1826,2025-10-08,3,Deluxe,Corporate,Business,41,6579.0,No
+BK1310,2025-11-29,1,Standard,OTA,Business,47,5137.0,Yes
+BK1077,2025-01-14,5,Deluxe,Travel Agent,Leisure,7,6366.0,No
+BK2020,2025-11-19,4,Deluxe,Direct Website,Leisure,53,7143.0,Yes
+BK1978,2025-02-02,1,Standard,OTA,Business,27,4127.0,No
+BK1236,2025-05-25,7,Standard,Corporate,Leisure,,3313.0,No
+BK1426,2025-05-24,2,Deluxe,Direct Website,Business,,,No
+BK1620,2025-01-27,7,Standard,OTA,Leisure,15,4154.0,No
+BK2173,2025-11-08,3,Deluxe,OTA,Business,15,6914.0,No
+BK1812,2025-06-03,1,Standard,OTA,Leisure,21,3399.0,Yes
+BK1932,2025-11-26,6,Standard,Direct Website,Leisure,38,3909.0,No
+BK2018,2025-06-29,2,Deluxe,Walk-in,Leisure,0,4513.0,No
+BK1175,2025-02-04,4,Standard,Direct Website,Leisure,6,3459.0,No
+BK1982,2025-09-22,1,Suite,Direct Website,Business,28,9708.0,Yes
+BK1928,2025-07-22,3,Deluxe,OTA,Business,,5900.0,No
+BK1625,2025-07-16,3,Standard,Direct Website,Business,16,3093.0,No
+BK1788,2025-06-18,5,Deluxe,Travel Agent,Leisure,23,4747.0,No
+BK1456,2025-10-10,7,Deluxe,Corporate,Leisure,112,,No
+BK1696,2025-11-16,3,Deluxe,Direct Website,Business,11,7599.0,No
+BK2079,2025-05-03,2,Standard,Direct Website,Leisure,32,3159.0,No
+BK1526,2025-09-06,5,Standard,Corporate,Leisure,36,3380.0,No
+BK2180,2025-11-02,5,Deluxe,Direct Website,Leisure,16,6790.0,No
+BK1317,2025-03-27,4,Standard,Corporate,Leisure,32,3419.0,No
+BK1672,2025-10-31,3,Deluxe,OTA,Business,63,7038.0,Yes
+BK1608,2025-12-01,1,Standard,OTA,Leisure,83,3834.0,No
+BK1929,2025-02-18,1,Deluxe,Direct Website,Business,31,5574.0,No
+BK1152,2025-08-28,1,Standard,Direct Website,Leisure,33,3480.0,No
+BK1046,2025-09-30,1,Deluxe,Direct Website,Leisure,39,4817.0,No
+BK2034,2025-03-21,1,Deluxe,OTA,Business,17,,No
+BK2104,2025-03-01,1,Standard,Direct Website,Business,40,3244.0,No
+BK1590,2025-11-02,4,Standard,OTA,Leisure,67,3946.0,No
+BK1863,2025-03-16,3,Standard,Travel Agent,Business,31,3442.0,Yes
+BK1347,2025-05-15,3,Deluxe,OTA,Business,35,,No
+BK2027,2025-02-16,2,Deluxe,Direct Website,Leisure,44,5026.0,No
+BK2102,2025-09-10,1,Deluxe,OTA,Leisure,38,5730.0,No
+BK1240,2025-11-08,2,Suite,Direct Website,Leisure,8,,No
+BK1621,2025-08-08,1,Standard,OTA,Leisure,39,3279.0,No
+BK1505,2025-05-09,5,Standard,Direct Website,Leisure,33,3058.0,No
+BK1639,2025-07-04,4,Suite,Direct Website,Leisure,16,9205.0,No
+BK2091,2025-03-05,2,Standard,Corporate,Leisure,8,3548.0,No
+BK1062,2025-01-18,1,Suite,OTA,Leisure,9,11892.0,No
+BK2055,2025-10-11,1,Standard,OTA,Business,,3780.0,Yes
+BK2092,2025-08-12,3,Deluxe,OTA,Business,16,5332.0,Yes
+BK1291,2025-08-16,1,Standard,Direct Website,Business,80,4272.0,No
+BK2043,2025-11-12,1,Deluxe,OTA,Leisure,14,6726.0,No
+BK1871,2025-02-27,1,Deluxe,Walk-in,Business,0,5734.0,No
+BK2052,2025-09-25,1,Deluxe,Travel Agent,Leisure,47,6441.0,No
+BK1921,2025-11-01,2,Deluxe,OTA,Business,21,6848.0,No
+BK2133,2025-01-21,6,Deluxe,Direct Website,Leisure,3,6728.0,No
+BK1614,2025-10-15,1,Deluxe,Travel Agent,Leisure,34,7332.0,No
+BK1022,2025-07-04,3,Suite,OTA,Leisure,15,9208.0,No
+BK1848,2025-12-08,6,Deluxe,,Leisure,63,7493.0,No
+BK1597,2025-09-09,1,Deluxe,Walk-in,Business,0,5257.0,No
+BK1543,2025-09-24,1,Suite,Direct Website,Business,8,8859.0,No
+BK1480,2025-12-16,3,Deluxe,Direct Website,Leisure,101,6894.0,No
+BK1188,2025-04-16,7,Deluxe,Travel Agent,Leisure,49,4100.0,No
+BK2113,2025-04-09,4,Deluxe,Direct Website,Leisure,14,5529.0,No
+BK1816,2025-03-05,3,Standard,OTA,Business,15,3565.0,Yes
+BK1564,2025-03-06,2,Deluxe,Corporate,Business,46,5737.0,Yes
+BK2048,2025-11-09,2,Standard,Travel Agent,Business,31,4125.0,No
+BK2137,2025-03-24,4,Deluxe,Direct Website,Leisure,12,6318.0,No
+BK1519,2025-08-12,5,Suite,OTA,Leisure,36,9059.0,Yes
+BK1258,2025-01-08,3,Standard,Travel Agent,Business,30,5395.0,No
+BK1227,2025-07-05,3,Standard,OTA,Leisure,59,3564.0,No
+BK1316,2025-02-09,2,Deluxe,Walk-in,Leisure,0,4868.0,No
+BK1606,2025-05-28,1,Deluxe,OTA,Leisure,72,5225.0,No
+BK1107,2025-07-20,6,Suite,Direct Website,Leisure,79,8193.0,No
+BK2116,2025-02-03,3,Suite,Travel Agent,Business,88,10651.0,No
+BK1846,2025-10-18,2,Standard,OTA,Business,73,4658.0,No
+BK1427,2025-07-19,4,Deluxe,Corporate,Leisure,64,,No
+BK1085,2025-09-21,6,Deluxe,OTA,Leisure,36,5557.0,Yes
+BK1957,2025-02-04,2,Deluxe,OTA,Leisure,24,5757.0,No
+BK1537,2025-11-20,3,Standard,OTA,Business,98,4218.0,Yes
+BK1030,2025-12-28,2,Standard,Direct Website,Business,101,4872.0,No
+BK1010,2025-11-26,5,Standard,OTA,Leisure,33,4404.0,No
+BK1438,2025-12-18,4,Suite,Travel Agent,Leisure,73,13488.0,No
+BK1342,2025-07-20,2,Standard,Direct Website,Leisure,19,3391.0,No
+BK1944,2025-06-29,7,Deluxe,Travel Agent,Leisure,52,5139.0,No
+BK1458,2025-05-28,2,Deluxe,Walk-in,Business,0,4857.0,No
+BK1893,2025-04-12,1,Standard,Direct Website,Leisure,11,2870.0,No
+BK1125,2025-10-22,6,Standard,Travel Agent,Leisure,,3665.0,No
+BK1257,2025-12-20,3,Standard,OTA,Leisure,94,4083.0,Yes
+BK2161,2025-04-20,3,Standard,OTA,Leisure,35,3039.0,No
+BK1542,2025-06-24,3,Deluxe,OTA,Business,93,4955.0,No
+BK1313,2025-03-17,3,Deluxe,Direct Website,Business,30,5603.0,Yes
+BK1883,2025-06-04,6,Standard,OTA,Leisure,30,3273.0,No
+BK1716,2025-02-14,7,Standard,OTA,Leisure,16,3242.0,No
+BK1004,2025-06-08,3,Standard,OTA,Leisure,73,3137.0,No
+BK1719,2025-11-05,1,Standard,OTA,Business,31,4370.0,Yes
+BK1198,2025-08-29,7,Suite,Corporate,Leisure,59,10194.0,Yes
+BK1409,2025-02-14,3,Standard,Direct Website,Business,33,3608.0,No
+BK1174,2025-09-02,3,Suite,Direct Website,Leisure,27,8765.0,No
+BK2022,2025-03-20,2,Standard,Direct Website,Leisure,25,2923.0,No
+BK2012,2025-06-15,2,Deluxe,OTA,Business,8,5688.0,Yes
+BK1202,2025-05-07,2,Standard,OTA,Business,13,3126.0,No
+BK1177,2025-01-15,2,Deluxe,Corporate,Business,63,,No
+BK1275,2025-07-13,7,Deluxe,OTA,Leisure,24,5381.0,Yes
+BK1580,2025-05-15,1,Deluxe,Travel Agent,Leisure,14,5463.0,No
+BK1412,2025-08-19,2,Deluxe,OTA,Business,66,4949.0,No
+BK1013,2025-08-11,4,Standard,Direct Website,Leisure,74,3992.0,No
+BK1483,2025-07-18,3,Standard,Corporate,Leisure,4,4398.0,No
+BK2171,2025-01-31,2,Deluxe,Direct Website,Business,30,6552.0,No
+BK1809,2025-06-09,3,Deluxe,Corporate,Business,24,5381.0,No
+BK1538,2025-12-17,6,Standard,OTA,Leisure,67,4506.0,Yes
+BK1117,2025-08-27,2,Standard,OTA,Business,34,3892.0,No
+BK1536,2025-01-04,3,Deluxe,OTA,Business,,7485.0,No
+BK1163,2025-01-18,1,Standard,Direct Website,Leisure,50,4937.0,No
+BK1111,2025-07-24,4,Deluxe,Travel Agent,Leisure,44,5692.0,No
+BK1344,2025-08-18,1,Suite,Direct Website,Leisure,7,10154.0,No
+BK1940,2025-10-03,3,Deluxe,OTA,Business,40,6826.0,No
+BK1482,2025-07-16,2,Standard,Direct Website,Business,45,3334.0,No
+BK2066,2025-06-29,2,Suite,Direct Website,Business,25,7905.0,Yes
+BK1130,2025-07-19,1,Standard,OTA,Leisure,9,3235.0,Yes
+BK2124,2025-07-08,3,Suite,OTA,Business,41,10702.0,Yes
+BK2038,2025-05-10,5,Suite,Direct Website,Leisure,29,8650.0,Yes
+BK1338,2025-05-30,7,Standard,Corporate,Leisure,6,2901.0,No
+BK2046,2025-03-18,1,Standard,Direct Website,Business,31,3261.0,No
+BK1072,2025-03-30,5,Standard,OTA,Leisure,11,3763.0,No
+BK1135,2025-10-29,3,Standard,OTA,Business,26,4348.0,Yes
+BK2111,2025-04-09,5,Deluxe,OTA,Leisure,59,4478.0,No
+BK1515,2025-01-21,2,Standard,OTA,Business,17,4802.0,Yes
+BK2130,2025-05-11,1,Standard,OTA,Business,36,3386.0,Yes
+BK1790,2025-11-08,2,Standard,OTA,Leisure,26,4501.0,No
+BK1012,2025-02-02,7,Standard,Direct Website,Leisure,44,3411.0,No
+BK1447,2025-10-21,4,Standard,Corporate,Leisure,39,3851.0,No
+BK1633,2025-08-21,4,Standard,Corporate,Leisure,29,3783.0,No
+BK1208,2025-11-20,4,Standard,OTA,Leisure,28,4095.0,No
+BK1994,2025-12-09,4,Standard,Travel Agent,Leisure,100,4427.0,No
+BK1576,2025-04-23,3,Standard,Travel Agent,Leisure,28,3579.0,No
+BK1565,2025-03-28,6,Deluxe,Corporate,Leisure,8,5511.0,No
+BK2103,2025-01-19,1,Suite,Direct Website,Leisure,26,13594.0,No
+BK1941,2025-09-03,3,Standard,Direct Website,Leisure,29,3318.0,No
+BK1340,2025-01-06,2,Standard,Corporate,Business,26,4051.0,No
+BK1346,2025-07-30,3,Deluxe,Walk-in,Business,0,5826.0,No
+BK2058,2025-07-01,2,Deluxe,OTA,Business,,,No
+BK1304,2025-10-11,2,Standard,Corporate,Business,28,4292.0,Yes
+BK1036,2025-03-01,2,Deluxe,Travel Agent,Business,23,5191.0,No
+BK1042,2025-12-19,2,Deluxe,Direct Website,Business,16,7123.0,No
+BK1968,2025-03-05,2,Standard,OTA,Business,53,3416.0,Yes
+BK2105,2025-01-21,2,Deluxe,OTA,Business,23,7888.0,No
+BK1765,2025-07-15,2,Standard,OTA,Business,78,3322.0,No
+BK2170,2025-12-28,2,Suite,OTA,Business,30,10236.0,No
+BK1459,2025-02-27,3,Deluxe,Direct Website,Business,30,5545.0,No
+BK1423,2025-04-19,6,Deluxe,Corporate,Leisure,10,5129.0,No
+BK1636,2025-03-20,2,Deluxe,Corporate,Business,40,5481.0,No
+BK1801,2025-01-06,2,Standard,Walk-in,Business,0,4052.0,No
+BK1294,2025-11-13,3,Standard,OTA,Business,15,3521.0,No
+BK1585,2025-07-22,2,Deluxe,Travel Agent,Business,19,5711.0,No
+BK1026,2025-07-20,2,Standard,Travel Agent,Leisure,16,3803.0,No
+BK2049,2025-11-13,2,Standard,OTA,Business,41,3871.0,No
+BK1694,2025-08-14,1,Suite,OTA,Business,24,9232.0,No
+BK1854,2025-06-14,5,Deluxe,OTA,Leisure,95,5304.0,No
+BK1510,2025-07-05,3,Standard,Direct Website,Business,3,3890.0,No
+BK2190,2025-02-06,2,Deluxe,OTA,Business,49,5459.0,No
+BK1353,2025-10-28,3,Standard,Direct Website,Leisure,8,4414.0,No
+BK1618,2025-03-12,3,Standard,Corporate,Business,27,3068.0,No
+BK1055,2025-02-02,3,Deluxe,OTA,Business,29,5760.0,No
+BK1463,2025-10-06,2,Standard,Travel Agent,Business,34,4586.0,No
+BK1216,2025-11-13,6,Standard,Corporate,Leisure,8,4654.0,No
+BK2106,2025-01-30,3,Deluxe,OTA,Leisure,50,5750.0,No
+BK1040,2025-11-30,4,Deluxe,Direct Website,Leisure,35,7074.0,No
+BK1396,2025-02-11,1,Standard,Direct Website,Business,55,3229.0,No
+BK2179,2025-09-30,21,Standard,Direct Website,Leisure,,3533.0,No
+BK1818,2025-07-20,1,Standard,OTA,Leisure,55,,No
+BK1973,2025-07-17,2,Suite,OTA,Business,23,9487.0,Yes
+BK1962,2025-04-09,2,Suite,OTA,Business,22,8458.0,No
+BK2127,2025-10-12,3,Standard,OTA,Leisure,2,3970.0,No
+BK1178,2025-10-01,4,Standard,OTA,Leisure,6,4695.0,No
+BK1176,2025-07-28,5,Deluxe,Direct Website,Leisure,10,5465.0,No
+BK1507,2025-09-30,4,Standard,Travel Agent,Leisure,,3400.0,No
+BK1570,2025-08-04,4,Standard,OTA,Leisure,19,3435.0,Yes
+BK2067,2025-09-12,4,Deluxe,OTA,Leisure,27,4520.0,Yes
+BK1300,2025-04-25,3,Deluxe,Direct Website,Business,12,4619.0,No
+BK2151,2025-10-04,5,Standard,OTA,Leisure,31,4872.0,No
+BK1756,2025-04-07,6,Standard,Direct Website,Leisure,38,3245.0,No
+BK1853,2025-04-13,2,Deluxe,Walk-in,Leisure,0,5413.0,No
+BK1991,2025-11-08,1,Deluxe,Direct Website,Business,6,7156.0,No
+BK1967,2025-12-10,4,Standard,Corporate,Leisure,42,4144.0,No
+BK1518,2025-07-12,2,Suite,Corporate,Business,87,9273.0,No
+BK1738,2025-12-12,2,Deluxe,OTA,Leisure,12,6323.0,No
+BK1920,2025-07-27,2,Standard,OTA,Business,24,3177.0,No
+BK1768,2025-10-01,2,Standard,Direct Website,Business,74,3647.0,No
+BK1763,2025-12-14,6,Standard,OTA,Leisure,34,3895.0,No
+BK1029,2025-04-19,3,Standard,OTA,Business,26,2929.0,No
+BK1561,2025-09-20,3,Deluxe,Travel Agent,Business,35,5713.0,No
+BK2076,2025-02-23,3,Deluxe,,Leisure,31,5566.0,No
+BK2142,2025-07-16,1,Standard,OTA,Business,39,3082.0,No
+BK1710,2025-01-06,2,Standard,Direct Website,Leisure,31,4592.0,No
+BK1203,2025-01-02,1,Deluxe,OTA,Business,15,7571.0,No
+BK1444,2025-02-10,3,Deluxe,Direct Website,Leisure,74,5107.0,No
+BK1371,2025-06-28,3,Standard,Corporate,Business,35,3232.0,No
+BK1032,2025-01-01,1,Deluxe,OTA,Leisure,12,6463.0,No
+BK1878,2025-07-29,2,Standard,Travel Agent,Leisure,31,3490.0,Yes
+BK1334,2025-09-20,6,Deluxe,OTA,Leisure,22,4909.0,No
+BK1382,2025-09-01,2,Standard,OTA,Business,3,3320.0,No
+BK1794,2025-07-08,2,Deluxe,Walk-in,Business,0,6588.0,No
+BK1825,2025-11-27,2,Standard,Direct Website,Leisure,10,4138.0,No
+BK1372,2025-04-10,1,Standard,OTA,Business,59,3105.0,Yes
+BK1870,2025-07-04,1,Standard,OTA,Business,25,3187.0,No
+BK1721,2025-10-04,3,Standard,Direct Website,Leisure,8,4248.0,No
+BK1003,2025-04-19,3,Standard,Direct Website,Business,15,3072.0,No
+BK1669,2025-01-23,3,Suite,Travel Agent,Business,44,12675.0,Yes
+BK1642,2025-12-05,1,Suite,Direct Website,Business,36,12748.0,No
+BK1429,2025-04-14,1,Standard,OTA,Leisure,35,3344.0,No
+BK2010,2025-07-05,2,Standard,Direct Website,Leisure,38,3556.0,No
+BK2084,2025-01-16,2,Standard,Walk-in,Business,0,4256.0,No
+BK1445,2025-12-28,3,Standard,OTA,Business,40,3678.0,No
+BK1041,2025-03-31,2,Standard,OTA,Leisure,21,3775.0,No
+BK1222,2025-09-20,2,Standard,Direct Website,Business,34,3607.0,No
+BK2122,2025-11-13,2,Suite,Direct Website,Business,45,9430.0,Yes
+BK2144,2025-02-06,2,Deluxe,Corporate,Leisure,5,5665.0,Yes
+BK1860,2025-02-15,5,Standard,Travel Agent,Leisure,11,3104.0,No
+BK1113,2025-10-26,2,Deluxe,OTA,Business,13,6581.0,No
+BK1048,2025-06-06,4,Deluxe,Direct Website,Leisure,12,4651.0,No
+BK1289,2025-02-18,2,Standard,Direct Website,Business,78,10596.0,No
+BK1076,2025-09-19,2,Standard,Direct Website,Leisure,37,3608.0,No
+BK1206,2025-05-07,5,Deluxe,Direct Website,Leisure,6,5342.0,No
+BK1983,2025-10-05,2,Standard,Travel Agent,Leisure,24,3887.0,No
+BK1123,2025-11-05,1,Standard,Direct Website,Business,20,4417.0,No
+BK2053,2025-03-18,2,Deluxe,Corporate,Business,11,5078.0,No
+BK1386,2025-05-16,5,Deluxe,Corporate,Leisure,32,4506.0,No
+BK1225,2025-01-24,3,Deluxe,OTA,Business,54,8142.0,Yes
+BK2169,2025-10-12,7,Deluxe,OTA,Leisure,13,6864.0,Yes
+BK1632,2025-01-02,6,Deluxe,OTA,Leisure,104,6352.0,No
+BK1971,2025-12-03,1,Standard,Direct Website,Leisure,124,4035.0,No
+BK1221,2025-04-20,3,Deluxe,Direct Website,Business,29,5128.0,No
+BK2101,2025-08-27,2,Suite,Corporate,Business,52,10060.0,No
+BK2115,2025-05-09,1,Standard,Corporate,Business,92,3463.0,No
+BK1617,2025-01-04,5,Suite,Direct Website,Leisure,25,11040.0,No
+BK1773,2025-10-03,3,Standard,OTA,Leisure,45,4523.0,No
+BK1705,2025-02-22,3,Standard,Travel Agent,Leisure,115,3414.0,No
+BK2150,2025-12-17,1,Deluxe,Travel Agent,Business,2,,Yes
+BK1161,2025-09-11,6,Standard,OTA,Leisure,24,3610.0,No
+BK1673,2025-05-01,1,Standard,OTA,Leisure,13,2904.0,Yes
+BK1408,2025-04-22,2,Deluxe,OTA,Business,6,5584.0,No
+BK1629,2025-06-06,4,Deluxe,OTA,Leisure,19,5210.0,Yes
+BK1927,2025-03-01,3,Standard,Walk-in,Business,0,2874.0,No
+BK1325,2025-11-01,4,Suite,Travel Agent,Leisure,31,10640.0,No
+BK1823,2025-02-05,1,Suite,Direct Website,Business,34,9829.0,No
+BK1965,2025-10-03,2,Standard,Direct Website,Business,2,3108.0,No
+BK1671,2025-10-26,3,Standard,Direct Website,Leisure,11,4726.0,No
+BK1997,2025-12-02,1,Standard,Direct Website,Business,40,4436.0,No
+BK1646,2025-10-29,2,Standard,OTA,Business,7,4360.0,No
+BK1667,2025-08-17,2,Standard,Travel Agent,Business,29,10955.0,No
+BK1139,2025-07-07,2,Deluxe,Travel Agent,Business,10,5370.0,No
+BK1787,2025-02-07,3,Standard,Direct Website,Leisure,44,3966.0,No
+BK1707,2025-12-12,6,Deluxe,Travel Agent,Leisure,,6849.0,No
+BK1572,2025-10-20,2,Standard,Walk-in,Business,0,4366.0,No
+BK1352,2025-09-19,6,Deluxe,Direct Website,Leisure,33,4839.0,Yes
+BK2121,2025-03-05,6,Standard,Corporate,Leisure,47,3813.0,No
+BK1165,2025-05-08,3,Suite,Travel Agent,Leisure,15,7947.0,No
+BK1214,2025-05-01,2,Standard,OTA,Leisure,9,3077.0,No
+BK1747,2025-02-02,1,Suite,Walk-in,Business,0,,No
+BK1297,2025-09-02,3,Standard,OTA,Business,43,3378.0,Yes
+BK1394,2025-10-11,4,Standard,Travel Agent,Leisure,92,,No
+BK1131,2025-06-24,7,Suite,Travel Agent,Leisure,77,,No
+BK1314,2025-12-15,3,Standard,OTA,Leisure,11,4083.0,Yes
+BK1138,2025-08-14,2,Suite,OTA,Business,14,9411.0,No
+BK1900,2025-04-20,5,Deluxe,Corporate,Leisure,9,,No
+BK1341,2025-11-07,7,Standard,OTA,Leisure,26,5333.0,Yes
+BK1416,2025-12-06,1,Standard,Travel Agent,Leisure,35,4365.0,No
+BK2172,2025-01-26,1,Standard,OTA,Leisure,93,4159.0,No
+BK1038,2025-10-25,2,Standard,OTA,Leisure,6,3542.0,Yes
+BK1249,2025-02-28,2,Deluxe,Direct Website,Business,84,5061.0,No
+BK2047,2025-05-28,3,Deluxe,OTA,Business,56,4829.0,No
+BK1053,2025-09-19,5,Standard,OTA,Leisure,59,3646.0,Yes
+BK1706,2025-05-31,3,Standard,OTA,Leisure,48,2953.0,No
+BK1136,2025-06-24,3,Standard,OTA,Business,6,2912.0,No
+BK1946,2025-06-18,7,Suite,OTA,Leisure,22,8640.0,No
+BK1964,2025-09-15,3,Suite,Direct Website,Business,59,8756.0,No
+BK1035,2025-10-15,1,Standard,Direct Website,Business,31,4455.0,No
+BK1781,2025-01-26,2,Standard,Corporate,Leisure,23,3931.0,No
+BK1657,2025-05-13,3,Deluxe,OTA,Business,63,4987.0,No
+BK1378,2025-04-02,1,Deluxe,Travel Agent,Business,30,4788.0,No
+BK1923,2025-10-15,1,Standard,Travel Agent,Leisure,11,,No
+BK1578,2025-06-10,15,Deluxe,Corporate,Leisure,65,,Yes
+BK1814,2025-09-04,3,Deluxe,Corporate,Business,34,5580.0,No
+BK1748,2025-02-11,1,Deluxe,Direct Website,Leisure,9,5997.0,No
+BK2182,2025-01-24,3,Deluxe,OTA,Business,26,7074.0,Yes
+BK1052,2025-06-13,7,Standard,OTA,Leisure,,3158.0,No
+BK1377,2025-01-29,5,Standard,Travel Agent,Leisure,53,4278.0,No
+BK1210,2025-07-25,3,Standard,Direct Website,Leisure,24,3566.0,No
+BK1911,2025-09-09,1,Standard,OTA,Leisure,18,3613.0,No
+BK1302,2025-07-24,3,Standard,Direct Website,Leisure,77,3623.0,No
+BK1246,2025-07-05,3,Standard,Direct Website,Business,24,4143.0,Yes
+BK2187,2025-09-11,1,Deluxe,Direct Website,Leisure,28,5778.0,No
+BK1425,2025-01-28,5,Standard,Direct Website,Leisure,43,4531.0,Yes
+BK1845,2025-06-27,1,Standard,OTA,Business,55,3311.0,No
+BK1028,2025-12-30,6,Suite,OTA,Leisure,31,11322.0,No
+BK1889,2025-06-06,2,Deluxe,Direct Website,Business,19,4834.0,No
+BK1930,2025-06-18,7,Standard,OTA,Leisure,50,3512.0,No
+BK1244,2025-03-07,1,Deluxe,Direct Website,Business,46,4765.0,No
+BK1103,2025-12-24,1,Standard,OTA,Leisure,19,4291.0,No
+BK1276,2025-04-09,3,Standard,Direct Website,Business,66,2934.0,No
+BK1393,2025-05-01,7,Standard,OTA,Leisure,35,2989.0,No
+BK1110,2025-09-03,2,Standard,Direct Website,Business,21,3654.0,Yes
+BK1796,2025-11-29,4,Standard,Corporate,Leisure,50,4314.0,Yes
+BK1159,2025-02-09,1,Deluxe,Direct Website,Business,35,5333.0,No
+BK1112,2025-08-29,5,Suite,Travel Agent,Leisure,30,9039.0,No
+BK1807,2025-01-14,2,Standard,OTA,Business,27,4724.0,No
+BK1660,2025-02-02,4,Deluxe,OTA,Leisure,28,5129.0,No
+BK1811,2025-04-14,3,Deluxe,Direct Website,Leisure,15,4740.0,Yes
+BK1784,2025-12-24,1,Standard,Travel Agent,Leisure,11,4070.0,No
+BK1329,2025-03-23,7,Deluxe,Walk-in,Leisure,0,5984.0,No
+BK1262,2025-05-29,3,Standard,Direct Website,Business,37,3113.0,Yes
+BK1735,2025-04-11,3,Deluxe,Corporate,Leisure,18,5167.0,No
+BK1133,2025-12-02,3,Deluxe,OTA,Leisure,69,7774.0,No
+BK1637,2025-03-08,3,Standard,OTA,Business,14,3570.0,No
+BK1685,2025-05-16,1,Standard,Walk-in,Leisure,0,3022.0,No
+BK1936,2025-10-23,3,Deluxe,Walk-in,Business,,6554.0,No
+BK1167,2025-06-29,1,Standard,Travel Agent,Business,49,2759.0,Yes
+BK2119,2025-11-12,7,Deluxe,OTA,Leisure,52,7631.0,Yes
+BK2041,2025-07-05,1,Standard,Direct Website,Business,64,3608.0,No
+BK1154,2025-05-20,5,Standard,Direct Website,Leisure,13,3418.0,No
+BK1050,2025-04-20,3,Suite,OTA,Leisure,58,7667.0,No
+BK1024,2025-08-20,3,Deluxe,,Leisure,25,6002.0,No
+BK2131,2025-07-29,1,Deluxe,Direct Website,Leisure,7,5646.0,No
+BK1443,2025-09-23,1,Standard,OTA,Leisure,13,3627.0,No
+BK1755,2025-04-09,2,Standard,Direct Website,Business,5,3144.0,No
+BK2014,2025-11-03,4,Deluxe,OTA,Leisure,51,6893.0,No
+BK1150,2025-09-09,5,Standard,Direct Website,Leisure,18,,No
+BK1553,2025-09-02,4,Standard,Travel Agent,Leisure,83,3511.0,No
+BK1094,2025-04-27,5,Deluxe,Corporate,Leisure,21,4976.0,No
+BK2145,2025-06-09,7,Deluxe,Direct Website,Leisure,24,4525.0,No
+BK1217,2025-07-22,2,Standard,Corporate,Leisure,24,3582.0,No
+BK1645,2025-08-25,7,Deluxe,Corporate,Leisure,87,4885.0,No
+BK1381,2025-04-30,5,Standard,OTA,Leisure,38,2997.0,No
+BK1023,2025-12-18,6,Deluxe,OTA,Leisure,17,7076.0,No
+BK1292,2025-08-26,3,Suite,Travel Agent,Business,69,8595.0,Yes
+BK1712,2025-05-01,1,Suite,OTA,Leisure,50,8653.0,No
+BK1173,2025-12-08,3,Deluxe,Corporate,Business,24,7755.0,No
+BK1100,2025-09-30,4,Standard,Direct Website,Leisure,19,3504.0,No
+BK1025,2025-01-14,1,Suite,OTA,Leisure,120,11168.0,No
+BK1603,2025-12-07,7,Suite,Direct Website,Leisure,10,12395.0,No
+BK1339,2025-09-30,2,Standard,Direct Website,Leisure,11,3596.0,No
+BK1783,2025-06-05,5,Standard,OTA,Leisure,37,3285.0,No
+BK1834,2025-02-27,1,Suite,OTA,Leisure,39,10012.0,Yes
+BK1952,2025-05-16,4,Deluxe,Travel Agent,Leisure,8,5343.0,Yes
+BK1489,2025-03-17,3,Deluxe,OTA,Business,8,4970.0,No
+BK1844,2025-06-07,2,Deluxe,Corporate,Leisure,10,4832.0,No
+BK1734,2025-06-30,2,Standard,OTA,Business,55,3254.0,No
+BK1916,2025-08-09,2,Deluxe,OTA,Business,17,5855.0,Yes
+BK1700,2025-06-24,3,Suite,Corporate,Leisure,27,8558.0,No
+BK1354,2025-02-18,2,Suite,Direct Website,Business,30,9225.0,No
+BK2061,2025-05-22,3,Deluxe,Travel Agent,Business,111,5033.0,No
+BK1750,2025-01-30,2,Suite,OTA,Business,45,12451.0,No
+BK1925,2025-06-16,1,Standard,Corporate,Business,29,3114.0,Yes
+BK1588,2025-07-15,7,Deluxe,Direct Website,Leisure,11,5078.0,No
+BK1242,2025-08-23,4,Deluxe,OTA,Leisure,38,5634.0,Yes
+BK1168,2025-12-01,7,Standard,Travel Agent,Leisure,35,5100.0,No
+BK1073,2025-05-10,2,Standard,Corporate,Business,52,3700.0,No
+BK1559,2025-09-01,7,Deluxe,Direct Website,Leisure,20,5507.0,No
+BK2054,2025-06-04,1,Standard,Corporate,Business,10,3041.0,No
+BK2198,2025-02-16,4,Suite,OTA,Leisure,36,10564.0,Yes
+BK1118,2025-09-05,3,Standard,OTA,Business,81,3518.0,Yes
+BK1782,2025-02-26,1,Deluxe,OTA,Business,115,5567.0,No
+BK1114,2025-08-10,7,Deluxe,OTA,Leisure,18,5857.0,No
+BK1520,2025-03-30,7,Standard,OTA,Leisure,4,3274.0,No
+BK2042,2025-03-29,2,Standard,Walk-in,Leisure,0,3615.0,No
+BK1005,2025-12-20,1,Suite,OTA,Business,44,11861.0,No
+BK1475,2025-06-17,3,Standard,OTA,Business,54,3481.0,Yes
+BK1190,2025-06-10,1,Deluxe,Travel Agent,Business,34,5006.0,Yes
+BK1839,2025-03-16,2,Standard,Direct Website,Business,16,3297.0,Yes
+BK1069,2025-03-18,2,Standard,Direct Website,Business,24,3609.0,No
+BK1014,2025-05-20,7,Deluxe,OTA,Leisure,35,5172.0,No
+BK1480,2025-12-16,3,Deluxe,Direct Website,Leisure,101,6894.0,No
+BK1885,2025-12-01,2,Suite,OTA,Leisure,27,12291.0,Yes
+BK1369,2025-02-03,3,Deluxe,OTA,Business,97,4983.0,Yes
+BK1078,2025-03-19,3,Deluxe,OTA,Business,19,5367.0,Yes
+BK2146,2025-06-21,2,Deluxe,Direct Website,Business,78,5133.0,No
+BK1874,2025-03-11,4,Deluxe,Direct Website,Leisure,6,5831.0,No
+BK1479,2025-05-26,1,Standard,Direct Website,Business,10,3135.0,No
+BK1516,2025-08-19,6,Deluxe,OTA,Leisure,13,5001.0,No
+BK2168,2025-05-06,4,Deluxe,Direct Website,Leisure,7,5631.0,No
+BK1652,2025-11-30,1,Standard,Travel Agent,Business,56,4064.0,No
+BK1054,2025-10-26,6,Deluxe,Corporate,Leisure,28,7150.0,No
+BK1467,2025-10-12,2,Deluxe,OTA,Leisure,78,7715.0,No
+BK1266,2025-10-20,6,Deluxe,Direct Website,Leisure,,7891.0,No
+BK2086,2025-07-02,7,Suite,Travel Agent,Leisure,14,10114.0,Yes
+BK1314,2025-12-15,3,Standard,OTA,Leisure,11,4083.0,Yes
+BK1583,2025-11-27,5,Standard,OTA,Leisure,29,4965.0,Yes
+BK1766,2025-10-27,1,Deluxe,Corporate,Business,85,6939.0,No
+BK1514,2025-11-09,1,Suite,Travel Agent,Leisure,20,11248.0,Yes
+BK1537,2025-11-20,3,Standard,OTA,Business,98,4218.0,Yes
+BK2154,2025-11-10,1,Standard,Corporate,Leisure,27,5088.0,No
+BK1728,2025-10-11,4,Standard,OTA,Leisure,32,4501.0,No
+BK1059,2025-02-12,3,Standard,OTA,Business,12,3781.0,Yes
+BK1503,2025-01-18,2,Suite,OTA,Business,56,11239.0,No
+BK1956,2025-06-25,3,Standard,Travel Agent,Leisure,39,3619.0,No
+BK1166,2025-07-22,1,Deluxe,Travel Agent,Leisure,47,5722.0,No
+BK1996,2025-10-29,2,Suite,Direct Website,Business,41,12179.0,No
+BK1951,2025-02-20,5,Suite,OTA,Leisure,51,9242.0,Yes
+BK1331,2025-06-20,3,Standard,OTA,Business,27,3257.0,No
+BK2135,2025-03-24,4,Standard,OTA,Leisure,8,3277.0,No
+BK1500,2025-11-14,1,Suite,Direct Website,Business,48,12850.0,No
+BK1247,2025-10-04,3,Deluxe,OTA,Business,16,6864.0,No
+BK1373,2025-04-08,1,Suite,OTA,Leisure,19,8936.0,No
+BK1903,2025-06-13,6,Standard,Corporate,Leisure,30,3157.0,No
+BK1472,2025-06-15,1,Standard,Corporate,Leisure,49,3468.0,No
+BK1499,2025-11-16,4,Standard,Direct Website,Leisure,41,5069.0,No
+BK2062,2025-11-15,1,Suite,OTA,Leisure,40,11744.0,No
+BK2134,2025-03-10,1,Deluxe,OTA,Business,51,5488.0,No
+BK1636,2025-03-20,2,Deluxe,Corporate,Business,40,5481.0,No
+BK1616,2025-07-01,3,Suite,Travel Agent,Business,33,8584.0,No
+BK1563,2025-11-21,3,Deluxe,Corporate,Business,4,6937.0,No
+BK1135,2025-10-29,3,Standard,OTA,Business,26,4348.0,Yes
+BK1307,2025-09-16,3,Standard,Travel Agent,Leisure,39,3317.0,No
+BK1560,2025-02-10,2,Deluxe,OTA,Business,49,4994.0,No
+BK1859,2025-06-15,3,Standard,OTA,Leisure,44,2930.0,Yes
+BK1720,2025-09-30,2,Standard,OTA,Leisure,48,3885.0,No
+BK1566,2025-04-22,1,Standard,OTA,Leisure,16,3539.0,No
+BK1501,2025-04-25,2,Standard,OTA,Leisure,14,3491.0,No
+BK1998,2025-10-10,3,Suite,Travel Agent,Business,1,12122.0,No
+BK1234,2025-11-15,1,Standard,Direct Website,Business,34,4045.0,No
+BK1626,2025-09-22,5,Suite,Direct Website,Leisure,14,9673.0,No
+BK2031,2025-08-18,4,Standard,Direct Website,Leisure,32,3479.0,No
+BK1430,2025-07-12,3,Standard,Corporate,Business,78,3562.0,No
+BK2114,2025-06-02,1,Suite,OTA,Business,41,9599.0,Yes
+BK1899,2025-05-08,3,Standard,Direct Website,Leisure,8,3258.0,No
+BK1191,2025-03-11,6,Deluxe,OTA,Leisure,,5453.0,Yes
+BK1880,2025-03-27,1,Deluxe,Corporate,Leisure,62,5241.0,No
+BK1151,2025-01-04,1,Suite,Direct Website,Business,60,11800.0,No
+BK1691,2025-11-07,1,Standard,Direct Website,Business,32,4757.0,Yes
+BK1435,2025-07-21,3,Standard,Direct Website,Business,8,3758.0,No
+BK1836,2025-01-08,7,Deluxe,Direct Website,Leisure,70,,Yes
+BK1666,2025-06-03,4,Standard,Travel Agent,Leisure,32,3159.0,No
+BK1256,2025-02-01,7,Standard,Travel Agent,Leisure,21,3694.0,Yes
+BK2033,2025-02-10,3,Suite,OTA,Leisure,54,10025.0,No
+BK1278,2025-08-27,5,Standard,Direct Website,Leisure,30,3171.0,No
+BK1960,2025-10-05,2,Deluxe,Direct Website,Business,50,6224.0,No
+BK1184,2025-12-24,2,Standard,Travel Agent,Business,8,4343.0,No
+BK1687,2025-08-04,3,Standard,OTA,Business,10,3191.0,No
+BK1541,2025-04-10,6,Standard,Direct Website,Leisure,12,3107.0,No
+BK1638,2025-09-25,2,Standard,OTA,Business,13,3466.0,No
+BK1569,2025-11-25,7,Standard,OTA,Leisure,25,4065.0,Yes
+BK1582,2025-10-16,3,Standard,OTA,Business,37,4262.0,Yes
+BK1383,2025-11-28,3,Standard,OTA,Leisure,65,4382.0,No
+BK1145,2025-04-25,1,Standard,Travel Agent,Leisure,17,3554.0,No
+BK1336,2025-10-17,5,Standard,Direct Website,Leisure,40,4488.0,No
+BK2153,2025-06-20,3,Deluxe,OTA,Leisure,96,4941.0,Yes
+BK1533,2025-05-01,21,Standard,Direct Website,Business,31,3193.0,Yes
+BK1215,2025-12-16,4,Standard,Direct Website,Leisure,38,4414.0,No
+BK2065,2025-01-31,1,Standard,Direct Website,Business,33,4606.0,Yes
+BK2006,2025-07-04,3,Standard,Corporate,Business,28,3256.0,No
+BK1798,2025-03-27,5,Suite,Direct Website,Leisure,61,9433.0,Yes
+BK1954,2025-09-01,6,Suite,Travel Agent,Leisure,6,9309.0,No
+BK1742,2025-04-16,6,Deluxe,OTA,Leisure,9,4823.0,Yes
+BK1196,2025-02-11,6,Deluxe,OTA,Leisure,48,5721.0,No
+BK2146,2025-06-21,2,Deluxe,Direct Website,Business,78,5133.0,No
+BK1778,2025-05-25,4,Standard,OTA,Leisure,81,2869.0,No
+BK1495,2025-05-30,4,Standard,OTA,Leisure,29,2931.0,No
+BK1591,2025-04-01,7,Standard,Walk-in,Leisure,0,3219.0,Yes
+BK1017,2025-09-05,4,Standard,Corporate,Leisure,48,3547.0,No
+BK1713,2025-09-16,1,Standard,Travel Agent,Business,11,3929.0,No
+BK1380,2025-07-10,5,Deluxe,Travel Agent,Leisure,42,12250.0,No
+BK1027,2025-12-18,3,Deluxe,OTA,Business,23,6694.0,No
+BK1277,2025-06-23,7,Standard,OTA,Leisure,17,2992.0,No
+BK1789,2025-05-04,1,Deluxe,Corporate,Leisure,47,4970.0,No
+BK1631,2025-11-08,1,Deluxe,OTA,Business,35,8223.0,No
+BK1395,2025-11-07,1,Standard,Travel Agent,Leisure,24,4883.0,No
+BK1866,2025-06-10,7,Standard,Direct Website,Leisure,37,2892.0,No
+BK1228,2025-02-01,5,Standard,Direct Website,Leisure,26,3597.0,No
+BK1862,2025-10-13,3,Deluxe,Corporate,Business,8,6979.0,Yes
+BK1320,2025-08-21,1,Standard,OTA,Business,16,3865.0,No
+BK1681,2025-05-14,1,Standard,Direct Website,Leisure,12,2743.0,No
+BK1147,2025-03-08,7,Suite,OTA,Leisure,35,8314.0,Yes
+BK1797,2025-03-04,1,Deluxe,OTA,Leisure,63,6382.0,Yes
+BK1726,2025-03-29,7,Deluxe,OTA,Leisure,24,5418.0,No
+BK1623,2025-09-03,4,Deluxe,OTA,Leisure,,5417.0,No
+BK1238,2025-04-26,1,Deluxe,Walk-in,Business,0,5084.0,No
+BK1494,2025-05-29,3,Standard,Walk-in,Business,0,3140.0,No
+BK1910,2025-09-27,4,Deluxe,OTA,Leisure,20,5768.0,Yes
+BK1598,2025-06-28,6,Deluxe,Direct Website,Leisure,,5465.0,Yes
+BK1895,2025-10-04,3,Standard,Direct Website,Business,68,4426.0,No
+BK1449,2025-06-28,1,Standard,Direct Website,Business,36,3395.0,No
+BK2094,2025-08-17,5,Standard,Direct Website,Leisure,38,3276.0,No
+BK2028,2025-07-11,2,Standard,OTA,Leisure,14,3728.0,No
+BK1106,2025-03-27,4,Deluxe,OTA,Leisure,17,5025.0,No
+BK1350,2025-01-06,3,Standard,Direct Website,Business,18,4665.0,No
+BK1523,2025-03-13,1,Standard,OTA,Leisure,60,3444.0,No
+BK1650,2025-09-06,2,Standard,Walk-in,Business,0,3694.0,No
+BK1389,2025-07-30,3,Suite,OTA,Business,40,9519.0,Yes
+BK1448,2025-05-14,2,Standard,Travel Agent,Business,19,3184.0,No
+BK1093,2025-11-16,7,Deluxe,OTA,Leisure,33,6549.0,No
+BK1259,2025-10-10,5,Deluxe,Direct Website,Leisure,36,6203.0,No
+BK1554,2025-05-17,3,Standard,Direct Website,Business,67,3184.0,Yes
+BK1675,2025-10-28,6,Standard,OTA,Leisure,62,3736.0,Yes
+BK2155,2025-06-25,3,Deluxe,OTA,Leisure,11,5121.0,No
+BK1170,2025-06-05,3,Suite,Direct Website,Leisure,75,23155.0,No
+BK1254,2025-10-06,4,Standard,OTA,Leisure,38,4809.0,No
+BK1731,2025-08-21,2,Deluxe,Direct Website,Business,27,5797.0,Yes
+BK1977,2025-03-19,4,Deluxe,Direct Website,Leisure,18,5086.0,No
+BK1602,2025-11-17,2,Standard,Corporate,Leisure,38,4296.0,No
+BK1252,2025-07-28,5,Deluxe,OTA,Leisure,11,5294.0,No
+BK1306,2025-07-11,3,Deluxe,Direct Website,Leisure,,6090.0,No
+BK1547,2025-11-21,7,Standard,Direct Website,Leisure,50,4203.0,No
+BK1415,2025-11-28,1,Suite,Direct Website,Business,12,10451.0,No
+BK2194,2025-06-27,3,Suite,Direct Website,Leisure,14,8433.0,Yes
+BK2035,2025-03-30,3,Suite,Walk-in,Business,0,9290.0,No
+BK1428,2025-07-14,3,Suite,OTA,Leisure,12,9732.0,No
+BK1186,2025-08-05,2,Standard,Travel Agent,Leisure,34,3254.0,No
+BK1851,2025-11-09,2,Deluxe,Direct Website,Business,19,6533.0,No
+BK1815,2025-03-24,1,Deluxe,Walk-in,Leisure,0,5387.0,No
+BK1908,2025-10-13,3,Deluxe,OTA,Business,45,6775.0,No
+BK2006,2025-07-04,3,Standard,Corporate,Business,28,3256.0,No
+BK1269,2025-12-05,7,Standard,OTA,Leisure,27,4313.0,No
+BK1867,2025-07-28,3,Standard,Travel Agent,Leisure,43,3315.0,No
+BK1986,2025-02-04,2,Suite,OTA,Business,31,9950.0,Yes
+BK1699,2025-01-22,3,Suite,OTA,Leisure,16,12994.0,No
+BK1630,2025-03-09,2,Deluxe,Travel Agent,Business,50,5887.0,Yes
+BK1950,2025-08-29,6,Suite,Direct Website,Leisure,6,9415.0,No
+BK1162,2025-09-13,1,Deluxe,OTA,Business,19,5425.0,No
+BK1413,2025-11-24,2,Deluxe,Walk-in,Business,0,7815.0,No
+BK2118,2025-07-12,7,Deluxe,OTA,Leisure,32,5063.0,No
+BK1095,2025-01-21,2,Standard,OTA,Leisure,27,3226.0,No
+BK1098,2025-12-15,4,Deluxe,Direct Website,Leisure,38,7543.0,Yes
+BK1006,2025-01-15,6,Deluxe,OTA,Leisure,12,6767.0,No
+BK1876,2025-08-09,4,Deluxe,OTA,Leisure,23,15229.0,Yes
+BK1817,2025-06-18,2,Deluxe,Corporate,Leisure,36,4079.0,No
+BK1822,2025-05-02,2,Deluxe,Direct Website,Leisure,47,5157.0,No
+BK1207,2025-08-03,3,Suite,OTA,Leisure,49,8189.0,No
+BK1803,2025-12-08,1,Deluxe,Walk-in,Business,0,6412.0,Yes
+BK1686,2025-08-22,2,Standard,Corporate,Leisure,16,2717.0,No
+BK1872,2025-11-03,5,Deluxe,Direct Website,Leisure,14,6847.0,No
+BK1245,2025-11-01,2,Suite,Direct Website,Leisure,1,10980.0,No
+BK1611,2025-01-29,2,Suite,Direct Website,Leisure,26,12596.0,No
+BK1229,2025-11-30,4,Suite,Walk-in,Leisure,0,35867.0,No
+BK1264,2025-07-14,2,Deluxe,Travel Agent,Business,33,5812.0,No
+BK1906,2025-10-13,1,Standard,OTA,Business,11,3640.0,No
+BK1368,2025-03-18,2,Suite,Direct Website,Business,27,9539.0,No
+BK2005,2025-07-21,1,Standard,OTA,Business,18,2676.0,Yes
+BK1896,2025-05-18,5,Suite,Direct Website,Leisure,37,8500.0,No
+BK2136,2025-08-13,3,Standard,Direct Website,Business,27,3302.0,Yes
+BK1201,2025-03-15,1,Standard,Corporate,Business,55,3668.0,No
+BK1729,2025-09-30,5,Suite,Direct Website,Leisure,16,11478.0,No
+BK2163,2025-10-08,7,Deluxe,Direct Website,Leisure,84,7265.0,No
+BK1799,2025-10-26,1,Standard,OTA,Leisure,15,4305.0,No
+BK1865,2025-11-20,3,Standard,Travel Agent,Business,15,4657.0,No
+BK1403,2025-07-04,3,Standard,Direct Website,Business,,3445.0,No
+BK2040,2025-08-21,1,Standard,OTA,Business,14,3753.0,No
+BK1791,2025-03-14,6,Standard,Direct Website,Leisure,40,3694.0,No
+BK1610,2025-12-07,2,Standard,OTA,Business,24,4702.0,Yes
+BK1189,2025-08-11,3,Deluxe,OTA,Business,111,16551.0,Yes
+BK1886,2025-10-07,16,Standard,Travel Agent,Leisure,8,4104.0,No
+BK1332,2025-10-03,1,Standard,OTA,Leisure,42,3963.0,No
+BK1303,2025-02-12,1,Deluxe,OTA,Leisure,26,5764.0,Yes
+BK1260,2025-07-08,3,Deluxe,Walk-in,Business,0,5417.0,No
+BK1144,2025-01-05,3,Standard,OTA,Leisure,57,4036.0,Yes
+BK1828,2025-11-26,3,Standard,OTA,Business,29,4340.0,No
+BK1627,2025-10-27,3,Standard,Corporate,Business,43,,No
+BK1698,2025-08-04,2,Standard,OTA,Leisure,24,4174.0,No
+BK1283,2025-04-10,2,Deluxe,OTA,Business,27,4569.0,No
+BK1919,2025-10-28,5,Standard,Direct Website,Leisure,22,3935.0,No
+BK2128,2025-03-01,7,Deluxe,Corporate,Leisure,9,5820.0,No
+BK1937,2025-12-02,2,Deluxe,Direct Website,Business,13,6833.0,No
+BK1011,2025-01-04,2,Deluxe,Direct Website,Business,49,7495.0,No
+BK1008,2025-01-14,7,Suite,OTA,Leisure,51,11013.0,No
+BK1890,2025-08-18,4,Standard,OTA,Leisure,44,3249.0,No
+BK1594,2025-05-20,3,Deluxe,OTA,Leisure,25,5028.0,No
+BK1693,2025-02-18,1,Standard,Corporate,Business,64,3132.0,No
+BK1531,2025-11-21,1,Standard,Direct Website,Leisure,11,3939.0,No
+BK1894,2025-02-16,1,Deluxe,OTA,Business,,5147.0,Yes
+BK2193,2025-05-03,4,Standard,OTA,Leisure,40,3409.0,Yes
+BK1469,2025-07-21,4,Standard,OTA,Leisure,8,3788.0,No
+BK1127,2025-07-31,3,Standard,Direct Website,Business,70,3545.0,Yes
+BK1736,2025-09-27,2,Standard,OTA,Business,22,3896.0,No
+BK2044,2025-04-28,4,Standard,OTA,Leisure,41,3671.0,No
+BK1057,2025-07-14,1,Deluxe,Direct Website,Business,15,5721.0,No
+BK1955,2025-04-05,3,Deluxe,OTA,Leisure,2,4254.0,Yes
+BK1335,2025-09-09,3,Deluxe,Direct Website,Leisure,28,6296.0,Yes
+BK1033,2025-09-04,3,Deluxe,OTA,Business,18,5191.0,No
+BK1237,2025-01-05,3,Standard,OTA,Leisure,7,4796.0,Yes
+BK2178,2025-03-30,1,Standard,Direct Website,Business,63,3832.0,No
+BK1282,2025-03-20,3,Standard,Corporate,Leisure,23,3757.0,No
+BK1586,2025-07-24,2,Standard,Direct Website,Business,83,3730.0,No
+BK1934,2025-06-25,2,Standard,OTA,Business,18,2955.0,No
+BK1362,2025-02-10,7,Standard,Direct Website,Leisure,27,3182.0,No
+BK1243,2025-07-15,3,Deluxe,Direct Website,Business,22,5979.0,Yes
+BK1092,2025-07-02,2,Standard,OTA,Business,20,3680.0,Yes
+BK1337,2025-07-30,3,Deluxe,OTA,Business,18,6130.0,Yes
+BK2013,2025-02-19,1,Suite,OTA,Leisure,65,8075.0,No
+BK1947,2025-02-15,2,Deluxe,Travel Agent,Business,34,5862.0,No
+BK1190,2025-06-10,1,Deluxe,Travel Agent,Business,34,5006.0,Yes
+BK1039,2025-02-22,1,Suite,OTA,Business,47,10370.0,No
+BK1975,2025-03-31,3,Standard,Direct Website,Business,8,3660.0,No
+BK1634,2025-04-03,7,Deluxe,Direct Website,Leisure,33,4737.0,Yes
+BK1764,2025-06-10,7,Suite,Corporate,Leisure,18,7718.0,No
+BK1723,2025-05-01,6,Standard,OTA,Leisure,45,3056.0,Yes
+BK1063,2025-07-02,6,Standard,Direct Website,Leisure,32,2870.0,No
+BK1233,2025-10-15,3,Deluxe,Direct Website,Leisure,23,6592.0,No
+BK1676,2025-04-29,4,Deluxe,Travel Agent,Leisure,4,4561.0,No
+BK1105,2025-10-23,2,Standard,Corporate,Leisure,25,4336.0,No
+BK1753,2025-11-28,3,Standard,OTA,Business,11,4494.0,No
+BK1902,2025-01-20,1,Deluxe,Direct Website,Business,45,6695.0,No
+BK1253,2025-09-14,4,Standard,Direct Website,Leisure,39,3407.0,No
+BK1422,2025-09-24,5,Suite,OTA,Leisure,21,9632.0,Yes
+BK1774,2025-11-19,6,Standard,OTA,Leisure,56,4459.0,No
+BK1858,2025-01-30,3,Deluxe,Walk-in,Business,0,7522.0,No
+BK1924,2025-01-21,7,Standard,OTA,Leisure,34,4318.0,No
+BK1079,2025-06-12,7,Standard,OTA,Leisure,69,3228.0,No
+BK1989,2025-07-14,2,Deluxe,OTA,Business,88,5397.0,Yes
+BK1497,2025-01-20,2,Standard,Corporate,Business,23,4448.0,No
+BK2176,2025-02-08,3,Deluxe,Direct Website,Business,16,5774.0,No
+BK1087,2025-09-20,2,Suite,OTA,Business,9,9224.0,No
+BK1064,2025-01-10,5,Suite,Travel Agent,Leisure,12,12537.0,No
+BK1605,2025-06-15,2,Deluxe,Travel Agent,Leisure,40,5184.0,No
+BK1274,2025-08-31,1,Standard,OTA,Leisure,71,3352.0,Yes
+BK1189,2025-08-11,3,Deluxe,OTA,Business,111,16551.0,Yes
+BK2090,2025-07-17,1,Standard,Direct Website,Leisure,62,3361.0,Yes
+BK1153,2025-09-20,3,Standard,Direct Website,Business,15,3302.0,No
+BK1613,2025-12-27,1,Deluxe,Direct Website,Business,60,7002.0,No
+BK1410,2025-06-25,3,Standard,OTA,Leisure,72,3254.0,No
+BK1830,2025-08-09,1,Standard,Direct Website,Business,55,3929.0,No
+BK1912,2025-10-06,6,Standard,Travel Agent,Leisure,25,4330.0,Yes
+BK1517,2025-09-25,2,Deluxe,OTA,Leisure,25,5500.0,No
+BK1044,2025-06-01,6,Standard,Direct Website,Leisure,13,3370.0,No
+BK1390,2025-07-09,2,Deluxe,Travel Agent,Business,8,5638.0,No
+BK1220,2025-08-25,2,Standard,Travel Agent,Business,29,3357.0,No
+BK1140,2025-03-07,1,Standard,OTA,Business,34,2790.0,Yes
+BK1357,2025-07-14,1,Standard,Corporate,Leisure,,3447.0,No
+BK1722,2025-03-07,5,Standard,Direct Website,Leisure,61,3690.0,Yes
+BK1261,2025-09-26,2,Suite,OTA,Leisure,62,9582.0,No
+BK1898,2025-03-28,3,Standard,Travel Agent,Business,29,2848.0,No
+BK1195,2025-07-30,7,Deluxe,Direct Website,Leisure,55,5394.0,No
+BK1115,2025-12-19,3,Standard,Corporate,Business,1,4109.0,No
+BK2073,2025-12-07,3,Standard,OTA,Leisure,3,3967.0,No
+BK1718,2025-12-26,5,Standard,Travel Agent,Leisure,49,4543.0,No
+BK2185,2025-12-18,5,Deluxe,Direct Website,Leisure,32,7513.0,No
+BK2088,2025-11-21,1,Deluxe,OTA,Leisure,21,7558.0,No
+BK1358,2025-06-04,5,Suite,OTA,Leisure,17,8506.0,Yes
+BK2060,2025-07-08,6,Suite,Corporate,Leisure,41,8548.0,Yes
+BK2019,2025-01-25,1,Suite,OTA,Business,21,12727.0,Yes
+BK2000,2025-08-13,3,Deluxe,OTA,Business,19,5417.0,No
+BK1935,2025-05-30,1,Deluxe,OTA,Business,58,5265.0,No
+BK1754,2025-06-19,3,Deluxe,Direct Website,Business,21,4885.0,No
+BK1420,2025-07-11,3,Deluxe,Direct Website,Business,23,,No
+BK1149,2025-11-04,3,Standard,OTA,Business,46,4404.0,Yes
+BK1009,2025-10-18,1,Suite,OTA,Business,51,13140.0,Yes
+BK2069,2025-01-01,2,Deluxe,Direct Website,Business,57,7173.0,No
+BK2166,2025-12-11,3,Standard,Walk-in,Business,0,4261.0,No
+BK1534,2025-12-19,7,Suite,OTA,Leisure,19,11499.0,No
+BK1548,2025-01-01,6,Standard,OTA,Leisure,72,4571.0,No
+BK1298,2025-02-05,7,Standard,Travel Agent,Leisure,41,3196.0,No
+BK1976,2025-04-18,2,Standard,Direct Website,Leisure,20,3012.0,Yes
+BK1122,2025-10-05,2,Deluxe,Corporate,Business,89,6842.0,No
+BK2125,2025-10-28,6,Deluxe,Corporate,Leisure,61,6513.0,No
+BK1709,2025-07-05,2,Deluxe,Direct Website,Business,8,5054.0,No
+BK2108,2025-07-27,3,Standard,Corporate,Business,,3733.0,No
+BK1769,2025-07-14,2,Standard,Direct Website,Leisure,120,3429.0,Yes
+BK1088,2025-12-12,5,Standard,Direct Website,Leisure,59,4631.0,No
+BK2032,2025-02-26,1,Standard,Direct Website,Business,39,3391.0,No
+BK1097,2025-12-29,2,Standard,Travel Agent,Leisure,28,,No
+BK1683,2025-06-14,1,Standard,OTA,Business,7,3105.0,No
+BK1348,2025-05-30,1,Standard,Travel Agent,Leisure,12,3182.0,No
+BK1509,2025-09-12,2,Deluxe,Walk-in,Leisure,0,6092.0,No
+BK1211,2025-06-24,1,Deluxe,Walk-in,Business,0,4609.0,No
+BK1703,2025-12-01,7,Deluxe,Direct Website,Leisure,12,5785.0,No
+BK1746,2025-01-27,3,Deluxe,OTA,Leisure,34,6605.0,No
+BK2045,2025-01-23,5,Standard,Corporate,Leisure,31,4159.0,No
+BK1939,2025-11-04,1,Standard,Corporate,Leisure,13,4379.0,No
+BK2175,2025-07-31,3,Deluxe,Direct Website,Business,32,5011.0,Yes
+BK1321,2025-09-24,2,Standard,Direct Website,Leisure,37,3643.0,No
+BK2123,2025-01-22,3,Deluxe,OTA,Business,4,6444.0,No
+BK1478,2025-05-11,5,Standard,OTA,Leisure,9,3332.0,No
+BK1491,2025-05-01,1,Deluxe,Direct Website,Business,53,5170.0,No
+BK1841,2025-09-10,1,Deluxe,OTA,Leisure,,6114.0,No
+BK2070,2025-03-31,3,Standard,OTA,Business,8,3278.0,No
+BK1364,2025-07-15,4,Standard,Corporate,Leisure,9,3593.0,No
+BK1296,2025-03-13,5,Deluxe,Corporate,Leisure,8,4902.0,No
+BK1049,2025-04-03,3,Suite,Travel Agent,Business,84,8179.0,No
+BK1224,2025-09-24,3,Deluxe,Direct Website,Business,70,5877.0,No
+BK1850,2025-01-23,1,Deluxe,Walk-in,Business,0,7365.0,No
+BK1647,2025-08-27,2,Deluxe,OTA,Leisure,11,5991.0,No
+BK1562,2025-05-25,3,Standard,Travel Agent,Leisure,39,3173.0,No
+BK1622,2025-02-13,3,Standard,Corporate,Leisure,101,2852.0,No
+BK2043,2025-11-12,1,Deluxe,OTA,Leisure,14,6726.0,No
+BK2087,2025-11-09,3,Deluxe,Corporate,Leisure,6,7101.0,No
+BK1804,2025-11-14,6,Suite,Corporate,Leisure,10,10482.0,No
+BK1604,2025-08-05,6,Standard,Corporate,Leisure,42,3375.0,No
+BK1442,2025-07-18,6,Standard,Direct Website,Leisure,14,4031.0,No
+BK2147,2025-02-18,3,Deluxe,Direct Website,Leisure,38,5315.0,No
+BK2024,2025-05-27,3,Standard,Direct Website,Business,28,3073.0,No
+BK1539,2025-08-21,3,Deluxe,Travel Agent,Business,23,5145.0,No
+BK1767,2025-01-13,6,Standard,OTA,Leisure,49,3897.0,Yes
+BK1762,2025-10-14,3,Suite,OTA,Leisure,20,11925.0,Yes
+BK1868,2025-05-01,5,Deluxe,OTA,Leisure,37,5314.0,Yes
+BK1689,2025-09-26,5,Standard,OTA,Leisure,9,3642.0,Yes
+BK1187,2025-12-13,2,Standard,Direct Website,Leisure,68,4362.0,Yes
+BK1406,2025-01-18,1,Standard,Direct Website,Business,28,3984.0,No
+BK2011,2025-02-08,2,Standard,OTA,Leisure,34,3673.0,No
+BK1751,2025-06-17,5,Suite,OTA,Leisure,46,9146.0,No
+BK2050,2025-12-27,3,Standard,Corporate,Business,30,4541.0,No
+BK1461,2025-01-13,3,Deluxe,OTA,Business,3,7453.0,No
+BK1670,2025-06-19,7,Deluxe,Direct Website,Leisure,14,4969.0,No
+BK1655,2025-07-30,1,Standard,Walk-in,Business,0,3419.0,No
+BK1785,2025-02-28,6,Deluxe,Direct Website,Leisure,77,5757.0,No
+BK2083,2025-01-23,2,Deluxe,Direct Website,Business,16,6689.0,No
+BK1714,2025-07-25,1,Standard,Direct Website,Business,119,3856.0,No
+BK1424,2025-10-15,5,Deluxe,Direct Website,Leisure,14,7094.0,No
+BK1043,2025-08-11,2,Standard,Direct Website,Leisure,49,3045.0,No
+BK1661,2025-03-14,3,Standard,Direct Website,Leisure,92,3320.0,Yes
+BK1635,2025-05-18,3,Deluxe,OTA,Business,8,5187.0,Yes
+BK1528,2025-03-25,1,Deluxe,Walk-in,Leisure,0,5447.0,No
+BK1987,2025-11-29,3,Standard,Direct Website,Business,,3815.0,Yes
+BK1218,2025-06-06,4,Standard,OTA,Leisure,23,3042.0,No
+BK1820,2025-07-18,6,Standard,Direct Website,Leisure,22,3516.0,No
+BK1306,2025-07-11,3,Deluxe,Direct Website,Leisure,,6090.0,No
+BK2183,2025-02-21,4,Deluxe,OTA,Leisure,45,5656.0,No
+BK1855,2025-08-22,3,Standard,Walk-in,Business,0,3538.0,No
+BK1609,2025-09-01,6,Standard,Corporate,Leisure,38,3945.0,No
+BK1485,2025-08-03,4,Deluxe,Direct Website,Leisure,22,5968.0,No
+BK2149,2025-05-09,1,Suite,Direct Website,Leisure,54,8132.0,No
+BK2017,2025-07-19,3,Standard,OTA,Business,18,3911.0,No
+BK2085,2025-01-13,1,Standard,Direct Website,Business,20,4211.0,No
+BK1081,2025-06-21,4,Standard,Direct Website,Leisure,24,3442.0,No
+BK1324,2025-12-11,2,Suite,OTA,Leisure,135,10045.0,Yes
+BK2080,2025-01-08,3,Deluxe,OTA,Leisure,8,5824.0,Yes
+BK1019,2025-02-15,3,Standard,Travel Agent,Business,38,3436.0,No
+BK1454,2025-04-22,1,Deluxe,Walk-in,Leisure,0,4931.0,No
+BK2110,2025-01-29,3,Standard,OTA,Leisure,81,4706.0,Yes
+BK1838,2025-02-16,6,Deluxe,Walk-in,Leisure,0,5421.0,No
+BK1758,2025-02-07,3,Deluxe,OTA,Leisure,34,5480.0,No
+BK1034,2025-01-30,5,Deluxe,OTA,Leisure,54,6789.0,No
+BK1808,2025-06-18,7,Deluxe,Walk-in,Leisure,0,5237.0,No
+BK2162,2025-10-09,5,Deluxe,Direct Website,Leisure,42,6776.0,No
+BK1904,2025-12-08,3,Deluxe,OTA,Leisure,29,6333.0,Yes
+BK1800,2025-06-27,4,Suite,OTA,Leisure,57,8939.0,Yes
+BK1096,2025-09-05,3,Deluxe,Direct Website,Leisure,14,5310.0,No
+BK2107,2025-12-25,4,Deluxe,OTA,Leisure,146,5842.0,Yes
+BK1446,2025-05-18,6,Deluxe,OTA,Leisure,36,5345.0,No
+BK1474,2025-12-30,1,Standard,OTA,Business,63,4119.0,Yes
+BK1366,2025-07-19,7,Standard,Direct Website,Leisure,43,4009.0,No
+BK2186,2025-10-05,4,Standard,Travel Agent,Leisure,40,4238.0,No
+BK1760,2025-06-26,2,Deluxe,Direct Website,Business,4,4823.0,Yes
+BK1918,2025-01-08,5,Deluxe,Travel Agent,Leisure,18,7233.0,No
+BK1759,2025-07-31,2,Standard,OTA,Business,31,7743.0,No
+BK1392,2025-09-12,5,Suite,OTA,Leisure,21,8445.0,Yes
+BK1506,2025-09-16,5,Standard,OTA,Leisure,36,3957.0,Yes
+BK1434,2025-10-19,4,Deluxe,Direct Website,Leisure,130,7610.0,No
+BK1648,2025-10-03,3,Deluxe,Direct Website,Business,29,6092.0,No
+BK1942,2025-06-16,5,Deluxe,Direct Website,Leisure,12,4862.0,No
+BK1239,2025-02-06,1,Deluxe,Travel Agent,Business,36,5491.0,No
+BK1132,2025-08-08,3,Standard,Corporate,Business,34,3607.0,No
+BK2074,2025-01-13,3,Deluxe,OTA,Leisure,45,7202.0,No
+BK1972,2025-06-16,4,Standard,OTA,Leisure,73,3121.0,No
+BK1450,2025-01-09,1,Standard,OTA,Leisure,25,3946.0,Yes
+BK1031,2025-11-29,6,Deluxe,Travel Agent,Leisure,65,6177.0,No
+BK1121,2025-05-11,6,Standard,Corporate,Leisure,117,3440.0,No
+BK2112,2025-12-22,7,Suite,OTA,Leisure,20,,No
+BK1255,2025-12-25,6,Suite,OTA,Leisure,14,11407.0,No
+BK1892,2025-08-11,3,Deluxe,Direct Website,Business,47,5126.0,No
+BK1359,2025-12-07,3,Standard,OTA,Leisure,25,4393.0,No
+BK1051,2025-11-17,2,Suite,Corporate,Business,9,10983.0,Yes
+BK1875,2025-12-23,1,Standard,Corporate,Leisure,14,5185.0,No
+BK1938,2025-04-27,2,Suite,OTA,Leisure,89,8493.0,No
+BK1772,2025-03-29,2,Deluxe,OTA,Leisure,,5772.0,No
+BK2126,2025-10-08,1,Deluxe,Direct Website,Business,72,7740.0,No
+BK1679,2025-06-01,1,Deluxe,Direct Website,Business,20,5358.0,No
+BK1805,2025-06-27,1,Standard,Travel Agent,Leisure,31,2923.0,No
+BK1124,2025-07-02,1,Deluxe,OTA,Business,23,5557.0,No
+BK1404,2025-02-16,1,Suite,Walk-in,Business,0,11157.0,No
+BK1730,2025-11-01,6,Standard,OTA,Leisure,60,4014.0,No
+BK1831,2025-02-14,7,Deluxe,OTA,Leisure,20,5727.0,No
+BK2071,2025-10-06,3,Deluxe,Travel Agent,Business,20,6908.0,No
+BK1725,2025-11-01,3,Standard,Walk-in,Business,0,4923.0,No
+BK1587,2025-08-23,2,Standard,Direct Website,Business,4,3825.0,No
+BK1607,2025-04-10,1,Suite,Travel Agent,Leisure,22,8448.0,No
+BK1433,2025-08-12,1,Standard,OTA,Leisure,25,3071.0,No
+BK1674,2025-07-28,3,Deluxe,Direct Website,Leisure,12,4474.0,No
+BK1360,2025-10-16,4,Standard,OTA,Leisure,4,4336.0,Yes
+BK2099,2025-12-11,2,Suite,OTA,Leisure,12,11460.0,No
+BK1466,2025-07-23,3,Standard,Travel Agent,Leisure,6,3000.0,Yes
+BK1299,2025-01-28,2,Deluxe,Direct Website,Business,53,7151.0,Yes
+BK1493,2025-09-24,3,Deluxe,OTA,Leisure,83,6130.0,Yes
+BK1527,2025-08-13,6,Deluxe,Direct Website,Leisure,49,5725.0,No
+BK2192,2025-06-14,3,Deluxe,OTA,Business,57,4961.0,Yes

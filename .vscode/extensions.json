@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "mechatroner.rainbow-csv",
+        "janisdd.vscode-edit-csv",
+        "yzhang.markdown-all-in-one",
+        "kevinrose.vsc-python-indent",
+        "njpwerner.autodocstring",
+        "formulahendry.code-runner",
+        "vscode-icons-team.vscode-icons"
+    ]
+}

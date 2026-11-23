@@ -1,0 +1,1201 @@
+Booking_ID,Checkin_Date,Nights,Room_Type,Booking_Channel,Traveler_Type,Lead_Time_Days,Room_Rate,Canceled,Arrival_Year_Month,Arrival_Month_Name,Arrival_Month_Num,Arrival_Weekday,Is_Weekend_Arrival,Lead_Time_Band,Potential_Revenue,Revenue
+BK1697,2025-02-03,2,Standard,Corporate,Business,10.0,4347.0,No,2025-02,February,2,Monday,0,Short-Term (8-30d),8694.0,8694.0
+BK2156,2025-11-12,3,Deluxe,OTA,Business,13.0,6025.0,Yes,2025-11,November,11,Wednesday,0,Short-Term (8-30d),18075.0,0.0
+BK1555,2025-08-18,2,Suite,Direct Website,Business,26.0,11324.0,Yes,2025-08,August,8,Monday,0,Short-Term (8-30d),22648.0,0.0
+BK1961,2025-09-22,4,Suite,Travel Agent,Leisure,42.0,10577.0,No,2025-09,September,9,Monday,0,Advance (31+d),42308.0,42308.0
+BK1020,2025-03-21,1,Standard,Corporate,Business,3.0,4317.0,No,2025-03,March,3,Friday,1,Last-Minute (0-7d),4317.0,4317.0
+BK2030,2025-01-29,2,Standard,Corporate,Business,37.0,4393.0,No,2025-01,January,1,Wednesday,0,Advance (31+d),8786.0,8786.0
+BK1654,2025-08-30,2,Suite,Travel Agent,Leisure,8.0,8413.0,No,2025-08,August,8,Saturday,1,Short-Term (8-30d),16826.0,16826.0
+BK2143,2025-05-22,7,Standard,OTA,Leisure,67.0,2800.0,No,2025-05,May,5,Thursday,0,Advance (31+d),19600.0,19600.0
+BK1279,2025-12-16,3,Deluxe,Walk-in,Business,0.0,5649.0,No,2025-12,December,12,Tuesday,0,Last-Minute (0-7d),16947.0,16947.0
+BK2064,2025-09-03,3,Deluxe,Corporate,Business,48.0,6317.0,No,2025-09,September,9,Wednesday,0,Advance (31+d),18951.0,18951.0
+BK2023,2025-04-11,1,Standard,Direct Website,Leisure,39.0,3300.0,No,2025-04,April,4,Friday,1,Advance (31+d),3300.0,3300.0
+BK1651,2025-03-28,5,Standard,OTA,Leisure,16.0,3517.0,No,2025-03,March,3,Friday,1,Short-Term (8-30d),17585.0,17585.0
+BK1452,2025-10-28,6,Deluxe,OTA,Leisure,82.0,7066.0,No,2025-10,October,10,Tuesday,0,Advance (31+d),42396.0,42396.0
+BK1891,2025-07-11,1,Standard,Travel Agent,Leisure,3.0,3675.0,No,2025-07,July,7,Friday,1,Last-Minute (0-7d),3675.0,3675.0
+BK2140,2025-12-29,6,Deluxe,Corporate,Leisure,55.0,7523.0,No,2025-12,December,12,Monday,0,Advance (31+d),45138.0,45138.0
+BK1701,2025-03-30,1,Standard,Travel Agent,Business,7.0,3376.0,No,2025-03,March,3,Sunday,1,Last-Minute (0-7d),3376.0,3376.0
+BK1901,2025-03-24,3,Deluxe,Direct Website,Business,47.0,4919.0,No,2025-03,March,3,Monday,0,Advance (31+d),14757.0,14757.0
+BK1146,2025-02-27,5,Standard,Travel Agent,Leisure,51.0,2827.0,No,2025-02,February,2,Thursday,0,Advance (31+d),14135.0,14135.0
+BK1061,2025-09-24,2,Standard,Direct Website,Business,59.0,3935.0,No,2025-09,September,9,Wednesday,0,Advance (31+d),7870.0,7870.0
+BK1663,2025-02-26,3,Deluxe,Corporate,Leisure,45.0,5687.0,Yes,2025-02,February,2,Wednesday,0,Advance (31+d),17061.0,0.0
+BK1985,2025-04-01,6,Standard,OTA,Leisure,21.0,3147.0,Yes,2025-04,April,4,Tuesday,0,Short-Term (8-30d),18882.0,0.0
+BK1476,2025-10-11,5,Standard,OTA,Leisure,24.0,4086.0,No,2025-10,October,10,Saturday,1,Short-Term (8-30d),20430.0,20430.0
+BK1732,2025-12-09,6,Suite,OTA,Leisure,32.0,10337.0,Yes,2025-12,December,12,Tuesday,0,Advance (31+d),62022.0,0.0
+BK1959,2025-07-17,5,Standard,Direct Website,Leisure,11.0,3300.0,No,2025-07,July,7,Thursday,0,Short-Term (8-30d),16500.0,16500.0
+BK1498,2025-01-11,2,Standard,OTA,Business,60.0,3937.0,No,2025-01,January,1,Saturday,1,Advance (31+d),7874.0,7874.0
+BK1684,2025-01-16,2,Deluxe,OTA,Business,6.0,6542.0,Yes,2025-01,January,1,Thursday,0,Last-Minute (0-7d),13084.0,0.0
+BK1248,2025-06-28,4,Standard,OTA,Leisure,28.0,2994.0,No,2025-06,June,6,Saturday,1,Short-Term (8-30d),11976.0,11976.0
+BK2075,2025-07-10,3,Deluxe,Travel Agent,Leisure,43.0,5930.0,No,2025-07,July,7,Thursday,0,Advance (31+d),17790.0,17790.0
+BK1837,2025-04-13,2,Suite,Corporate,Leisure,42.0,9031.0,No,2025-04,April,4,Sunday,1,Advance (31+d),18062.0,18062.0
+BK1484,2025-06-21,7,Deluxe,Corporate,Leisure,62.0,4127.0,No,2025-06,June,6,Saturday,1,Advance (31+d),28889.0,28889.0
+BK1401,2025-02-02,4,Standard,Travel Agent,Leisure,13.0,3608.0,No,2025-02,February,2,Sunday,1,Short-Term (8-30d),14432.0,14432.0
+BK1733,2025-01-22,7,Deluxe,Direct Website,Leisure,12.0,6742.0,Yes,2025-01,January,1,Wednesday,0,Short-Term (8-30d),47194.0,0.0
+BK1771,2025-05-20,2,Suite,Direct Website,Business,15.0,9373.0,No,2025-05,May,5,Tuesday,0,Short-Term (8-30d),18746.0,18746.0
+BK1649,2025-01-03,3,Standard,Direct Website,Business,69.0,4773.0,Yes,2025-01,January,1,Friday,1,Advance (31+d),14319.0,0.0
+BK1659,2025-10-25,3,Standard,Direct Website,Leisure,2.0,4434.0,Yes,2025-10,October,10,Saturday,1,Last-Minute (0-7d),13302.0,0.0
+BK1440,2025-11-09,1,Standard,Direct Website,Leisure,9.0,4682.0,No,2025-11,November,11,Sunday,1,Short-Term (8-30d),4682.0,4682.0
+BK2152,2025-02-10,7,Standard,Travel Agent,Leisure,43.0,3590.0,No,2025-02,February,2,Monday,0,Advance (31+d),25130.0,25130.0
+BK1496,2025-04-06,1,Deluxe,OTA,Business,16.0,5398.0,No,2025-04,April,4,Sunday,1,Short-Term (8-30d),5398.0,5398.0
+BK1704,2025-05-25,2,Standard,Corporate,Leisure,18.0,3245.0,No,2025-05,May,5,Sunday,1,Short-Term (8-30d),6490.0,6490.0
+BK1943,2025-04-14,2,Deluxe,OTA,Leisure,16.0,5327.0,No,2025-04,April,4,Monday,0,Short-Term (8-30d),10654.0,10654.0
+BK1551,2025-09-14,1,Deluxe,OTA,Business,20.0,6034.0,No,2025-09,September,9,Sunday,1,Short-Term (8-30d),6034.0,6034.0
+BK1137,2025-04-11,1,Deluxe,OTA,Leisure,62.0,5642.0,No,2025-04,April,4,Friday,1,Advance (31+d),5642.0,5642.0
+BK2029,2025-05-24,1,Standard,Walk-in,Business,0.0,2663.0,No,2025-05,May,5,Saturday,1,Last-Minute (0-7d),2663.0,2663.0
+BK2036,2025-02-16,1,Standard,Walk-in,Business,0.0,3457.0,No,2025-02,February,2,Sunday,1,Last-Minute (0-7d),3457.0,3457.0
+BK1628,2025-09-17,4,Standard,Corporate,Leisure,39.0,3846.0,No,2025-09,September,9,Wednesday,0,Advance (31+d),15384.0,15384.0
+BK2078,2025-09-01,2,Deluxe,Corporate,Business,60.0,5221.0,No,2025-09,September,9,Monday,0,Advance (31+d),10442.0,10442.0
+BK1488,2025-07-11,4,Suite,Travel Agent,Leisure,27.0,7931.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),31724.0,31724.0
+BK1367,2025-11-02,3,Deluxe,Travel Agent,Leisure,41.0,7007.0,Yes,2025-11,November,11,Sunday,1,Advance (31+d),21021.0,0.0
+BK1268,2025-12-02,3,Suite,Travel Agent,Business,48.0,11801.0,No,2025-12,December,12,Tuesday,0,Advance (31+d),35403.0,35403.0
+BK2089,2025-12-17,6,Standard,Corporate,Leisure,20.0,4181.0,No,2025-12,December,12,Wednesday,0,Short-Term (8-30d),25086.0,25086.0
+BK1370,2025-06-09,2,Standard,Direct Website,Business,8.0,2908.0,No,2025-06,June,6,Monday,0,Short-Term (8-30d),5816.0,5816.0
+BK1293,2025-03-30,3,Deluxe,Direct Website,Business,43.0,5829.0,No,2025-03,March,3,Sunday,1,Advance (31+d),17487.0,17487.0
+BK1405,2025-01-13,7,Suite,Direct Website,Leisure,33.0,12226.0,No,2025-01,January,1,Monday,0,Advance (31+d),85582.0,85582.0
+BK1047,2025-07-27,2,Deluxe,Unknown,Business,37.0,5642.0,Yes,2025-07,July,7,Sunday,1,Advance (31+d),11284.0,0.0
+BK1465,2025-07-15,5,Deluxe,Direct Website,Leisure,52.0,5742.0,No,2025-07,July,7,Tuesday,0,Advance (31+d),28710.0,28710.0
+BK1749,2025-06-29,6,Deluxe,Direct Website,Leisure,29.0,5185.0,Yes,2025-06,June,6,Sunday,1,Short-Term (8-30d),31110.0,0.0
+BK1992,2025-09-09,1,Standard,Corporate,Business,28.0,3322.0,Yes,2025-09,September,9,Tuesday,0,Short-Term (8-30d),3322.0,0.0
+BK1668,2025-10-15,1,Deluxe,OTA,Business,34.0,7444.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),7444.0,7444.0
+BK1220,2025-08-25,2,Standard,Travel Agent,Business,29.0,3357.0,No,2025-08,August,8,Monday,0,Short-Term (8-30d),6714.0,6714.0
+BK1284,2025-12-14,2,Standard,Travel Agent,Leisure,62.0,4505.0,No,2025-12,December,12,Sunday,1,Advance (31+d),9010.0,9010.0
+BK1842,2025-09-16,2,Standard,Direct Website,Business,19.0,3692.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),7384.0,7384.0
+BK1212,2025-02-16,3,Deluxe,OTA,Business,62.0,5126.0,Yes,2025-02,February,2,Sunday,1,Advance (31+d),15378.0,0.0
+BK1573,2025-01-18,7,Standard,OTA,Leisure,23.0,4740.0,No,2025-01,January,1,Saturday,1,Short-Term (8-30d),33180.0,33180.0
+BK1682,2025-11-29,1,Deluxe,OTA,Business,35.0,7010.0,No,2025-11,November,11,Saturday,1,Advance (31+d),7010.0,7010.0
+BK1328,2025-01-06,6,Standard,OTA,Leisure,47.0,4431.0,Yes,2025-01,January,1,Monday,0,Advance (31+d),26586.0,0.0
+BK1486,2025-11-17,3,Deluxe,Direct Website,Business,51.0,6344.0,No,2025-11,November,11,Monday,0,Advance (31+d),19032.0,19032.0
+BK1230,2025-12-20,3,Deluxe,Unknown,Leisure,49.0,5642.0,No,2025-12,December,12,Saturday,1,Advance (31+d),16926.0,16926.0
+BK2097,2025-12-03,2,Standard,Direct Website,Leisure,17.0,4127.0,No,2025-12,December,12,Wednesday,0,Short-Term (8-30d),8254.0,8254.0
+BK1988,2025-11-23,1,Suite,OTA,Business,14.0,10265.0,No,2025-11,November,11,Sunday,1,Short-Term (8-30d),10265.0,10265.0
+BK1664,2025-08-11,2,Standard,Walk-in,Business,0.0,4120.0,Yes,2025-08,August,8,Monday,0,Last-Minute (0-7d),8240.0,0.0
+BK1905,2025-01-15,1,Standard,Unknown,Business,8.0,4222.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),4222.0,4222.0
+BK2164,2025-04-21,6,Suite,Direct Website,Leisure,35.0,8495.0,No,2025-04,April,4,Monday,0,Advance (31+d),50970.0,50970.0
+BK1882,2025-07-30,3,Standard,Direct Website,Business,41.0,3517.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),10551.0,10551.0
+BK1400,2025-07-06,7,Suite,Walk-in,Leisure,0.0,9732.0,No,2025-07,July,7,Sunday,1,Last-Minute (0-7d),68124.0,68124.0
+BK1780,2025-02-14,2,Deluxe,Walk-in,Business,0.0,5191.0,No,2025-02,February,2,Friday,1,Last-Minute (0-7d),10382.0,10382.0
+BK1385,2025-07-28,1,Standard,OTA,Business,34.0,3467.0,No,2025-07,July,7,Monday,0,Advance (31+d),3467.0,3467.0
+BK1361,2025-02-21,3,Standard,OTA,Leisure,29.0,3672.0,Yes,2025-02,February,2,Friday,1,Short-Term (8-30d),11016.0,0.0
+BK1102,2025-08-11,1,Standard,OTA,Business,48.0,3497.0,No,2025-08,August,8,Monday,0,Advance (31+d),3497.0,3497.0
+BK1441,2025-07-30,2,Standard,OTA,Business,45.0,3333.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),6666.0,6666.0
+BK1922,2025-09-18,7,Standard,OTA,Leisure,22.0,3173.0,Yes,2025-09,September,9,Thursday,0,Short-Term (8-30d),22211.0,0.0
+BK1068,2025-04-12,7,Deluxe,Travel Agent,Leisure,19.0,5324.0,No,2025-04,April,4,Saturday,1,Short-Term (8-30d),37268.0,37268.0
+BK1263,2025-03-26,2,Standard,OTA,Leisure,16.0,3730.0,Yes,2025-03,March,3,Wednesday,0,Short-Term (8-30d),7460.0,0.0
+BK1793,2025-09-14,6,Standard,Corporate,Leisure,17.0,3556.0,No,2025-09,September,9,Sunday,1,Short-Term (8-30d),21336.0,21336.0
+BK1577,2025-03-11,3,Deluxe,OTA,Leisure,47.0,5642.0,Yes,2025-03,March,3,Tuesday,0,Advance (31+d),16926.0,0.0
+BK1913,2025-03-15,3,Standard,Corporate,Business,31.0,3558.0,No,2025-03,March,3,Saturday,1,Advance (31+d),10674.0,10674.0
+BK2181,2025-03-28,1,Standard,Direct Website,Business,21.0,3423.0,No,2025-03,March,3,Friday,1,Short-Term (8-30d),3423.0,3423.0
+BK1182,2025-07-28,6,Standard,OTA,Leisure,22.0,3608.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),21648.0,21648.0
+BK1879,2025-09-19,4,Standard,Direct Website,Leisure,41.0,3502.0,Yes,2025-09,September,9,Friday,1,Advance (31+d),14008.0,0.0
+BK2098,2025-04-24,3,Deluxe,OTA,Business,47.0,5750.0,Yes,2025-04,April,4,Thursday,0,Advance (31+d),17250.0,0.0
+BK1363,2025-01-03,5,Standard,OTA,Leisure,28.0,4338.0,Yes,2025-01,January,1,Friday,1,Short-Term (8-30d),21690.0,0.0
+BK1832,2025-04-11,6,Standard,OTA,Leisure,12.0,3166.0,No,2025-04,April,4,Friday,1,Short-Term (8-30d),18996.0,18996.0
+BK1181,2025-02-10,1,Deluxe,Walk-in,Leisure,0.0,5735.0,No,2025-02,February,2,Monday,0,Last-Minute (0-7d),5735.0,5735.0
+BK1933,2025-06-04,3,Deluxe,Travel Agent,Leisure,11.0,4669.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),14007.0,14007.0
+BK1568,2025-02-15,1,Deluxe,Direct Website,Business,50.0,5756.0,No,2025-02,February,2,Saturday,1,Advance (31+d),5756.0,5756.0
+BK1817,2025-06-18,2,Deluxe,Corporate,Leisure,36.0,4079.0,No,2025-06,June,6,Wednesday,0,Advance (31+d),8158.0,8158.0
+BK2056,2025-04-30,4,Standard,Travel Agent,Leisure,32.0,3532.0,No,2025-04,April,4,Wednesday,0,Advance (31+d),14128.0,14128.0
+BK1015,2025-09-03,3,Standard,Direct Website,Business,34.0,3543.0,No,2025-09,September,9,Wednesday,0,Advance (31+d),10629.0,10629.0
+BK1522,2025-03-28,6,Standard,OTA,Leisure,12.0,3362.0,No,2025-03,March,3,Friday,1,Short-Term (8-30d),20172.0,20172.0
+BK1792,2025-07-09,6,Standard,OTA,Leisure,18.0,3877.0,Yes,2025-07,July,7,Wednesday,0,Short-Term (8-30d),23262.0,0.0
+BK1398,2025-09-01,1,Standard,Corporate,Business,34.0,3692.0,No,2025-09,September,9,Monday,0,Advance (31+d),3692.0,3692.0
+BK1881,2025-08-09,5,Deluxe,Direct Website,Leisure,38.0,5504.0,No,2025-08,August,8,Saturday,1,Advance (31+d),27520.0,27520.0
+BK1417,2025-08-08,2,Suite,OTA,Business,43.0,9274.0,No,2025-08,August,8,Friday,1,Advance (31+d),18548.0,18548.0
+BK1835,2025-11-19,1,Deluxe,Direct Website,Leisure,48.0,6184.0,No,2025-11,November,11,Wednesday,0,Advance (31+d),6184.0,6184.0
+BK1007,2025-01-11,7,Standard,OTA,Leisure,9.0,4553.0,No,2025-01,January,1,Saturday,1,Short-Term (8-30d),31871.0,31871.0
+BK1067,2025-10-23,2,Standard,Corporate,Business,62.0,3991.0,No,2025-10,October,10,Thursday,0,Advance (31+d),7982.0,7982.0
+BK1071,2025-09-04,3,Deluxe,Unknown,Business,42.0,4965.0,No,2025-09,September,9,Thursday,0,Advance (31+d),14895.0,14895.0
+BK1349,2025-12-16,4,Standard,OTA,Leisure,30.0,4102.0,No,2025-12,December,12,Tuesday,0,Short-Term (8-30d),16408.0,16408.0
+BK1099,2025-04-07,7,Standard,OTA,Leisure,31.0,3257.0,Yes,2025-04,April,4,Monday,0,Advance (31+d),22799.0,0.0
+BK1432,2025-04-16,2,Standard,Direct Website,Business,8.0,3074.0,Yes,2025-04,April,4,Wednesday,0,Short-Term (8-30d),6148.0,0.0
+BK1323,2025-12-13,1,Standard,OTA,Leisure,36.0,4009.0,No,2025-12,December,12,Saturday,1,Advance (31+d),4009.0,4009.0
+BK2082,2025-02-27,4,Standard,Direct Website,Leisure,9.0,4357.0,No,2025-02,February,2,Thursday,0,Short-Term (8-30d),17428.0,17428.0
+BK1083,2025-07-30,1,Suite,Direct Website,Leisure,49.0,9589.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),9589.0,9589.0
+BK1683,2025-06-14,1,Standard,OTA,Business,7.0,3105.0,No,2025-06,June,6,Saturday,1,Last-Minute (0-7d),3105.0,3105.0
+BK1239,2025-02-06,1,Deluxe,Travel Agent,Business,36.0,5491.0,No,2025-02,February,2,Thursday,0,Advance (31+d),5491.0,5491.0
+BK1741,2025-10-09,6,Standard,Corporate,Leisure,17.0,3608.0,No,2025-10,October,10,Thursday,0,Short-Term (8-30d),21648.0,21648.0
+BK1356,2025-07-09,1,Standard,Travel Agent,Business,11.0,3735.0,No,2025-07,July,7,Wednesday,0,Short-Term (8-30d),3735.0,3735.0
+BK1301,2025-02-17,3,Standard,Direct Website,Business,17.0,3530.0,No,2025-02,February,2,Monday,0,Short-Term (8-30d),10590.0,10590.0
+BK1058,2025-12-20,6,Standard,Direct Website,Leisure,11.0,4607.0,No,2025-12,December,12,Saturday,1,Short-Term (8-30d),27642.0,27642.0
+BK1199,2025-06-29,5,Suite,Direct Website,Leisure,31.0,8493.0,No,2025-06,June,6,Sunday,1,Advance (31+d),42465.0,42465.0
+BK1884,2025-07-29,3,Standard,Direct Website,Business,40.0,2833.0,Yes,2025-07,July,7,Tuesday,0,Advance (31+d),8499.0,0.0
+BK1481,2025-09-29,7,Standard,Corporate,Leisure,27.0,3111.0,No,2025-09,September,9,Monday,0,Short-Term (8-30d),21777.0,21777.0
+BK1280,2025-12-20,1,Standard,Corporate,Leisure,32.0,4584.0,No,2025-12,December,12,Saturday,1,Advance (31+d),4584.0,4584.0
+BK1995,2025-07-27,3,Standard,OTA,Business,33.0,3671.0,No,2025-07,July,7,Sunday,1,Advance (31+d),11013.0,11013.0
+BK1677,2025-11-11,7,Suite,Direct Website,Leisure,87.0,11306.0,No,2025-11,November,11,Tuesday,0,Advance (31+d),79142.0,79142.0
+BK1877,2025-07-31,6,Deluxe,Walk-in,Leisure,0.0,5642.0,No,2025-07,July,7,Thursday,0,Last-Minute (0-7d),33852.0,33852.0
+BK1437,2025-04-07,3,Suite,OTA,Leisure,49.0,6954.0,No,2025-04,April,4,Monday,0,Advance (31+d),20862.0,20862.0
+BK1232,2025-10-12,6,Standard,Direct Website,Leisure,48.0,4477.0,No,2025-10,October,10,Sunday,1,Advance (31+d),26862.0,26862.0
+BK1387,2025-04-09,2,Standard,Direct Website,Business,9.0,3498.0,No,2025-04,April,4,Wednesday,0,Short-Term (8-30d),6996.0,6996.0
+BK2095,2025-07-19,1,Standard,Corporate,Business,37.0,3344.0,No,2025-07,July,7,Saturday,1,Advance (31+d),3344.0,3344.0
+BK1838,2025-02-16,6,Deluxe,Walk-in,Leisure,0.0,5421.0,No,2025-02,February,2,Sunday,1,Last-Minute (0-7d),32526.0,32526.0
+BK1070,2025-02-15,1,Standard,Direct Website,Business,59.0,3216.0,No,2025-02,February,2,Saturday,1,Advance (31+d),3216.0,3216.0
+BK1970,2025-02-09,3,Standard,Travel Agent,Business,19.0,3348.0,No,2025-02,February,2,Sunday,1,Short-Term (8-30d),10044.0,10044.0
+BK1821,2025-02-13,1,Deluxe,OTA,Business,149.0,4526.0,No,2025-02,February,2,Thursday,0,Advance (31+d),4526.0,4526.0
+BK1066,2025-10-10,3,Deluxe,Travel Agent,Business,29.0,7381.0,No,2025-10,October,10,Friday,1,Short-Term (8-30d),22143.0,22143.0
+BK1235,2025-08-03,5,Standard,OTA,Leisure,13.0,3330.0,No,2025-08,August,8,Sunday,1,Short-Term (8-30d),16650.0,16650.0
+BK2174,2025-12-12,5,Suite,OTA,Leisure,41.0,10908.0,No,2025-12,December,12,Friday,1,Advance (31+d),54540.0,54540.0
+BK1305,2025-03-13,7,Deluxe,Direct Website,Leisure,38.0,6090.0,No,2025-03,March,3,Thursday,0,Advance (31+d),42630.0,42630.0
+BK1101,2025-02-03,1,Deluxe,Direct Website,Business,21.0,6335.0,No,2025-02,February,2,Monday,0,Short-Term (8-30d),6335.0,6335.0
+BK1270,2025-06-08,1,Standard,Corporate,Business,121.0,3176.0,No,2025-06,June,6,Sunday,1,Advance (31+d),3176.0,3176.0
+BK2068,2025-02-27,3,Deluxe,Direct Website,Business,13.0,6389.0,No,2025-02,February,2,Thursday,0,Short-Term (8-30d),19167.0,19167.0
+BK1388,2025-06-18,2,Deluxe,OTA,Leisure,48.0,4628.0,Yes,2025-06,June,6,Wednesday,0,Advance (31+d),9256.0,0.0
+BK1806,2025-05-15,6,Deluxe,OTA,Leisure,39.0,5063.0,Yes,2025-05,May,5,Thursday,0,Advance (31+d),30378.0,0.0
+BK1581,2025-10-19,2,Deluxe,OTA,Business,56.0,6934.0,Yes,2025-10,October,10,Sunday,1,Advance (31+d),13868.0,0.0
+BK1984,2025-05-15,2,Deluxe,Direct Website,Business,13.0,4124.0,No,2025-05,May,5,Thursday,0,Short-Term (8-30d),8248.0,8248.0
+BK1375,2025-12-03,1,Deluxe,OTA,Business,29.0,6537.0,No,2025-12,December,12,Wednesday,0,Short-Term (8-30d),6537.0,6537.0
+BK1615,2025-10-16,2,Standard,Corporate,Business,69.0,4571.0,No,2025-10,October,10,Thursday,0,Advance (31+d),9142.0,9142.0
+BK1119,2025-07-26,3,Suite,Corporate,Business,31.0,9040.0,No,2025-07,July,7,Saturday,1,Advance (31+d),27120.0,27120.0
+BK1285,2025-11-05,1,Standard,OTA,Business,100.0,3949.0,Yes,2025-11,November,11,Wednesday,0,Advance (31+d),3949.0,0.0
+BK1953,2025-09-04,2,Deluxe,Direct Website,Business,66.0,5459.0,Yes,2025-09,September,9,Thursday,0,Advance (31+d),10918.0,0.0
+BK1355,2025-08-18,3,Deluxe,Direct Website,Leisure,42.0,5607.0,No,2025-08,August,8,Monday,0,Advance (31+d),16821.0,16821.0
+BK2199,2025-10-31,19,Standard,OTA,Business,8.0,4512.0,No,2025-10,October,10,Friday,1,Short-Term (8-30d),85728.0,85728.0
+BK1556,2025-01-30,2,Deluxe,Travel Agent,Leisure,29.0,7283.0,No,2025-01,January,1,Thursday,0,Short-Term (8-30d),14566.0,14566.0
+BK1460,2025-03-17,5,Deluxe,OTA,Leisure,25.0,5784.0,No,2025-03,March,3,Monday,0,Short-Term (8-30d),28920.0,28920.0
+BK1813,2025-04-26,3,Standard,Direct Website,Business,2.0,2768.0,No,2025-04,April,4,Saturday,1,Last-Minute (0-7d),8304.0,8304.0
+BK1021,2025-01-15,7,Deluxe,Direct Website,Leisure,8.0,6921.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),48447.0,48447.0
+BK2167,2025-06-19,6,Deluxe,OTA,Leisure,15.0,4855.0,No,2025-06,June,6,Thursday,0,Short-Term (8-30d),29130.0,29130.0
+BK2001,2025-09-25,4,Deluxe,OTA,Leisure,31.0,4751.0,No,2025-09,September,9,Thursday,0,Advance (31+d),19004.0,19004.0
+BK2141,2025-06-01,1,Deluxe,OTA,Business,29.0,5168.0,No,2025-06,June,6,Sunday,1,Short-Term (8-30d),5168.0,5168.0
+BK1226,2025-08-26,1,Standard,Travel Agent,Leisure,69.0,3922.0,No,2025-08,August,8,Tuesday,0,Advance (31+d),3922.0,3922.0
+BK1745,2025-04-26,3,Standard,Corporate,Leisure,22.0,3054.0,Yes,2025-04,April,4,Saturday,1,Short-Term (8-30d),9162.0,0.0
+BK1966,2025-11-16,4,Standard,OTA,Leisure,67.0,4400.0,Yes,2025-11,November,11,Sunday,1,Advance (31+d),17600.0,0.0
+BK1504,2025-03-26,3,Standard,OTA,Business,33.0,3716.0,No,2025-03,March,3,Wednesday,0,Advance (31+d),11148.0,11148.0
+BK1045,2025-03-19,6,Deluxe,Corporate,Leisure,49.0,6163.0,No,2025-03,March,3,Wednesday,0,Advance (31+d),36978.0,36978.0
+BK1864,2025-09-09,4,Deluxe,Corporate,Leisure,45.0,4737.0,No,2025-09,September,9,Tuesday,0,Advance (31+d),18948.0,18948.0
+BK1708,2025-10-07,1,Standard,Corporate,Leisure,28.0,4304.0,No,2025-10,October,10,Tuesday,0,Short-Term (8-30d),4304.0,4304.0
+BK1129,2025-05-02,7,Deluxe,Corporate,Leisure,9.0,5080.0,No,2025-05,May,5,Friday,1,Short-Term (8-30d),35560.0,35560.0
+BK1158,2025-10-16,6,Deluxe,OTA,Leisure,37.0,5530.0,Yes,2025-10,October,10,Thursday,0,Advance (31+d),33180.0,0.0
+BK1857,2025-09-09,4,Standard,Travel Agent,Leisure,29.0,3407.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),13628.0,13628.0
+BK2072,2025-11-14,6,Deluxe,OTA,Leisure,18.0,7040.0,No,2025-11,November,11,Friday,1,Short-Term (8-30d),42240.0,42240.0
+BK1596,2025-03-07,3,Standard,Corporate,Leisure,65.0,3625.0,Yes,2025-03,March,3,Friday,1,Advance (31+d),10875.0,0.0
+BK1980,2025-10-07,1,Deluxe,Corporate,Leisure,66.0,7848.0,No,2025-10,October,10,Tuesday,0,Advance (31+d),7848.0,7848.0
+BK2196,2025-12-03,6,Deluxe,OTA,Leisure,29.0,6907.0,Yes,2025-12,December,12,Wednesday,0,Short-Term (8-30d),41442.0,0.0
+BK1365,2025-10-06,1,Standard,Travel Agent,Leisure,70.0,4787.0,No,2025-10,October,10,Monday,0,Advance (31+d),4787.0,4787.0
+BK1993,2025-07-05,5,Deluxe,Corporate,Leisure,14.0,5707.0,No,2025-07,July,7,Saturday,1,Short-Term (8-30d),28535.0,28535.0
+BK1126,2025-02-12,3,Suite,OTA,Business,14.0,8790.0,Yes,2025-02,February,2,Wednesday,0,Short-Term (8-30d),26370.0,0.0
+BK1653,2025-10-18,5,Standard,OTA,Leisure,61.0,4826.0,Yes,2025-10,October,10,Saturday,1,Advance (31+d),24130.0,0.0
+BK2008,2025-10-12,2,Suite,Travel Agent,Leisure,21.0,13516.0,Yes,2025-10,October,10,Sunday,1,Short-Term (8-30d),27032.0,0.0
+BK1640,2025-11-22,2,Standard,OTA,Business,28.0,4097.0,Yes,2025-11,November,11,Saturday,1,Short-Term (8-30d),8194.0,0.0
+BK1379,2025-10-02,3,Deluxe,OTA,Business,21.0,6340.0,No,2025-10,October,10,Thursday,0,Short-Term (8-30d),19020.0,19020.0
+BK2009,2025-12-16,2,Standard,OTA,Business,56.0,4573.0,No,2025-12,December,12,Tuesday,0,Advance (31+d),9146.0,9146.0
+BK2117,2025-03-28,2,Suite,Corporate,Business,30.0,9825.0,Yes,2025-03,March,3,Friday,1,Short-Term (8-30d),19650.0,0.0
+BK1508,2025-08-26,1,Standard,OTA,Business,108.0,3403.0,Yes,2025-08,August,8,Tuesday,0,Advance (31+d),3403.0,0.0
+BK1273,2025-08-03,2,Standard,Direct Website,Leisure,25.0,3382.0,No,2025-08,August,8,Sunday,1,Short-Term (8-30d),6764.0,6764.0
+BK1104,2025-10-15,7,Deluxe,Direct Website,Leisure,78.0,7013.0,Yes,2025-10,October,10,Wednesday,0,Advance (31+d),49091.0,0.0
+BK1157,2025-07-23,2,Standard,OTA,Business,10.0,2871.0,No,2025-07,July,7,Wednesday,0,Short-Term (8-30d),5742.0,5742.0
+BK1265,2025-01-13,2,Standard,Direct Website,Business,22.0,4444.0,No,2025-01,January,1,Monday,0,Short-Term (8-30d),8888.0,8888.0
+BK1692,2025-06-05,5,Standard,Travel Agent,Leisure,37.0,3096.0,Yes,2025-06,June,6,Thursday,0,Advance (31+d),15480.0,0.0
+BK1856,2025-08-14,2,Standard,OTA,Leisure,28.0,3361.0,Yes,2025-08,August,8,Thursday,0,Short-Term (8-30d),6722.0,0.0
+BK1711,2025-05-13,4,Deluxe,Corporate,Leisure,10.0,5113.0,No,2025-05,May,5,Tuesday,0,Short-Term (8-30d),20452.0,20452.0
+BK1662,2025-06-22,6,Deluxe,Direct Website,Leisure,49.0,5031.0,No,2025-06,June,6,Sunday,1,Advance (31+d),30186.0,30186.0
+BK1963,2025-01-01,4,Standard,OTA,Leisure,16.0,4385.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),17540.0,17540.0
+BK1037,2025-06-25,2,Standard,Direct Website,Business,30.0,2966.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),5932.0,5932.0
+BK1743,2025-10-08,2,Standard,Corporate,Business,26.0,4139.0,No,2025-10,October,10,Wednesday,0,Short-Term (8-30d),8278.0,8278.0
+BK1740,2025-10-05,3,Suite,OTA,Leisure,48.0,12009.0,No,2025-10,October,10,Sunday,1,Advance (31+d),36027.0,36027.0
+BK1535,2025-12-12,2,Deluxe,OTA,Leisure,54.0,6811.0,No,2025-12,December,12,Friday,1,Advance (31+d),13622.0,13622.0
+BK1287,2025-08-16,7,Suite,OTA,Leisure,108.0,8863.0,Yes,2025-08,August,8,Saturday,1,Advance (31+d),62041.0,0.0
+BK1116,2025-06-02,7,Standard,OTA,Leisure,4.0,3018.0,No,2025-06,June,6,Monday,0,Last-Minute (0-7d),21126.0,21126.0
+BK1091,2025-10-09,2,Deluxe,OTA,Business,43.0,6768.0,Yes,2025-10,October,10,Thursday,0,Advance (31+d),13536.0,0.0
+BK1678,2025-03-14,1,Deluxe,Direct Website,Leisure,32.0,5373.0,No,2025-03,March,3,Friday,1,Advance (31+d),5373.0,5373.0
+BK1374,2025-12-06,7,Standard,Travel Agent,Leisure,28.0,3498.0,No,2025-12,December,12,Saturday,1,Short-Term (8-30d),24486.0,24486.0
+BK1776,2025-09-01,2,Standard,OTA,Leisure,39.0,3436.0,No,2025-09,September,9,Monday,0,Advance (31+d),6872.0,6872.0
+BK1873,2025-06-22,3,Standard,OTA,Business,19.0,3374.0,No,2025-06,June,6,Sunday,1,Short-Term (8-30d),10122.0,10122.0
+BK1824,2025-02-14,1,Suite,OTA,Leisure,65.0,9478.0,No,2025-02,February,2,Friday,1,Advance (31+d),9478.0,9478.0
+BK1917,2025-07-12,3,Deluxe,OTA,Business,9.0,5512.0,No,2025-07,July,7,Saturday,1,Short-Term (8-30d),16536.0,16536.0
+BK1090,2025-11-22,7,Deluxe,Direct Website,Leisure,58.0,6889.0,No,2025-11,November,11,Saturday,1,Advance (31+d),48223.0,48223.0
+BK2081,2025-03-02,2,Suite,OTA,Leisure,20.0,9124.0,No,2025-03,March,3,Sunday,1,Short-Term (8-30d),18248.0,18248.0
+BK1849,2025-06-17,3,Standard,Walk-in,Business,0.0,2643.0,Yes,2025-06,June,6,Tuesday,0,Last-Minute (0-7d),7929.0,0.0
+BK2138,2025-01-08,6,Standard,Corporate,Leisure,28.0,4588.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),27528.0,27528.0
+BK1391,2025-06-19,2,Standard,Direct Website,Business,49.0,3131.0,No,2025-06,June,6,Thursday,0,Advance (31+d),6262.0,6262.0
+BK1737,2025-08-07,2,Standard,OTA,Leisure,24.0,3155.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),6310.0,6310.0
+BK1431,2025-12-01,1,Deluxe,Travel Agent,Business,12.0,7813.0,No,2025-12,December,12,Monday,0,Short-Term (8-30d),7813.0,7813.0
+BK1169,2025-08-09,3,Deluxe,OTA,Business,25.0,5587.0,No,2025-08,August,8,Saturday,1,Short-Term (8-30d),16761.0,16761.0
+BK2003,2025-08-21,2,Standard,OTA,Business,18.0,3614.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),7228.0,7228.0
+BK1833,2025-02-06,2,Deluxe,Direct Website,Leisure,25.0,4783.0,Yes,2025-02,February,2,Thursday,0,Short-Term (8-30d),9566.0,0.0
+BK1999,2025-04-10,4,Standard,OTA,Leisure,110.0,3050.0,No,2025-04,April,4,Thursday,0,Advance (31+d),12200.0,12200.0
+BK1612,2025-05-17,1,Deluxe,OTA,Business,33.0,5346.0,No,2025-05,May,5,Saturday,1,Advance (31+d),5346.0,5346.0
+BK1473,2025-07-10,3,Standard,OTA,Business,103.0,3635.0,No,2025-07,July,7,Thursday,0,Advance (31+d),10905.0,10905.0
+BK2197,2025-07-12,2,Deluxe,Travel Agent,Business,15.0,5254.0,Yes,2025-07,July,7,Saturday,1,Short-Term (8-30d),10508.0,0.0
+BK1455,2025-01-18,4,Deluxe,Travel Agent,Leisure,25.0,7206.0,No,2025-01,January,1,Saturday,1,Short-Term (8-30d),28824.0,28824.0
+BK1462,2025-03-13,2,Deluxe,Corporate,Leisure,71.0,5610.0,No,2025-03,March,3,Thursday,0,Advance (31+d),11220.0,11220.0
+BK1421,2025-03-22,3,Standard,OTA,Business,40.0,4012.0,Yes,2025-03,March,3,Saturday,1,Advance (31+d),12036.0,0.0
+BK1272,2025-07-07,3,Deluxe,Direct Website,Leisure,12.0,5499.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),16497.0,16497.0
+BK1717,2025-03-22,3,Deluxe,Corporate,Leisure,32.0,4934.0,No,2025-03,March,3,Saturday,1,Advance (31+d),14802.0,14802.0
+BK2109,2025-12-18,1,Suite,Corporate,Business,31.0,13512.0,No,2025-12,December,12,Thursday,0,Advance (31+d),13512.0,13512.0
+BK1281,2025-11-19,1,Standard,OTA,Leisure,22.0,4048.0,No,2025-11,November,11,Wednesday,0,Short-Term (8-30d),4048.0,4048.0
+BK1513,2025-03-02,7,Deluxe,Unknown,Leisure,54.0,5698.0,No,2025-03,March,3,Sunday,1,Advance (31+d),39886.0,39886.0
+BK1584,2025-04-11,1,Deluxe,OTA,Business,42.0,4686.0,No,2025-04,April,4,Friday,1,Advance (31+d),4686.0,4686.0
+BK1601,2025-04-01,1,Deluxe,OTA,Leisure,56.0,5301.0,No,2025-04,April,4,Tuesday,0,Advance (31+d),5301.0,5301.0
+BK1931,2025-08-27,1,Standard,Direct Website,Business,21.0,3224.0,No,2025-08,August,8,Wednesday,0,Short-Term (8-30d),3224.0,3224.0
+BK1141,2025-10-25,4,Standard,OTA,Leisure,15.0,4133.0,No,2025-10,October,10,Saturday,1,Short-Term (8-30d),16532.0,16532.0
+BK2037,2025-05-17,3,Standard,OTA,Business,24.0,3128.0,Yes,2025-05,May,5,Saturday,1,Short-Term (8-30d),9384.0,0.0
+BK1223,2025-02-20,3,Standard,OTA,Business,18.0,3738.0,No,2025-02,February,2,Thursday,0,Short-Term (8-30d),11214.0,11214.0
+BK2132,2025-07-15,1,Deluxe,OTA,Business,81.0,5166.0,No,2025-07,July,7,Tuesday,0,Advance (31+d),5166.0,5166.0
+BK1213,2025-09-01,3,Standard,OTA,Business,59.0,4106.0,No,2025-09,September,9,Monday,0,Advance (31+d),12318.0,12318.0
+BK1524,2025-01-10,2,Deluxe,OTA,Business,59.0,6612.0,No,2025-01,January,1,Friday,1,Advance (31+d),13224.0,13224.0
+BK1060,2025-01-16,2,Standard,OTA,Leisure,28.0,4551.0,No,2025-01,January,1,Thursday,0,Short-Term (8-30d),9102.0,9102.0
+BK1322,2025-06-15,1,Deluxe,OTA,Leisure,36.0,4848.0,No,2025-06,June,6,Sunday,1,Advance (31+d),4848.0,4848.0
+BK1887,2025-12-03,3,Standard,OTA,Business,54.0,4868.0,No,2025-12,December,12,Wednesday,0,Advance (31+d),14604.0,14604.0
+BK1502,2025-04-27,2,Deluxe,Travel Agent,Business,38.0,4975.0,No,2025-04,April,4,Sunday,1,Advance (31+d),9950.0,9950.0
+BK1451,2025-01-26,2,Standard,OTA,Business,29.0,4707.0,No,2025-01,January,1,Sunday,1,Short-Term (8-30d),9414.0,9414.0
+BK2157,2025-03-21,3,Standard,Travel Agent,Business,14.0,3773.0,No,2025-03,March,3,Friday,1,Short-Term (8-30d),11319.0,11319.0
+BK1000,2025-10-03,2,Suite,OTA,Business,33.0,11207.0,No,2025-10,October,10,Friday,1,Advance (31+d),22414.0,22414.0
+BK2191,2025-02-16,7,Suite,Direct Website,Leisure,68.0,8921.0,Yes,2025-02,February,2,Sunday,1,Advance (31+d),62447.0,0.0
+BK1724,2025-09-24,6,Deluxe,OTA,Leisure,32.0,5432.0,No,2025-09,September,9,Wednesday,0,Advance (31+d),32592.0,32592.0
+BK1183,2025-03-04,3,Standard,Direct Website,Leisure,45.0,3515.0,No,2025-03,March,3,Tuesday,0,Advance (31+d),10545.0,10545.0
+BK1414,2025-10-15,1,Standard,OTA,Business,45.0,4832.0,Yes,2025-10,October,10,Wednesday,0,Advance (31+d),4832.0,0.0
+BK1327,2025-02-02,3,Suite,OTA,Leisure,100.0,9034.0,Yes,2025-02,February,2,Sunday,1,Advance (31+d),27102.0,0.0
+BK2063,2025-09-21,1,Deluxe,OTA,Leisure,41.0,5741.0,Yes,2025-09,September,9,Sunday,1,Advance (31+d),5741.0,0.0
+BK1330,2025-10-06,1,Suite,OTA,Business,25.0,10701.0,No,2025-10,October,10,Monday,0,Short-Term (8-30d),10701.0,10701.0
+BK1595,2025-12-24,3,Standard,OTA,Business,29.0,4408.0,No,2025-12,December,12,Wednesday,0,Short-Term (8-30d),13224.0,13224.0
+BK1979,2025-12-04,3,Deluxe,OTA,Business,6.0,6738.0,Yes,2025-12,December,12,Thursday,0,Last-Minute (0-7d),20214.0,0.0
+BK1888,2025-03-17,1,Standard,OTA,Business,48.0,3212.0,No,2025-03,March,3,Monday,0,Advance (31+d),3212.0,3212.0
+BK1658,2025-08-20,1,Standard,OTA,Leisure,26.0,3601.0,No,2025-08,August,8,Wednesday,0,Short-Term (8-30d),3601.0,3601.0
+BK1407,2025-07-26,3,Standard,OTA,Business,17.0,3434.0,No,2025-07,July,7,Saturday,1,Short-Term (8-30d),10302.0,10302.0
+BK1656,2025-01-25,3,Deluxe,OTA,Business,8.0,6507.0,No,2025-01,January,1,Saturday,1,Short-Term (8-30d),19521.0,19521.0
+BK2165,2025-06-12,3,Standard,OTA,Business,24.0,2854.0,No,2025-06,June,6,Thursday,0,Short-Term (8-30d),8562.0,8562.0
+BK2195,2025-08-01,3,Deluxe,OTA,Business,11.0,4743.0,Yes,2025-08,August,8,Friday,1,Short-Term (8-30d),14229.0,0.0
+BK1727,2025-05-17,1,Deluxe,Travel Agent,Leisure,34.0,4816.0,No,2025-05,May,5,Saturday,1,Advance (31+d),4816.0,4816.0
+BK1990,2025-01-16,3,Deluxe,Corporate,Leisure,41.0,6409.0,No,2025-01,January,1,Thursday,0,Advance (31+d),19227.0,19227.0
+BK1418,2025-08-02,1,Standard,Direct Website,Business,11.0,3893.0,No,2025-08,August,8,Saturday,1,Short-Term (8-30d),3893.0,3893.0
+BK1702,2025-11-15,7,Deluxe,Direct Website,Leisure,8.0,6694.0,No,2025-11,November,11,Saturday,1,Short-Term (8-30d),46858.0,46858.0
+BK1512,2025-05-20,1,Deluxe,Travel Agent,Leisure,90.0,5414.0,No,2025-05,May,5,Tuesday,0,Advance (31+d),5414.0,5414.0
+BK1779,2025-08-15,3,Standard,OTA,Business,14.0,3256.0,No,2025-08,August,8,Friday,1,Short-Term (8-30d),9768.0,9768.0
+BK1810,2025-01-11,1,Deluxe,OTA,Business,45.0,6765.0,Yes,2025-01,January,1,Saturday,1,Advance (31+d),6765.0,0.0
+BK1333,2025-12-16,6,Suite,Direct Website,Leisure,30.0,11738.0,No,2025-12,December,12,Tuesday,0,Short-Term (8-30d),70428.0,70428.0
+BK2059,2025-10-25,1,Standard,Corporate,Leisure,36.0,4390.0,No,2025-10,October,10,Saturday,1,Advance (31+d),4390.0,4390.0
+BK1228,2025-02-01,5,Standard,Direct Website,Leisure,26.0,3597.0,No,2025-02,February,2,Saturday,1,Short-Term (8-30d),17985.0,17985.0
+BK1695,2025-04-17,5,Deluxe,Direct Website,Leisure,34.0,5275.0,No,2025-04,April,4,Thursday,0,Advance (31+d),26375.0,26375.0
+BK1552,2025-01-21,5,Deluxe,Direct Website,Leisure,75.0,7560.0,No,2025-01,January,1,Tuesday,0,Advance (31+d),37800.0,37800.0
+BK1770,2025-10-13,1,Suite,Walk-in,Leisure,0.0,12485.0,No,2025-10,October,10,Monday,0,Last-Minute (0-7d),12485.0,12485.0
+BK1286,2025-08-08,6,Deluxe,Direct Website,Leisure,13.0,6033.0,No,2025-08,August,8,Friday,1,Short-Term (8-30d),36198.0,36198.0
+BK1914,2025-05-01,6,Deluxe,Travel Agent,Leisure,58.0,5247.0,No,2025-05,May,5,Thursday,0,Advance (31+d),31482.0,31482.0
+BK1197,2025-12-25,3,Deluxe,OTA,Business,71.0,6894.0,No,2025-12,December,12,Thursday,0,Advance (31+d),20682.0,20682.0
+BK1546,2025-07-21,3,Deluxe,Direct Website,Business,47.0,6110.0,No,2025-07,July,7,Monday,0,Advance (31+d),18330.0,18330.0
+BK1532,2025-03-02,6,Deluxe,OTA,Leisure,26.0,5332.0,No,2025-03,March,3,Sunday,1,Short-Term (8-30d),31992.0,31992.0
+BK1128,2025-06-22,2,Deluxe,OTA,Business,4.0,4895.0,No,2025-06,June,6,Sunday,1,Last-Minute (0-7d),9790.0,9790.0
+BK2015,2025-04-15,3,Deluxe,OTA,Leisure,28.0,5237.0,No,2025-04,April,4,Tuesday,0,Short-Term (8-30d),15711.0,15711.0
+BK1200,2025-05-06,3,Standard,OTA,Leisure,21.0,3201.0,No,2025-05,May,5,Tuesday,0,Short-Term (8-30d),9603.0,9603.0
+BK2177,2025-12-15,3,Deluxe,Corporate,Business,107.0,6376.0,No,2025-12,December,12,Monday,0,Advance (31+d),19128.0,19128.0
+BK1619,2025-03-13,6,Standard,Direct Website,Leisure,30.0,3244.0,No,2025-03,March,3,Thursday,0,Short-Term (8-30d),19464.0,19464.0
+BK1571,2025-01-21,7,Deluxe,Corporate,Leisure,18.0,6215.0,No,2025-01,January,1,Tuesday,0,Short-Term (8-30d),43505.0,43505.0
+BK1148,2025-06-09,3,Deluxe,Direct Website,Leisure,13.0,5298.0,No,2025-06,June,6,Monday,0,Short-Term (8-30d),15894.0,15894.0
+BK1315,2025-11-12,4,Suite,OTA,Leisure,13.0,11990.0,No,2025-11,November,11,Wednesday,0,Short-Term (8-30d),47960.0,47960.0
+BK1969,2025-02-28,5,Suite,Direct Website,Leisure,51.0,8917.0,No,2025-02,February,2,Friday,1,Advance (31+d),44585.0,44585.0
+BK1065,2025-09-24,4,Suite,OTA,Leisure,76.0,9855.0,Yes,2025-09,September,9,Wednesday,0,Advance (31+d),39420.0,0.0
+BK2025,2025-09-19,1,Standard,Direct Website,Leisure,29.0,3731.0,No,2025-09,September,9,Friday,1,Short-Term (8-30d),3731.0,3731.0
+BK1897,2025-01-18,3,Deluxe,OTA,Business,33.0,6232.0,No,2025-01,January,1,Saturday,1,Advance (31+d),18696.0,18696.0
+BK1567,2025-09-02,5,Suite,OTA,Leisure,55.0,8618.0,Yes,2025-09,September,9,Tuesday,0,Advance (31+d),43090.0,0.0
+BK1271,2025-04-28,2,Standard,Travel Agent,Business,18.0,3249.0,No,2025-04,April,4,Monday,0,Short-Term (8-30d),6498.0,6498.0
+BK1143,2025-12-01,3,Standard,OTA,Leisure,16.0,3805.0,Yes,2025-12,December,12,Monday,0,Short-Term (8-30d),11415.0,0.0
+BK1690,2025-11-24,7,Standard,Walk-in,Leisure,0.0,4944.0,No,2025-11,November,11,Monday,0,Last-Minute (0-7d),34608.0,34608.0
+BK2159,2025-02-28,2,Deluxe,Direct Website,Business,72.0,5410.0,No,2025-02,February,2,Friday,1,Advance (31+d),10820.0,10820.0
+BK1343,2025-11-08,1,Standard,Travel Agent,Leisure,60.0,4478.0,No,2025-11,November,11,Saturday,1,Advance (31+d),4478.0,4478.0
+BK1086,2025-01-06,2,Deluxe,Travel Agent,Leisure,29.0,7424.0,No,2025-01,January,1,Monday,0,Short-Term (8-30d),14848.0,14848.0
+BK1164,2025-03-01,7,Suite,Direct Website,Leisure,8.0,9334.0,No,2025-03,March,3,Saturday,1,Short-Term (8-30d),65338.0,65338.0
+BK1549,2025-03-24,5,Standard,Direct Website,Leisure,41.0,2983.0,Yes,2025-03,March,3,Monday,0,Advance (31+d),14915.0,0.0
+BK2051,2025-08-13,4,Standard,OTA,Leisure,81.0,3235.0,No,2025-08,August,8,Wednesday,0,Advance (31+d),12940.0,12940.0
+BK1318,2025-12-05,1,Suite,OTA,Business,11.0,13940.0,No,2025-12,December,12,Friday,1,Short-Term (8-30d),13940.0,13940.0
+BK1529,2025-06-25,4,Standard,Travel Agent,Leisure,41.0,2875.0,No,2025-06,June,6,Wednesday,0,Advance (31+d),11500.0,11500.0
+BK2148,2025-05-04,7,Standard,Direct Website,Leisure,35.0,2889.0,No,2025-05,May,5,Sunday,1,Advance (31+d),20223.0,20223.0
+BK1397,2025-07-27,3,Standard,OTA,Business,29.0,3965.0,No,2025-07,July,7,Sunday,1,Short-Term (8-30d),11895.0,11895.0
+BK1193,2025-05-05,6,Deluxe,Direct Website,Leisure,49.0,4327.0,No,2025-05,May,5,Monday,0,Advance (31+d),25962.0,25962.0
+BK2026,2025-08-30,1,Deluxe,OTA,Business,71.0,4924.0,Yes,2025-08,August,8,Saturday,1,Advance (31+d),4924.0,0.0
+BK1108,2025-12-06,7,Deluxe,Direct Website,Leisure,9.0,6270.0,No,2025-12,December,12,Saturday,1,Short-Term (8-30d),43890.0,43890.0
+BK1309,2025-02-13,3,Standard,Direct Website,Leisure,19.0,3775.0,No,2025-02,February,2,Thursday,0,Short-Term (8-30d),11325.0,11325.0
+BK1171,2025-10-27,1,Standard,Corporate,Business,22.0,4108.0,Yes,2025-10,October,10,Monday,0,Short-Term (8-30d),4108.0,0.0
+BK1018,2025-10-02,4,Deluxe,OTA,Leisure,49.0,7363.0,No,2025-10,October,10,Thursday,0,Advance (31+d),29452.0,29452.0
+BK1926,2025-10-09,2,Standard,OTA,Business,37.0,4948.0,No,2025-10,October,10,Thursday,0,Advance (31+d),9896.0,9896.0
+BK1155,2025-05-27,4,Deluxe,Direct Website,Leisure,86.0,4126.0,No,2025-05,May,5,Tuesday,0,Advance (31+d),16504.0,16504.0
+BK1487,2025-08-11,3,Standard,OTA,Leisure,2.0,3383.0,No,2025-08,August,8,Monday,0,Last-Minute (0-7d),10149.0,10149.0
+BK1439,2025-04-22,7,Deluxe,Direct Website,Leisure,65.0,4718.0,No,2025-04,April,4,Tuesday,0,Advance (31+d),33026.0,33026.0
+BK1744,2025-12-29,6,Standard,OTA,Leisure,34.0,4500.0,No,2025-12,December,12,Monday,0,Advance (31+d),27000.0,27000.0
+BK1847,2025-05-02,3,Standard,Walk-in,Business,0.0,2835.0,Yes,2025-05,May,5,Friday,1,Last-Minute (0-7d),8505.0,0.0
+BK1468,2025-12-04,5,Standard,Corporate,Leisure,43.0,4411.0,Yes,2025-12,December,12,Thursday,0,Advance (31+d),22055.0,0.0
+BK2120,2025-01-02,3,Standard,Travel Agent,Leisure,31.0,4803.0,No,2025-01,January,1,Thursday,0,Advance (31+d),14409.0,14409.0
+BK1335,2025-09-09,3,Deluxe,Direct Website,Leisure,28.0,6296.0,Yes,2025-09,September,9,Tuesday,0,Short-Term (8-30d),18888.0,0.0
+BK1016,2025-12-20,2,Deluxe,Direct Website,Leisure,4.0,7804.0,No,2025-12,December,12,Saturday,1,Last-Minute (0-7d),15608.0,15608.0
+BK1974,2025-06-21,1,Standard,Walk-in,Business,0.0,3405.0,No,2025-06,June,6,Saturday,1,Last-Minute (0-7d),3405.0,3405.0
+BK1075,2025-07-03,1,Standard,Corporate,Leisure,43.0,3276.0,No,2025-07,July,7,Thursday,0,Advance (31+d),3276.0,3276.0
+BK1948,2025-09-13,3,Standard,Direct Website,Leisure,34.0,2926.0,No,2025-09,September,9,Saturday,1,Advance (31+d),8778.0,8778.0
+BK1869,2025-08-14,2,Standard,Direct Website,Business,61.0,3514.0,Yes,2025-08,August,8,Thursday,0,Advance (31+d),7028.0,0.0
+BK1819,2025-01-23,3,Deluxe,OTA,Business,20.0,6831.0,No,2025-01,January,1,Thursday,0,Short-Term (8-30d),20493.0,20493.0
+BK1775,2025-10-08,1,Standard,Travel Agent,Business,38.0,4744.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),4744.0,4744.0
+BK1665,2025-06-07,1,Deluxe,Direct Website,Leisure,8.0,5599.0,No,2025-06,June,6,Saturday,1,Short-Term (8-30d),5599.0,5599.0
+BK1319,2025-10-14,5,Suite,Direct Website,Leisure,53.0,12673.0,No,2025-10,October,10,Tuesday,0,Advance (31+d),63365.0,63365.0
+BK1241,2025-03-20,1,Standard,Travel Agent,Leisure,12.0,3494.0,No,2025-03,March,3,Thursday,0,Short-Term (8-30d),3494.0,3494.0
+BK1540,2025-02-20,1,Standard,OTA,Business,18.0,3916.0,No,2025-02,February,2,Thursday,0,Short-Term (8-30d),3916.0,3916.0
+BK1829,2025-04-30,2,Deluxe,Corporate,Leisure,17.0,4996.0,No,2025-04,April,4,Wednesday,0,Short-Term (8-30d),9992.0,9992.0
+BK1688,2025-03-02,1,Deluxe,OTA,Business,10.0,5726.0,No,2025-03,March,3,Sunday,1,Short-Term (8-30d),5726.0,5726.0
+BK1544,2025-02-28,2,Standard,Direct Website,Leisure,2.0,3699.0,No,2025-02,February,2,Friday,1,Last-Minute (0-7d),7398.0,7398.0
+BK1795,2025-02-13,4,Deluxe,OTA,Leisure,49.0,5642.0,Yes,2025-02,February,2,Thursday,0,Advance (31+d),22568.0,0.0
+BK1981,2025-06-23,1,Standard,Walk-in,Business,0.0,3833.0,No,2025-06,June,6,Monday,0,Last-Minute (0-7d),3833.0,3833.0
+BK1321,2025-09-24,2,Standard,Direct Website,Leisure,37.0,3643.0,No,2025-09,September,9,Wednesday,0,Advance (31+d),7286.0,7286.0
+BK2007,2025-07-26,4,Deluxe,Corporate,Leisure,25.0,5483.0,No,2025-07,July,7,Saturday,1,Short-Term (8-30d),21932.0,21932.0
+BK1575,2025-02-27,4,Standard,Travel Agent,Leisure,29.0,3468.0,No,2025-02,February,2,Thursday,0,Short-Term (8-30d),13872.0,13872.0
+BK1757,2025-04-23,1,Deluxe,Walk-in,Business,0.0,4624.0,No,2025-04,April,4,Wednesday,0,Last-Minute (0-7d),4624.0,4624.0
+BK2184,2025-05-17,3,Deluxe,Direct Website,Business,12.0,4550.0,No,2025-05,May,5,Saturday,1,Short-Term (8-30d),13650.0,13650.0
+BK1843,2025-02-23,2,Standard,Direct Website,Business,19.0,3569.0,No,2025-02,February,2,Sunday,1,Short-Term (8-30d),7138.0,7138.0
+BK1579,2025-07-22,4,Standard,OTA,Leisure,63.0,3436.0,No,2025-07,July,7,Tuesday,0,Advance (31+d),13744.0,13744.0
+BK1089,2025-03-13,4,Deluxe,Walk-in,Leisure,0.0,5007.0,No,2025-03,March,3,Thursday,0,Last-Minute (0-7d),20028.0,20028.0
+BK1490,2025-09-05,6,Deluxe,Direct Website,Leisure,14.0,5402.0,No,2025-09,September,9,Friday,1,Short-Term (8-30d),32412.0,32412.0
+BK1945,2025-06-21,5,Standard,Corporate,Leisure,44.0,3042.0,Yes,2025-06,June,6,Saturday,1,Advance (31+d),15210.0,0.0
+BK1419,2025-06-06,6,Suite,OTA,Leisure,65.0,8515.0,Yes,2025-06,June,6,Friday,1,Advance (31+d),51090.0,0.0
+BK1082,2025-09-20,4,Standard,Travel Agent,Leisure,47.0,3043.0,No,2025-09,September,9,Saturday,1,Advance (31+d),12172.0,12172.0
+BK1958,2025-10-31,3,Deluxe,Direct Website,Business,67.0,5970.0,Yes,2025-10,October,10,Friday,1,Advance (31+d),17910.0,0.0
+BK2158,2025-02-09,7,Suite,OTA,Leisure,31.0,10248.0,No,2025-02,February,2,Sunday,1,Advance (31+d),71736.0,71736.0
+BK1624,2025-01-23,7,Deluxe,OTA,Leisure,47.0,6288.0,No,2025-01,January,1,Thursday,0,Advance (31+d),44016.0,44016.0
+BK2002,2025-08-05,2,Standard,OTA,Business,89.0,3957.0,No,2025-08,August,8,Tuesday,0,Advance (31+d),7914.0,7914.0
+BK1194,2025-02-08,1,Deluxe,OTA,Leisure,25.0,5642.0,No,2025-02,February,2,Saturday,1,Short-Term (8-30d),5642.0,5642.0
+BK1251,2025-03-25,1,Standard,Direct Website,Leisure,34.0,3213.0,No,2025-03,March,3,Tuesday,0,Advance (31+d),3213.0,3213.0
+BK1827,2025-07-22,1,Suite,Direct Website,Leisure,16.0,11079.0,No,2025-07,July,7,Tuesday,0,Short-Term (8-30d),11079.0,11079.0
+BK1436,2025-06-21,2,Standard,Direct Website,Business,33.0,3180.0,No,2025-06,June,6,Saturday,1,Advance (31+d),6360.0,6360.0
+BK1852,2025-10-20,1,Standard,OTA,Business,30.0,4179.0,No,2025-10,October,10,Monday,0,Short-Term (8-30d),4179.0,4179.0
+BK1574,2025-12-03,6,Standard,OTA,Leisure,3.0,4572.0,No,2025-12,December,12,Wednesday,0,Last-Minute (0-7d),27432.0,27432.0
+BK1399,2025-04-26,2,Standard,OTA,Leisure,11.0,3335.0,Yes,2025-04,April,4,Saturday,1,Short-Term (8-30d),6670.0,0.0
+BK1311,2025-05-10,6,Suite,OTA,Leisure,35.0,8084.0,No,2025-05,May,5,Saturday,1,Advance (31+d),48504.0,48504.0
+BK1402,2025-07-18,4,Deluxe,Direct Website,Leisure,16.0,5320.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),21280.0,21280.0
+BK2160,2025-04-02,1,Deluxe,OTA,Business,40.0,5685.0,Yes,2025-04,April,4,Wednesday,0,Advance (31+d),5685.0,0.0
+BK1283,2025-04-10,2,Deluxe,OTA,Business,27.0,4569.0,No,2025-04,April,4,Thursday,0,Short-Term (8-30d),9138.0,9138.0
+BK1802,2025-12-10,2,Suite,Walk-in,Business,0.0,12951.0,No,2025-12,December,12,Wednesday,0,Last-Minute (0-7d),25902.0,25902.0
+BK1593,2025-08-04,3,Suite,Direct Website,Business,15.0,9987.0,No,2025-08,August,8,Monday,0,Short-Term (8-30d),29961.0,29961.0
+BK1464,2025-10-29,6,Deluxe,OTA,Leisure,8.0,8238.0,No,2025-10,October,10,Wednesday,0,Short-Term (8-30d),49428.0,49428.0
+BK2093,2025-06-15,1,Suite,Direct Website,Business,16.0,7902.0,No,2025-06,June,6,Sunday,1,Short-Term (8-30d),7902.0,7902.0
+BK1840,2025-09-24,3,Deluxe,Travel Agent,Business,73.0,5713.0,Yes,2025-09,September,9,Wednesday,0,Advance (31+d),17139.0,0.0
+BK2021,2025-12-03,2,Suite,Direct Website,Business,46.0,11671.0,Yes,2025-12,December,12,Wednesday,0,Advance (31+d),23342.0,0.0
+BK1457,2025-06-04,1,Standard,Direct Website,Business,17.0,3367.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),3367.0,3367.0
+BK2100,2025-08-25,6,Standard,Direct Website,Leisure,52.0,3050.0,No,2025-08,August,8,Monday,0,Advance (31+d),18300.0,18300.0
+BK1915,2025-07-31,5,Standard,Corporate,Leisure,12.0,3421.0,No,2025-07,July,7,Thursday,0,Short-Term (8-30d),17105.0,17105.0
+BK1525,2025-05-30,3,Deluxe,OTA,Leisure,42.0,4630.0,Yes,2025-05,May,5,Friday,1,Advance (31+d),13890.0,0.0
+BK1530,2025-02-04,6,Deluxe,Direct Website,Leisure,60.0,5312.0,No,2025-02,February,2,Tuesday,0,Advance (31+d),31872.0,31872.0
+BK1477,2025-09-05,19,Standard,OTA,Business,38.0,3761.0,Yes,2025-09,September,9,Friday,1,Advance (31+d),71459.0,0.0
+BK1351,2025-05-28,4,Standard,OTA,Leisure,17.0,3501.0,Yes,2025-05,May,5,Wednesday,0,Short-Term (8-30d),14004.0,0.0
+BK1641,2025-07-28,3,Deluxe,OTA,Business,110.0,6006.0,Yes,2025-07,July,7,Monday,0,Advance (31+d),18018.0,0.0
+BK1080,2025-04-30,4,Deluxe,Direct Website,Leisure,27.0,4846.0,No,2025-04,April,4,Wednesday,0,Short-Term (8-30d),19384.0,19384.0
+BK1345,2025-05-09,2,Standard,Direct Website,Business,33.0,3027.0,Yes,2025-05,May,5,Friday,1,Advance (31+d),6054.0,0.0
+BK1643,2025-10-20,1,Deluxe,OTA,Leisure,80.0,7316.0,No,2025-10,October,10,Monday,0,Advance (31+d),7316.0,7316.0
+BK1250,2025-07-15,3,Standard,OTA,Leisure,32.0,3413.0,No,2025-07,July,7,Tuesday,0,Advance (31+d),10239.0,10239.0
+BK1308,2025-02-10,7,Standard,OTA,Leisure,26.0,3608.0,No,2025-02,February,2,Monday,0,Short-Term (8-30d),25256.0,25256.0
+BK1295,2025-11-16,2,Deluxe,OTA,Leisure,9.0,7260.0,No,2025-11,November,11,Sunday,1,Short-Term (8-30d),14520.0,14520.0
+BK1521,2025-01-31,1,Standard,Corporate,Business,75.0,4374.0,No,2025-01,January,1,Friday,1,Advance (31+d),4374.0,4374.0
+BK1907,2025-03-19,3,Deluxe,Direct Website,Business,87.0,4976.0,No,2025-03,March,3,Wednesday,0,Advance (31+d),14928.0,14928.0
+BK1545,2025-05-04,5,Standard,Direct Website,Leisure,52.0,3369.0,No,2025-05,May,5,Sunday,1,Advance (31+d),16845.0,16845.0
+BK1786,2025-12-17,3,Standard,OTA,Leisure,54.0,4270.0,No,2025-12,December,12,Wednesday,0,Advance (31+d),12810.0,12810.0
+BK1326,2025-10-20,3,Standard,Direct Website,Business,7.0,5110.0,Yes,2025-10,October,10,Monday,0,Last-Minute (0-7d),15330.0,0.0
+BK1761,2025-07-04,1,Deluxe,OTA,Leisure,29.0,5628.0,Yes,2025-07,July,7,Friday,1,Short-Term (8-30d),5628.0,0.0
+BK1120,2025-08-28,3,Standard,OTA,Business,69.0,3298.0,No,2025-08,August,8,Thursday,0,Advance (31+d),9894.0,9894.0
+BK1777,2025-05-31,3,Standard,Corporate,Leisure,19.0,3050.0,No,2025-05,May,5,Saturday,1,Short-Term (8-30d),9150.0,9150.0
+BK1219,2025-06-13,4,Standard,Direct Website,Leisure,15.0,2895.0,No,2025-06,June,6,Friday,1,Short-Term (8-30d),11580.0,11580.0
+BK1589,2025-04-21,3,Deluxe,Travel Agent,Leisure,117.0,5367.0,Yes,2025-04,April,4,Monday,0,Advance (31+d),16101.0,0.0
+BK1453,2025-07-09,7,Standard,OTA,Leisure,8.0,3355.0,No,2025-07,July,7,Wednesday,0,Short-Term (8-30d),23485.0,23485.0
+BK1192,2025-10-20,3,Standard,Corporate,Business,4.0,4298.0,No,2025-10,October,10,Monday,0,Last-Minute (0-7d),12894.0,12894.0
+BK1909,2025-07-23,2,Standard,Travel Agent,Business,20.0,3247.0,No,2025-07,July,7,Wednesday,0,Short-Term (8-30d),6494.0,6494.0
+BK1290,2025-08-20,1,Suite,OTA,Leisure,11.0,8705.0,Yes,2025-08,August,8,Wednesday,0,Short-Term (8-30d),8705.0,0.0
+BK1180,2025-07-16,3,Suite,Travel Agent,Leisure,31.0,8898.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),26694.0,26694.0
+BK1558,2025-11-21,1,Deluxe,Direct Website,Business,31.0,7222.0,No,2025-11,November,11,Friday,1,Advance (31+d),7222.0,7222.0
+BK1185,2025-09-21,2,Standard,Corporate,Leisure,30.0,3162.0,No,2025-09,September,9,Sunday,1,Short-Term (8-30d),6324.0,6324.0
+BK1411,2025-09-13,7,Standard,Travel Agent,Leisure,13.0,3408.0,No,2025-09,September,9,Saturday,1,Short-Term (8-30d),23856.0,23856.0
+BK1861,2025-01-12,3,Standard,Walk-in,Business,0.0,4369.0,No,2025-01,January,1,Sunday,1,Last-Minute (0-7d),13107.0,13107.0
+BK1470,2025-10-25,4,Deluxe,Corporate,Leisure,86.0,5642.0,No,2025-10,October,10,Saturday,1,Advance (31+d),22568.0,22568.0
+BK1204,2025-01-28,1,Standard,Walk-in,Leisure,0.0,3735.0,No,2025-01,January,1,Tuesday,0,Last-Minute (0-7d),3735.0,3735.0
+BK2016,2025-05-31,4,Standard,Direct Website,Leisure,48.0,3690.0,Yes,2025-05,May,5,Saturday,1,Advance (31+d),14760.0,0.0
+BK1550,2025-01-15,6,Standard,Corporate,Leisure,52.0,3885.0,No,2025-01,January,1,Wednesday,0,Advance (31+d),23310.0,23310.0
+BK1074,2025-02-26,3,Standard,Direct Website,Leisure,6.0,3701.0,Yes,2025-02,February,2,Wednesday,0,Last-Minute (0-7d),11103.0,0.0
+BK1949,2025-07-18,7,Standard,OTA,Leisure,24.0,3280.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),22960.0,22960.0
+BK1599,2025-03-04,2,Standard,Direct Website,Leisure,8.0,3819.0,No,2025-03,March,3,Tuesday,0,Short-Term (8-30d),7638.0,7638.0
+BK2189,2025-11-16,3,Deluxe,OTA,Leisure,39.0,7939.0,Yes,2025-11,November,11,Sunday,1,Advance (31+d),23817.0,0.0
+BK1002,2025-04-24,2,Deluxe,Travel Agent,Business,54.0,5003.0,No,2025-04,April,4,Thursday,0,Advance (31+d),10006.0,10006.0
+BK1267,2025-05-10,4,Deluxe,Travel Agent,Leisure,32.0,4752.0,No,2025-05,May,5,Saturday,1,Advance (31+d),19008.0,19008.0
+BK1084,2025-05-25,5,Deluxe,Direct Website,Leisure,35.0,5367.0,No,2025-05,May,5,Sunday,1,Advance (31+d),26835.0,26835.0
+BK2129,2025-03-20,5,Standard,Corporate,Leisure,30.0,2842.0,No,2025-03,March,3,Thursday,0,Short-Term (8-30d),14210.0,14210.0
+BK2004,2025-12-30,3,Suite,OTA,Leisure,84.0,11460.0,Yes,2025-12,December,12,Tuesday,0,Advance (31+d),34380.0,0.0
+BK2092,2025-08-12,3,Deluxe,OTA,Business,16.0,5332.0,Yes,2025-08,August,8,Tuesday,0,Short-Term (8-30d),15996.0,0.0
+BK2139,2025-07-14,2,Standard,Corporate,Business,55.0,3452.0,No,2025-07,July,7,Monday,0,Advance (31+d),6904.0,6904.0
+BK1471,2025-04-17,5,Suite,Travel Agent,Leisure,83.0,8774.0,No,2025-04,April,4,Thursday,0,Advance (31+d),43870.0,43870.0
+BK1142,2025-03-31,4,Standard,Travel Agent,Leisure,20.0,3282.0,No,2025-03,March,3,Monday,0,Short-Term (8-30d),13128.0,13128.0
+BK1680,2025-10-06,7,Standard,Travel Agent,Leisure,6.0,3926.0,No,2025-10,October,10,Monday,0,Last-Minute (0-7d),27482.0,27482.0
+BK2188,2025-06-12,1,Standard,Travel Agent,Leisure,19.0,3139.0,No,2025-06,June,6,Thursday,0,Short-Term (8-30d),3139.0,3139.0
+BK1156,2025-06-06,2,Suite,Travel Agent,Business,4.0,8692.0,No,2025-06,June,6,Friday,1,Last-Minute (0-7d),17384.0,17384.0
+BK1209,2025-03-26,4,Deluxe,OTA,Leisure,73.0,5176.0,No,2025-03,March,3,Wednesday,0,Advance (31+d),20704.0,20704.0
+BK1492,2025-05-24,3,Deluxe,Direct Website,Leisure,27.0,5419.0,No,2025-05,May,5,Saturday,1,Short-Term (8-30d),16257.0,16257.0
+BK1752,2025-08-22,2,Deluxe,Direct Website,Leisure,13.0,6450.0,No,2025-08,August,8,Friday,1,Short-Term (8-30d),12900.0,12900.0
+BK1511,2025-04-15,3,Standard,OTA,Business,40.0,3255.0,Yes,2025-04,April,4,Tuesday,0,Advance (31+d),9765.0,0.0
+BK2039,2025-09-12,1,Standard,OTA,Leisure,58.0,3608.0,No,2025-09,September,9,Friday,1,Advance (31+d),3608.0,3608.0
+BK1179,2025-01-29,7,Standard,Travel Agent,Leisure,41.0,4382.0,No,2025-01,January,1,Wednesday,0,Advance (31+d),30674.0,30674.0
+BK1592,2025-03-01,1,Standard,Direct Website,Business,27.0,3696.0,No,2025-03,March,3,Saturday,1,Short-Term (8-30d),3696.0,3696.0
+BK1739,2025-11-25,3,Standard,OTA,Business,6.0,4341.0,Yes,2025-11,November,11,Tuesday,0,Last-Minute (0-7d),13023.0,0.0
+BK1134,2025-03-18,1,Standard,Travel Agent,Business,57.0,3221.0,Yes,2025-03,March,3,Tuesday,0,Advance (31+d),3221.0,0.0
+BK1001,2025-05-05,6,Suite,Direct Website,Leisure,53.0,9787.0,No,2025-05,May,5,Monday,0,Advance (31+d),58722.0,58722.0
+BK1312,2025-08-06,1,Standard,Walk-in,Leisure,0.0,3733.0,No,2025-08,August,8,Wednesday,0,Last-Minute (0-7d),3733.0,3733.0
+BK1109,2025-06-10,3,Deluxe,Direct Website,Leisure,41.0,5050.0,Yes,2025-06,June,6,Tuesday,0,Advance (31+d),15150.0,0.0
+BK1160,2025-05-22,1,Deluxe,Travel Agent,Business,71.0,5531.0,Yes,2025-05,May,5,Thursday,0,Advance (31+d),5531.0,0.0
+BK1644,2025-05-28,3,Deluxe,Direct Website,Leisure,28.0,4935.0,No,2025-05,May,5,Wednesday,0,Short-Term (8-30d),14805.0,14805.0
+BK1557,2025-06-15,4,Standard,Direct Website,Leisure,9.0,3440.0,No,2025-06,June,6,Sunday,1,Short-Term (8-30d),13760.0,13760.0
+BK1376,2025-10-21,1,Standard,Direct Website,Business,37.0,4422.0,Yes,2025-10,October,10,Tuesday,0,Advance (31+d),4422.0,0.0
+BK1205,2025-09-14,1,Deluxe,Corporate,Business,25.0,4858.0,No,2025-09,September,9,Sunday,1,Short-Term (8-30d),4858.0,4858.0
+BK2096,2025-03-30,3,Deluxe,Direct Website,Business,24.0,6422.0,No,2025-03,March,3,Sunday,1,Short-Term (8-30d),19266.0,19266.0
+BK1288,2025-07-30,6,Deluxe,OTA,Leisure,51.0,4824.0,Yes,2025-07,July,7,Wednesday,0,Advance (31+d),28944.0,0.0
+BK1056,2025-02-18,6,Standard,Direct Website,Leisure,7.0,3393.0,No,2025-02,February,2,Tuesday,0,Last-Minute (0-7d),20358.0,20358.0
+BK1172,2025-06-09,1,Standard,OTA,Business,60.0,3302.0,No,2025-06,June,6,Monday,0,Advance (31+d),3302.0,3302.0
+BK1384,2025-06-18,4,Standard,OTA,Leisure,38.0,3316.0,Yes,2025-06,June,6,Wednesday,0,Advance (31+d),13264.0,0.0
+BK1600,2025-07-02,7,Deluxe,OTA,Leisure,36.0,5495.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),38465.0,38465.0
+BK2057,2025-05-20,6,Deluxe,OTA,Leisure,30.0,4623.0,Yes,2025-05,May,5,Tuesday,0,Short-Term (8-30d),27738.0,0.0
+BK1231,2025-07-29,5,Deluxe,Corporate,Leisure,38.0,5594.0,No,2025-07,July,7,Tuesday,0,Advance (31+d),27970.0,27970.0
+BK2077,2025-01-12,2,Standard,Direct Website,Business,55.0,4503.0,No,2025-01,January,1,Sunday,1,Advance (31+d),9006.0,9006.0
+BK2083,2025-01-23,2,Deluxe,Direct Website,Business,16.0,6689.0,No,2025-01,January,1,Thursday,0,Short-Term (8-30d),13378.0,13378.0
+BK1715,2025-08-14,4,Deluxe,Direct Website,Leisure,24.0,14963.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),59852.0,59852.0
+BK2033,2025-02-10,3,Suite,OTA,Leisure,54.0,10025.0,No,2025-02,February,2,Monday,0,Advance (31+d),30075.0,30075.0
+BK1826,2025-10-08,3,Deluxe,Corporate,Business,41.0,6579.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),19737.0,19737.0
+BK1310,2025-11-29,1,Standard,OTA,Business,47.0,5137.0,Yes,2025-11,November,11,Saturday,1,Advance (31+d),5137.0,0.0
+BK1077,2025-01-14,5,Deluxe,Travel Agent,Leisure,7.0,6366.0,No,2025-01,January,1,Tuesday,0,Last-Minute (0-7d),31830.0,31830.0
+BK2020,2025-11-19,4,Deluxe,Direct Website,Leisure,53.0,7143.0,Yes,2025-11,November,11,Wednesday,0,Advance (31+d),28572.0,0.0
+BK1978,2025-02-02,1,Standard,OTA,Business,27.0,4127.0,No,2025-02,February,2,Sunday,1,Short-Term (8-30d),4127.0,4127.0
+BK1236,2025-05-25,7,Standard,Corporate,Leisure,29.0,3313.0,No,2025-05,May,5,Sunday,1,Short-Term (8-30d),23191.0,23191.0
+BK1426,2025-05-24,2,Deluxe,Direct Website,Business,29.0,5642.0,No,2025-05,May,5,Saturday,1,Short-Term (8-30d),11284.0,11284.0
+BK1620,2025-01-27,7,Standard,OTA,Leisure,15.0,4154.0,No,2025-01,January,1,Monday,0,Short-Term (8-30d),29078.0,29078.0
+BK2173,2025-11-08,3,Deluxe,OTA,Business,15.0,6914.0,No,2025-11,November,11,Saturday,1,Short-Term (8-30d),20742.0,20742.0
+BK1812,2025-06-03,1,Standard,OTA,Leisure,21.0,3399.0,Yes,2025-06,June,6,Tuesday,0,Short-Term (8-30d),3399.0,0.0
+BK1932,2025-11-26,6,Standard,Direct Website,Leisure,38.0,3909.0,No,2025-11,November,11,Wednesday,0,Advance (31+d),23454.0,23454.0
+BK2018,2025-06-29,2,Deluxe,Walk-in,Leisure,0.0,4513.0,No,2025-06,June,6,Sunday,1,Last-Minute (0-7d),9026.0,9026.0
+BK1175,2025-02-04,4,Standard,Direct Website,Leisure,6.0,3459.0,No,2025-02,February,2,Tuesday,0,Last-Minute (0-7d),13836.0,13836.0
+BK1982,2025-09-22,1,Suite,Direct Website,Business,28.0,9708.0,Yes,2025-09,September,9,Monday,0,Short-Term (8-30d),9708.0,0.0
+BK1928,2025-07-22,3,Deluxe,OTA,Business,29.0,5900.0,No,2025-07,July,7,Tuesday,0,Short-Term (8-30d),17700.0,17700.0
+BK1625,2025-07-16,3,Standard,Direct Website,Business,16.0,3093.0,No,2025-07,July,7,Wednesday,0,Short-Term (8-30d),9279.0,9279.0
+BK1788,2025-06-18,5,Deluxe,Travel Agent,Leisure,23.0,4747.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),23735.0,23735.0
+BK1456,2025-10-10,7,Deluxe,Corporate,Leisure,112.0,5642.0,No,2025-10,October,10,Friday,1,Advance (31+d),39494.0,39494.0
+BK1696,2025-11-16,3,Deluxe,Direct Website,Business,11.0,7599.0,No,2025-11,November,11,Sunday,1,Short-Term (8-30d),22797.0,22797.0
+BK2079,2025-05-03,2,Standard,Direct Website,Leisure,32.0,3159.0,No,2025-05,May,5,Saturday,1,Advance (31+d),6318.0,6318.0
+BK1526,2025-09-06,5,Standard,Corporate,Leisure,36.0,3380.0,No,2025-09,September,9,Saturday,1,Advance (31+d),16900.0,16900.0
+BK2180,2025-11-02,5,Deluxe,Direct Website,Leisure,16.0,6790.0,No,2025-11,November,11,Sunday,1,Short-Term (8-30d),33950.0,33950.0
+BK1317,2025-03-27,4,Standard,Corporate,Leisure,32.0,3419.0,No,2025-03,March,3,Thursday,0,Advance (31+d),13676.0,13676.0
+BK1672,2025-10-31,3,Deluxe,OTA,Business,63.0,7038.0,Yes,2025-10,October,10,Friday,1,Advance (31+d),21114.0,0.0
+BK1608,2025-12-01,1,Standard,OTA,Leisure,83.0,3834.0,No,2025-12,December,12,Monday,0,Advance (31+d),3834.0,3834.0
+BK1929,2025-02-18,1,Deluxe,Direct Website,Business,31.0,5574.0,No,2025-02,February,2,Tuesday,0,Advance (31+d),5574.0,5574.0
+BK1152,2025-08-28,1,Standard,Direct Website,Leisure,33.0,3480.0,No,2025-08,August,8,Thursday,0,Advance (31+d),3480.0,3480.0
+BK1046,2025-09-30,1,Deluxe,Direct Website,Leisure,39.0,4817.0,No,2025-09,September,9,Tuesday,0,Advance (31+d),4817.0,4817.0
+BK2034,2025-03-21,1,Deluxe,OTA,Business,17.0,5642.0,No,2025-03,March,3,Friday,1,Short-Term (8-30d),5642.0,5642.0
+BK2104,2025-03-01,1,Standard,Direct Website,Business,40.0,3244.0,No,2025-03,March,3,Saturday,1,Advance (31+d),3244.0,3244.0
+BK1590,2025-11-02,4,Standard,OTA,Leisure,67.0,3946.0,No,2025-11,November,11,Sunday,1,Advance (31+d),15784.0,15784.0
+BK1863,2025-03-16,3,Standard,Travel Agent,Business,31.0,3442.0,Yes,2025-03,March,3,Sunday,1,Advance (31+d),10326.0,0.0
+BK1347,2025-05-15,3,Deluxe,OTA,Business,35.0,5642.0,No,2025-05,May,5,Thursday,0,Advance (31+d),16926.0,16926.0
+BK2027,2025-02-16,2,Deluxe,Direct Website,Leisure,44.0,5026.0,No,2025-02,February,2,Sunday,1,Advance (31+d),10052.0,10052.0
+BK2102,2025-09-10,1,Deluxe,OTA,Leisure,38.0,5730.0,No,2025-09,September,9,Wednesday,0,Advance (31+d),5730.0,5730.0
+BK1240,2025-11-08,2,Suite,Direct Website,Leisure,8.0,9732.0,No,2025-11,November,11,Saturday,1,Short-Term (8-30d),19464.0,19464.0
+BK1621,2025-08-08,1,Standard,OTA,Leisure,39.0,3279.0,No,2025-08,August,8,Friday,1,Advance (31+d),3279.0,3279.0
+BK1505,2025-05-09,5,Standard,Direct Website,Leisure,33.0,3058.0,No,2025-05,May,5,Friday,1,Advance (31+d),15290.0,15290.0
+BK1639,2025-07-04,4,Suite,Direct Website,Leisure,16.0,9205.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),36820.0,36820.0
+BK2091,2025-03-05,2,Standard,Corporate,Leisure,8.0,3548.0,No,2025-03,March,3,Wednesday,0,Short-Term (8-30d),7096.0,7096.0
+BK1062,2025-01-18,1,Suite,OTA,Leisure,9.0,11892.0,No,2025-01,January,1,Saturday,1,Short-Term (8-30d),11892.0,11892.0
+BK2055,2025-10-11,1,Standard,OTA,Business,29.0,3780.0,Yes,2025-10,October,10,Saturday,1,Short-Term (8-30d),3780.0,0.0
+BK1291,2025-08-16,1,Standard,Direct Website,Business,80.0,4272.0,No,2025-08,August,8,Saturday,1,Advance (31+d),4272.0,4272.0
+BK2043,2025-11-12,1,Deluxe,OTA,Leisure,14.0,6726.0,No,2025-11,November,11,Wednesday,0,Short-Term (8-30d),6726.0,6726.0
+BK1871,2025-02-27,1,Deluxe,Walk-in,Business,0.0,5734.0,No,2025-02,February,2,Thursday,0,Last-Minute (0-7d),5734.0,5734.0
+BK2052,2025-09-25,1,Deluxe,Travel Agent,Leisure,47.0,6441.0,No,2025-09,September,9,Thursday,0,Advance (31+d),6441.0,6441.0
+BK1921,2025-11-01,2,Deluxe,OTA,Business,21.0,6848.0,No,2025-11,November,11,Saturday,1,Short-Term (8-30d),13696.0,13696.0
+BK2133,2025-01-21,6,Deluxe,Direct Website,Leisure,3.0,6728.0,No,2025-01,January,1,Tuesday,0,Last-Minute (0-7d),40368.0,40368.0
+BK1614,2025-10-15,1,Deluxe,Travel Agent,Leisure,34.0,7332.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),7332.0,7332.0
+BK1022,2025-07-04,3,Suite,OTA,Leisure,15.0,9208.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),27624.0,27624.0
+BK1848,2025-12-08,6,Deluxe,Unknown,Leisure,63.0,7493.0,No,2025-12,December,12,Monday,0,Advance (31+d),44958.0,44958.0
+BK1597,2025-09-09,1,Deluxe,Walk-in,Business,0.0,5257.0,No,2025-09,September,9,Tuesday,0,Last-Minute (0-7d),5257.0,5257.0
+BK1543,2025-09-24,1,Suite,Direct Website,Business,8.0,8859.0,No,2025-09,September,9,Wednesday,0,Short-Term (8-30d),8859.0,8859.0
+BK1480,2025-12-16,3,Deluxe,Direct Website,Leisure,101.0,6894.0,No,2025-12,December,12,Tuesday,0,Advance (31+d),20682.0,20682.0
+BK1188,2025-04-16,7,Deluxe,Travel Agent,Leisure,49.0,4100.0,No,2025-04,April,4,Wednesday,0,Advance (31+d),28700.0,28700.0
+BK2113,2025-04-09,4,Deluxe,Direct Website,Leisure,14.0,5529.0,No,2025-04,April,4,Wednesday,0,Short-Term (8-30d),22116.0,22116.0
+BK1816,2025-03-05,3,Standard,OTA,Business,15.0,3565.0,Yes,2025-03,March,3,Wednesday,0,Short-Term (8-30d),10695.0,0.0
+BK1564,2025-03-06,2,Deluxe,Corporate,Business,46.0,5737.0,Yes,2025-03,March,3,Thursday,0,Advance (31+d),11474.0,0.0
+BK2048,2025-11-09,2,Standard,Travel Agent,Business,31.0,4125.0,No,2025-11,November,11,Sunday,1,Advance (31+d),8250.0,8250.0
+BK2137,2025-03-24,4,Deluxe,Direct Website,Leisure,12.0,6318.0,No,2025-03,March,3,Monday,0,Short-Term (8-30d),25272.0,25272.0
+BK1519,2025-08-12,5,Suite,OTA,Leisure,36.0,9059.0,Yes,2025-08,August,8,Tuesday,0,Advance (31+d),45295.0,0.0
+BK1258,2025-01-08,3,Standard,Travel Agent,Business,30.0,5395.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),16185.0,16185.0
+BK1227,2025-07-05,3,Standard,OTA,Leisure,59.0,3564.0,No,2025-07,July,7,Saturday,1,Advance (31+d),10692.0,10692.0
+BK1316,2025-02-09,2,Deluxe,Walk-in,Leisure,0.0,4868.0,No,2025-02,February,2,Sunday,1,Last-Minute (0-7d),9736.0,9736.0
+BK1606,2025-05-28,1,Deluxe,OTA,Leisure,72.0,5225.0,No,2025-05,May,5,Wednesday,0,Advance (31+d),5225.0,5225.0
+BK1107,2025-07-20,6,Suite,Direct Website,Leisure,79.0,8193.0,No,2025-07,July,7,Sunday,1,Advance (31+d),49158.0,49158.0
+BK2116,2025-02-03,3,Suite,Travel Agent,Business,88.0,10651.0,No,2025-02,February,2,Monday,0,Advance (31+d),31953.0,31953.0
+BK1846,2025-10-18,2,Standard,OTA,Business,73.0,4658.0,No,2025-10,October,10,Saturday,1,Advance (31+d),9316.0,9316.0
+BK1427,2025-07-19,4,Deluxe,Corporate,Leisure,64.0,5642.0,No,2025-07,July,7,Saturday,1,Advance (31+d),22568.0,22568.0
+BK1085,2025-09-21,6,Deluxe,OTA,Leisure,36.0,5557.0,Yes,2025-09,September,9,Sunday,1,Advance (31+d),33342.0,0.0
+BK1957,2025-02-04,2,Deluxe,OTA,Leisure,24.0,5757.0,No,2025-02,February,2,Tuesday,0,Short-Term (8-30d),11514.0,11514.0
+BK1537,2025-11-20,3,Standard,OTA,Business,98.0,4218.0,Yes,2025-11,November,11,Thursday,0,Advance (31+d),12654.0,0.0
+BK1030,2025-12-28,2,Standard,Direct Website,Business,101.0,4872.0,No,2025-12,December,12,Sunday,1,Advance (31+d),9744.0,9744.0
+BK1010,2025-11-26,5,Standard,OTA,Leisure,33.0,4404.0,No,2025-11,November,11,Wednesday,0,Advance (31+d),22020.0,22020.0
+BK1438,2025-12-18,4,Suite,Travel Agent,Leisure,73.0,13488.0,No,2025-12,December,12,Thursday,0,Advance (31+d),53952.0,53952.0
+BK1342,2025-07-20,2,Standard,Direct Website,Leisure,19.0,3391.0,No,2025-07,July,7,Sunday,1,Short-Term (8-30d),6782.0,6782.0
+BK1944,2025-06-29,7,Deluxe,Travel Agent,Leisure,52.0,5139.0,No,2025-06,June,6,Sunday,1,Advance (31+d),35973.0,35973.0
+BK1458,2025-05-28,2,Deluxe,Walk-in,Business,0.0,4857.0,No,2025-05,May,5,Wednesday,0,Last-Minute (0-7d),9714.0,9714.0
+BK1893,2025-04-12,1,Standard,Direct Website,Leisure,11.0,2870.0,No,2025-04,April,4,Saturday,1,Short-Term (8-30d),2870.0,2870.0
+BK1125,2025-10-22,6,Standard,Travel Agent,Leisure,29.0,3665.0,No,2025-10,October,10,Wednesday,0,Short-Term (8-30d),21990.0,21990.0
+BK1257,2025-12-20,3,Standard,OTA,Leisure,94.0,4083.0,Yes,2025-12,December,12,Saturday,1,Advance (31+d),12249.0,0.0
+BK2161,2025-04-20,3,Standard,OTA,Leisure,35.0,3039.0,No,2025-04,April,4,Sunday,1,Advance (31+d),9117.0,9117.0
+BK1542,2025-06-24,3,Deluxe,OTA,Business,93.0,4955.0,No,2025-06,June,6,Tuesday,0,Advance (31+d),14865.0,14865.0
+BK1313,2025-03-17,3,Deluxe,Direct Website,Business,30.0,5603.0,Yes,2025-03,March,3,Monday,0,Short-Term (8-30d),16809.0,0.0
+BK1883,2025-06-04,6,Standard,OTA,Leisure,30.0,3273.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),19638.0,19638.0
+BK1716,2025-02-14,7,Standard,OTA,Leisure,16.0,3242.0,No,2025-02,February,2,Friday,1,Short-Term (8-30d),22694.0,22694.0
+BK1004,2025-06-08,3,Standard,OTA,Leisure,73.0,3137.0,No,2025-06,June,6,Sunday,1,Advance (31+d),9411.0,9411.0
+BK1719,2025-11-05,1,Standard,OTA,Business,31.0,4370.0,Yes,2025-11,November,11,Wednesday,0,Advance (31+d),4370.0,0.0
+BK1198,2025-08-29,7,Suite,Corporate,Leisure,59.0,10194.0,Yes,2025-08,August,8,Friday,1,Advance (31+d),71358.0,0.0
+BK1409,2025-02-14,3,Standard,Direct Website,Business,33.0,3608.0,No,2025-02,February,2,Friday,1,Advance (31+d),10824.0,10824.0
+BK1174,2025-09-02,3,Suite,Direct Website,Leisure,27.0,8765.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),26295.0,26295.0
+BK2022,2025-03-20,2,Standard,Direct Website,Leisure,25.0,2923.0,No,2025-03,March,3,Thursday,0,Short-Term (8-30d),5846.0,5846.0
+BK2012,2025-06-15,2,Deluxe,OTA,Business,8.0,5688.0,Yes,2025-06,June,6,Sunday,1,Short-Term (8-30d),11376.0,0.0
+BK1202,2025-05-07,2,Standard,OTA,Business,13.0,3126.0,No,2025-05,May,5,Wednesday,0,Short-Term (8-30d),6252.0,6252.0
+BK1177,2025-01-15,2,Deluxe,Corporate,Business,63.0,5642.0,No,2025-01,January,1,Wednesday,0,Advance (31+d),11284.0,11284.0
+BK1275,2025-07-13,7,Deluxe,OTA,Leisure,24.0,5381.0,Yes,2025-07,July,7,Sunday,1,Short-Term (8-30d),37667.0,0.0
+BK1580,2025-05-15,1,Deluxe,Travel Agent,Leisure,14.0,5463.0,No,2025-05,May,5,Thursday,0,Short-Term (8-30d),5463.0,5463.0
+BK1412,2025-08-19,2,Deluxe,OTA,Business,66.0,4949.0,No,2025-08,August,8,Tuesday,0,Advance (31+d),9898.0,9898.0
+BK1013,2025-08-11,4,Standard,Direct Website,Leisure,74.0,3992.0,No,2025-08,August,8,Monday,0,Advance (31+d),15968.0,15968.0
+BK1483,2025-07-18,3,Standard,Corporate,Leisure,4.0,4398.0,No,2025-07,July,7,Friday,1,Last-Minute (0-7d),13194.0,13194.0
+BK2171,2025-01-31,2,Deluxe,Direct Website,Business,30.0,6552.0,No,2025-01,January,1,Friday,1,Short-Term (8-30d),13104.0,13104.0
+BK1809,2025-06-09,3,Deluxe,Corporate,Business,24.0,5381.0,No,2025-06,June,6,Monday,0,Short-Term (8-30d),16143.0,16143.0
+BK1538,2025-12-17,6,Standard,OTA,Leisure,67.0,4506.0,Yes,2025-12,December,12,Wednesday,0,Advance (31+d),27036.0,0.0
+BK1117,2025-08-27,2,Standard,OTA,Business,34.0,3892.0,No,2025-08,August,8,Wednesday,0,Advance (31+d),7784.0,7784.0
+BK1536,2025-01-04,3,Deluxe,OTA,Business,29.0,7485.0,No,2025-01,January,1,Saturday,1,Short-Term (8-30d),22455.0,22455.0
+BK1163,2025-01-18,1,Standard,Direct Website,Leisure,50.0,4937.0,No,2025-01,January,1,Saturday,1,Advance (31+d),4937.0,4937.0
+BK1111,2025-07-24,4,Deluxe,Travel Agent,Leisure,44.0,5692.0,No,2025-07,July,7,Thursday,0,Advance (31+d),22768.0,22768.0
+BK1344,2025-08-18,1,Suite,Direct Website,Leisure,7.0,10154.0,No,2025-08,August,8,Monday,0,Last-Minute (0-7d),10154.0,10154.0
+BK1940,2025-10-03,3,Deluxe,OTA,Business,40.0,6826.0,No,2025-10,October,10,Friday,1,Advance (31+d),20478.0,20478.0
+BK1482,2025-07-16,2,Standard,Direct Website,Business,45.0,3334.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),6668.0,6668.0
+BK2066,2025-06-29,2,Suite,Direct Website,Business,25.0,7905.0,Yes,2025-06,June,6,Sunday,1,Short-Term (8-30d),15810.0,0.0
+BK1130,2025-07-19,1,Standard,OTA,Leisure,9.0,3235.0,Yes,2025-07,July,7,Saturday,1,Short-Term (8-30d),3235.0,0.0
+BK2124,2025-07-08,3,Suite,OTA,Business,41.0,10702.0,Yes,2025-07,July,7,Tuesday,0,Advance (31+d),32106.0,0.0
+BK2038,2025-05-10,5,Suite,Direct Website,Leisure,29.0,8650.0,Yes,2025-05,May,5,Saturday,1,Short-Term (8-30d),43250.0,0.0
+BK1338,2025-05-30,7,Standard,Corporate,Leisure,6.0,2901.0,No,2025-05,May,5,Friday,1,Last-Minute (0-7d),20307.0,20307.0
+BK2046,2025-03-18,1,Standard,Direct Website,Business,31.0,3261.0,No,2025-03,March,3,Tuesday,0,Advance (31+d),3261.0,3261.0
+BK1072,2025-03-30,5,Standard,OTA,Leisure,11.0,3763.0,No,2025-03,March,3,Sunday,1,Short-Term (8-30d),18815.0,18815.0
+BK1135,2025-10-29,3,Standard,OTA,Business,26.0,4348.0,Yes,2025-10,October,10,Wednesday,0,Short-Term (8-30d),13044.0,0.0
+BK2111,2025-04-09,5,Deluxe,OTA,Leisure,59.0,4478.0,No,2025-04,April,4,Wednesday,0,Advance (31+d),22390.0,22390.0
+BK1515,2025-01-21,2,Standard,OTA,Business,17.0,4802.0,Yes,2025-01,January,1,Tuesday,0,Short-Term (8-30d),9604.0,0.0
+BK2130,2025-05-11,1,Standard,OTA,Business,36.0,3386.0,Yes,2025-05,May,5,Sunday,1,Advance (31+d),3386.0,0.0
+BK1790,2025-11-08,2,Standard,OTA,Leisure,26.0,4501.0,No,2025-11,November,11,Saturday,1,Short-Term (8-30d),9002.0,9002.0
+BK1012,2025-02-02,7,Standard,Direct Website,Leisure,44.0,3411.0,No,2025-02,February,2,Sunday,1,Advance (31+d),23877.0,23877.0
+BK1447,2025-10-21,4,Standard,Corporate,Leisure,39.0,3851.0,No,2025-10,October,10,Tuesday,0,Advance (31+d),15404.0,15404.0
+BK1633,2025-08-21,4,Standard,Corporate,Leisure,29.0,3783.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),15132.0,15132.0
+BK1208,2025-11-20,4,Standard,OTA,Leisure,28.0,4095.0,No,2025-11,November,11,Thursday,0,Short-Term (8-30d),16380.0,16380.0
+BK1994,2025-12-09,4,Standard,Travel Agent,Leisure,100.0,4427.0,No,2025-12,December,12,Tuesday,0,Advance (31+d),17708.0,17708.0
+BK1576,2025-04-23,3,Standard,Travel Agent,Leisure,28.0,3579.0,No,2025-04,April,4,Wednesday,0,Short-Term (8-30d),10737.0,10737.0
+BK1565,2025-03-28,6,Deluxe,Corporate,Leisure,8.0,5511.0,No,2025-03,March,3,Friday,1,Short-Term (8-30d),33066.0,33066.0
+BK2103,2025-01-19,1,Suite,Direct Website,Leisure,26.0,13594.0,No,2025-01,January,1,Sunday,1,Short-Term (8-30d),13594.0,13594.0
+BK1941,2025-09-03,3,Standard,Direct Website,Leisure,29.0,3318.0,No,2025-09,September,9,Wednesday,0,Short-Term (8-30d),9954.0,9954.0
+BK1340,2025-01-06,2,Standard,Corporate,Business,26.0,4051.0,No,2025-01,January,1,Monday,0,Short-Term (8-30d),8102.0,8102.0
+BK1346,2025-07-30,3,Deluxe,Walk-in,Business,0.0,5826.0,No,2025-07,July,7,Wednesday,0,Last-Minute (0-7d),17478.0,17478.0
+BK2058,2025-07-01,2,Deluxe,OTA,Business,29.0,5642.0,No,2025-07,July,7,Tuesday,0,Short-Term (8-30d),11284.0,11284.0
+BK1304,2025-10-11,2,Standard,Corporate,Business,28.0,4292.0,Yes,2025-10,October,10,Saturday,1,Short-Term (8-30d),8584.0,0.0
+BK1036,2025-03-01,2,Deluxe,Travel Agent,Business,23.0,5191.0,No,2025-03,March,3,Saturday,1,Short-Term (8-30d),10382.0,10382.0
+BK1042,2025-12-19,2,Deluxe,Direct Website,Business,16.0,7123.0,No,2025-12,December,12,Friday,1,Short-Term (8-30d),14246.0,14246.0
+BK1968,2025-03-05,2,Standard,OTA,Business,53.0,3416.0,Yes,2025-03,March,3,Wednesday,0,Advance (31+d),6832.0,0.0
+BK2105,2025-01-21,2,Deluxe,OTA,Business,23.0,7888.0,No,2025-01,January,1,Tuesday,0,Short-Term (8-30d),15776.0,15776.0
+BK1765,2025-07-15,2,Standard,OTA,Business,78.0,3322.0,No,2025-07,July,7,Tuesday,0,Advance (31+d),6644.0,6644.0
+BK2170,2025-12-28,2,Suite,OTA,Business,30.0,10236.0,No,2025-12,December,12,Sunday,1,Short-Term (8-30d),20472.0,20472.0
+BK1459,2025-02-27,3,Deluxe,Direct Website,Business,30.0,5545.0,No,2025-02,February,2,Thursday,0,Short-Term (8-30d),16635.0,16635.0
+BK1423,2025-04-19,6,Deluxe,Corporate,Leisure,10.0,5129.0,No,2025-04,April,4,Saturday,1,Short-Term (8-30d),30774.0,30774.0
+BK1636,2025-03-20,2,Deluxe,Corporate,Business,40.0,5481.0,No,2025-03,March,3,Thursday,0,Advance (31+d),10962.0,10962.0
+BK1801,2025-01-06,2,Standard,Walk-in,Business,0.0,4052.0,No,2025-01,January,1,Monday,0,Last-Minute (0-7d),8104.0,8104.0
+BK1294,2025-11-13,3,Standard,OTA,Business,15.0,3521.0,No,2025-11,November,11,Thursday,0,Short-Term (8-30d),10563.0,10563.0
+BK1585,2025-07-22,2,Deluxe,Travel Agent,Business,19.0,5711.0,No,2025-07,July,7,Tuesday,0,Short-Term (8-30d),11422.0,11422.0
+BK1026,2025-07-20,2,Standard,Travel Agent,Leisure,16.0,3803.0,No,2025-07,July,7,Sunday,1,Short-Term (8-30d),7606.0,7606.0
+BK2049,2025-11-13,2,Standard,OTA,Business,41.0,3871.0,No,2025-11,November,11,Thursday,0,Advance (31+d),7742.0,7742.0
+BK1694,2025-08-14,1,Suite,OTA,Business,24.0,9232.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),9232.0,9232.0
+BK1854,2025-06-14,5,Deluxe,OTA,Leisure,95.0,5304.0,No,2025-06,June,6,Saturday,1,Advance (31+d),26520.0,26520.0
+BK1510,2025-07-05,3,Standard,Direct Website,Business,3.0,3890.0,No,2025-07,July,7,Saturday,1,Last-Minute (0-7d),11670.0,11670.0
+BK2190,2025-02-06,2,Deluxe,OTA,Business,49.0,5459.0,No,2025-02,February,2,Thursday,0,Advance (31+d),10918.0,10918.0
+BK1353,2025-10-28,3,Standard,Direct Website,Leisure,8.0,4414.0,No,2025-10,October,10,Tuesday,0,Short-Term (8-30d),13242.0,13242.0
+BK1618,2025-03-12,3,Standard,Corporate,Business,27.0,3068.0,No,2025-03,March,3,Wednesday,0,Short-Term (8-30d),9204.0,9204.0
+BK1055,2025-02-02,3,Deluxe,OTA,Business,29.0,5760.0,No,2025-02,February,2,Sunday,1,Short-Term (8-30d),17280.0,17280.0
+BK1463,2025-10-06,2,Standard,Travel Agent,Business,34.0,4586.0,No,2025-10,October,10,Monday,0,Advance (31+d),9172.0,9172.0
+BK1216,2025-11-13,6,Standard,Corporate,Leisure,8.0,4654.0,No,2025-11,November,11,Thursday,0,Short-Term (8-30d),27924.0,27924.0
+BK2106,2025-01-30,3,Deluxe,OTA,Leisure,50.0,5750.0,No,2025-01,January,1,Thursday,0,Advance (31+d),17250.0,17250.0
+BK1040,2025-11-30,4,Deluxe,Direct Website,Leisure,35.0,7074.0,No,2025-11,November,11,Sunday,1,Advance (31+d),28296.0,28296.0
+BK1396,2025-02-11,1,Standard,Direct Website,Business,55.0,3229.0,No,2025-02,February,2,Tuesday,0,Advance (31+d),3229.0,3229.0
+BK2179,2025-09-30,21,Standard,Direct Website,Leisure,29.0,3533.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),74193.0,74193.0
+BK1818,2025-07-20,1,Standard,OTA,Leisure,55.0,3608.0,No,2025-07,July,7,Sunday,1,Advance (31+d),3608.0,3608.0
+BK1973,2025-07-17,2,Suite,OTA,Business,23.0,9487.0,Yes,2025-07,July,7,Thursday,0,Short-Term (8-30d),18974.0,0.0
+BK1962,2025-04-09,2,Suite,OTA,Business,22.0,8458.0,No,2025-04,April,4,Wednesday,0,Short-Term (8-30d),16916.0,16916.0
+BK2127,2025-10-12,3,Standard,OTA,Leisure,2.0,3970.0,No,2025-10,October,10,Sunday,1,Last-Minute (0-7d),11910.0,11910.0
+BK1178,2025-10-01,4,Standard,OTA,Leisure,6.0,4695.0,No,2025-10,October,10,Wednesday,0,Last-Minute (0-7d),18780.0,18780.0
+BK1176,2025-07-28,5,Deluxe,Direct Website,Leisure,10.0,5465.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),27325.0,27325.0
+BK1507,2025-09-30,4,Standard,Travel Agent,Leisure,29.0,3400.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),13600.0,13600.0
+BK1570,2025-08-04,4,Standard,OTA,Leisure,19.0,3435.0,Yes,2025-08,August,8,Monday,0,Short-Term (8-30d),13740.0,0.0
+BK2067,2025-09-12,4,Deluxe,OTA,Leisure,27.0,4520.0,Yes,2025-09,September,9,Friday,1,Short-Term (8-30d),18080.0,0.0
+BK1300,2025-04-25,3,Deluxe,Direct Website,Business,12.0,4619.0,No,2025-04,April,4,Friday,1,Short-Term (8-30d),13857.0,13857.0
+BK2151,2025-10-04,5,Standard,OTA,Leisure,31.0,4872.0,No,2025-10,October,10,Saturday,1,Advance (31+d),24360.0,24360.0
+BK1756,2025-04-07,6,Standard,Direct Website,Leisure,38.0,3245.0,No,2025-04,April,4,Monday,0,Advance (31+d),19470.0,19470.0
+BK1853,2025-04-13,2,Deluxe,Walk-in,Leisure,0.0,5413.0,No,2025-04,April,4,Sunday,1,Last-Minute (0-7d),10826.0,10826.0
+BK1991,2025-11-08,1,Deluxe,Direct Website,Business,6.0,7156.0,No,2025-11,November,11,Saturday,1,Last-Minute (0-7d),7156.0,7156.0
+BK1967,2025-12-10,4,Standard,Corporate,Leisure,42.0,4144.0,No,2025-12,December,12,Wednesday,0,Advance (31+d),16576.0,16576.0
+BK1518,2025-07-12,2,Suite,Corporate,Business,87.0,9273.0,No,2025-07,July,7,Saturday,1,Advance (31+d),18546.0,18546.0
+BK1738,2025-12-12,2,Deluxe,OTA,Leisure,12.0,6323.0,No,2025-12,December,12,Friday,1,Short-Term (8-30d),12646.0,12646.0
+BK1920,2025-07-27,2,Standard,OTA,Business,24.0,3177.0,No,2025-07,July,7,Sunday,1,Short-Term (8-30d),6354.0,6354.0
+BK1768,2025-10-01,2,Standard,Direct Website,Business,74.0,3647.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),7294.0,7294.0
+BK1763,2025-12-14,6,Standard,OTA,Leisure,34.0,3895.0,No,2025-12,December,12,Sunday,1,Advance (31+d),23370.0,23370.0
+BK1029,2025-04-19,3,Standard,OTA,Business,26.0,2929.0,No,2025-04,April,4,Saturday,1,Short-Term (8-30d),8787.0,8787.0
+BK1561,2025-09-20,3,Deluxe,Travel Agent,Business,35.0,5713.0,No,2025-09,September,9,Saturday,1,Advance (31+d),17139.0,17139.0
+BK2076,2025-02-23,3,Deluxe,Unknown,Leisure,31.0,5566.0,No,2025-02,February,2,Sunday,1,Advance (31+d),16698.0,16698.0
+BK2142,2025-07-16,1,Standard,OTA,Business,39.0,3082.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),3082.0,3082.0
+BK1710,2025-01-06,2,Standard,Direct Website,Leisure,31.0,4592.0,No,2025-01,January,1,Monday,0,Advance (31+d),9184.0,9184.0
+BK1203,2025-01-02,1,Deluxe,OTA,Business,15.0,7571.0,No,2025-01,January,1,Thursday,0,Short-Term (8-30d),7571.0,7571.0
+BK1444,2025-02-10,3,Deluxe,Direct Website,Leisure,74.0,5107.0,No,2025-02,February,2,Monday,0,Advance (31+d),15321.0,15321.0
+BK1371,2025-06-28,3,Standard,Corporate,Business,35.0,3232.0,No,2025-06,June,6,Saturday,1,Advance (31+d),9696.0,9696.0
+BK1032,2025-01-01,1,Deluxe,OTA,Leisure,12.0,6463.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),6463.0,6463.0
+BK1878,2025-07-29,2,Standard,Travel Agent,Leisure,31.0,3490.0,Yes,2025-07,July,7,Tuesday,0,Advance (31+d),6980.0,0.0
+BK1334,2025-09-20,6,Deluxe,OTA,Leisure,22.0,4909.0,No,2025-09,September,9,Saturday,1,Short-Term (8-30d),29454.0,29454.0
+BK1382,2025-09-01,2,Standard,OTA,Business,3.0,3320.0,No,2025-09,September,9,Monday,0,Last-Minute (0-7d),6640.0,6640.0
+BK1794,2025-07-08,2,Deluxe,Walk-in,Business,0.0,6588.0,No,2025-07,July,7,Tuesday,0,Last-Minute (0-7d),13176.0,13176.0
+BK1825,2025-11-27,2,Standard,Direct Website,Leisure,10.0,4138.0,No,2025-11,November,11,Thursday,0,Short-Term (8-30d),8276.0,8276.0
+BK1372,2025-04-10,1,Standard,OTA,Business,59.0,3105.0,Yes,2025-04,April,4,Thursday,0,Advance (31+d),3105.0,0.0
+BK1870,2025-07-04,1,Standard,OTA,Business,25.0,3187.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),3187.0,3187.0
+BK1721,2025-10-04,3,Standard,Direct Website,Leisure,8.0,4248.0,No,2025-10,October,10,Saturday,1,Short-Term (8-30d),12744.0,12744.0
+BK1003,2025-04-19,3,Standard,Direct Website,Business,15.0,3072.0,No,2025-04,April,4,Saturday,1,Short-Term (8-30d),9216.0,9216.0
+BK1669,2025-01-23,3,Suite,Travel Agent,Business,44.0,12675.0,Yes,2025-01,January,1,Thursday,0,Advance (31+d),38025.0,0.0
+BK1642,2025-12-05,1,Suite,Direct Website,Business,36.0,12748.0,No,2025-12,December,12,Friday,1,Advance (31+d),12748.0,12748.0
+BK1429,2025-04-14,1,Standard,OTA,Leisure,35.0,3344.0,No,2025-04,April,4,Monday,0,Advance (31+d),3344.0,3344.0
+BK2010,2025-07-05,2,Standard,Direct Website,Leisure,38.0,3556.0,No,2025-07,July,7,Saturday,1,Advance (31+d),7112.0,7112.0
+BK2084,2025-01-16,2,Standard,Walk-in,Business,0.0,4256.0,No,2025-01,January,1,Thursday,0,Last-Minute (0-7d),8512.0,8512.0
+BK1445,2025-12-28,3,Standard,OTA,Business,40.0,3678.0,No,2025-12,December,12,Sunday,1,Advance (31+d),11034.0,11034.0
+BK1041,2025-03-31,2,Standard,OTA,Leisure,21.0,3775.0,No,2025-03,March,3,Monday,0,Short-Term (8-30d),7550.0,7550.0
+BK1222,2025-09-20,2,Standard,Direct Website,Business,34.0,3607.0,No,2025-09,September,9,Saturday,1,Advance (31+d),7214.0,7214.0
+BK2122,2025-11-13,2,Suite,Direct Website,Business,45.0,9430.0,Yes,2025-11,November,11,Thursday,0,Advance (31+d),18860.0,0.0
+BK2144,2025-02-06,2,Deluxe,Corporate,Leisure,5.0,5665.0,Yes,2025-02,February,2,Thursday,0,Last-Minute (0-7d),11330.0,0.0
+BK1860,2025-02-15,5,Standard,Travel Agent,Leisure,11.0,3104.0,No,2025-02,February,2,Saturday,1,Short-Term (8-30d),15520.0,15520.0
+BK1113,2025-10-26,2,Deluxe,OTA,Business,13.0,6581.0,No,2025-10,October,10,Sunday,1,Short-Term (8-30d),13162.0,13162.0
+BK1048,2025-06-06,4,Deluxe,Direct Website,Leisure,12.0,4651.0,No,2025-06,June,6,Friday,1,Short-Term (8-30d),18604.0,18604.0
+BK1289,2025-02-18,2,Standard,Direct Website,Business,78.0,10596.0,No,2025-02,February,2,Tuesday,0,Advance (31+d),21192.0,21192.0
+BK1076,2025-09-19,2,Standard,Direct Website,Leisure,37.0,3608.0,No,2025-09,September,9,Friday,1,Advance (31+d),7216.0,7216.0
+BK1206,2025-05-07,5,Deluxe,Direct Website,Leisure,6.0,5342.0,No,2025-05,May,5,Wednesday,0,Last-Minute (0-7d),26710.0,26710.0
+BK1983,2025-10-05,2,Standard,Travel Agent,Leisure,24.0,3887.0,No,2025-10,October,10,Sunday,1,Short-Term (8-30d),7774.0,7774.0
+BK1123,2025-11-05,1,Standard,Direct Website,Business,20.0,4417.0,No,2025-11,November,11,Wednesday,0,Short-Term (8-30d),4417.0,4417.0
+BK2053,2025-03-18,2,Deluxe,Corporate,Business,11.0,5078.0,No,2025-03,March,3,Tuesday,0,Short-Term (8-30d),10156.0,10156.0
+BK1386,2025-05-16,5,Deluxe,Corporate,Leisure,32.0,4506.0,No,2025-05,May,5,Friday,1,Advance (31+d),22530.0,22530.0
+BK1225,2025-01-24,3,Deluxe,OTA,Business,54.0,8142.0,Yes,2025-01,January,1,Friday,1,Advance (31+d),24426.0,0.0
+BK2169,2025-10-12,7,Deluxe,OTA,Leisure,13.0,6864.0,Yes,2025-10,October,10,Sunday,1,Short-Term (8-30d),48048.0,0.0
+BK1632,2025-01-02,6,Deluxe,OTA,Leisure,104.0,6352.0,No,2025-01,January,1,Thursday,0,Advance (31+d),38112.0,38112.0
+BK1971,2025-12-03,1,Standard,Direct Website,Leisure,124.0,4035.0,No,2025-12,December,12,Wednesday,0,Advance (31+d),4035.0,4035.0
+BK1221,2025-04-20,3,Deluxe,Direct Website,Business,29.0,5128.0,No,2025-04,April,4,Sunday,1,Short-Term (8-30d),15384.0,15384.0
+BK2101,2025-08-27,2,Suite,Corporate,Business,52.0,10060.0,No,2025-08,August,8,Wednesday,0,Advance (31+d),20120.0,20120.0
+BK2115,2025-05-09,1,Standard,Corporate,Business,92.0,3463.0,No,2025-05,May,5,Friday,1,Advance (31+d),3463.0,3463.0
+BK1617,2025-01-04,5,Suite,Direct Website,Leisure,25.0,11040.0,No,2025-01,January,1,Saturday,1,Short-Term (8-30d),55200.0,55200.0
+BK1773,2025-10-03,3,Standard,OTA,Leisure,45.0,4523.0,No,2025-10,October,10,Friday,1,Advance (31+d),13569.0,13569.0
+BK1705,2025-02-22,3,Standard,Travel Agent,Leisure,115.0,3414.0,No,2025-02,February,2,Saturday,1,Advance (31+d),10242.0,10242.0
+BK2150,2025-12-17,1,Deluxe,Travel Agent,Business,2.0,5642.0,Yes,2025-12,December,12,Wednesday,0,Last-Minute (0-7d),5642.0,0.0
+BK1161,2025-09-11,6,Standard,OTA,Leisure,24.0,3610.0,No,2025-09,September,9,Thursday,0,Short-Term (8-30d),21660.0,21660.0
+BK1673,2025-05-01,1,Standard,OTA,Leisure,13.0,2904.0,Yes,2025-05,May,5,Thursday,0,Short-Term (8-30d),2904.0,0.0
+BK1408,2025-04-22,2,Deluxe,OTA,Business,6.0,5584.0,No,2025-04,April,4,Tuesday,0,Last-Minute (0-7d),11168.0,11168.0
+BK1629,2025-06-06,4,Deluxe,OTA,Leisure,19.0,5210.0,Yes,2025-06,June,6,Friday,1,Short-Term (8-30d),20840.0,0.0
+BK1927,2025-03-01,3,Standard,Walk-in,Business,0.0,2874.0,No,2025-03,March,3,Saturday,1,Last-Minute (0-7d),8622.0,8622.0
+BK1325,2025-11-01,4,Suite,Travel Agent,Leisure,31.0,10640.0,No,2025-11,November,11,Saturday,1,Advance (31+d),42560.0,42560.0
+BK1823,2025-02-05,1,Suite,Direct Website,Business,34.0,9829.0,No,2025-02,February,2,Wednesday,0,Advance (31+d),9829.0,9829.0
+BK1965,2025-10-03,2,Standard,Direct Website,Business,2.0,3108.0,No,2025-10,October,10,Friday,1,Last-Minute (0-7d),6216.0,6216.0
+BK1671,2025-10-26,3,Standard,Direct Website,Leisure,11.0,4726.0,No,2025-10,October,10,Sunday,1,Short-Term (8-30d),14178.0,14178.0
+BK1997,2025-12-02,1,Standard,Direct Website,Business,40.0,4436.0,No,2025-12,December,12,Tuesday,0,Advance (31+d),4436.0,4436.0
+BK1646,2025-10-29,2,Standard,OTA,Business,7.0,4360.0,No,2025-10,October,10,Wednesday,0,Last-Minute (0-7d),8720.0,8720.0
+BK1667,2025-08-17,2,Standard,Travel Agent,Business,29.0,10955.0,No,2025-08,August,8,Sunday,1,Short-Term (8-30d),21910.0,21910.0
+BK1139,2025-07-07,2,Deluxe,Travel Agent,Business,10.0,5370.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),10740.0,10740.0
+BK1787,2025-02-07,3,Standard,Direct Website,Leisure,44.0,3966.0,No,2025-02,February,2,Friday,1,Advance (31+d),11898.0,11898.0
+BK1707,2025-12-12,6,Deluxe,Travel Agent,Leisure,29.0,6849.0,No,2025-12,December,12,Friday,1,Short-Term (8-30d),41094.0,41094.0
+BK1572,2025-10-20,2,Standard,Walk-in,Business,0.0,4366.0,No,2025-10,October,10,Monday,0,Last-Minute (0-7d),8732.0,8732.0
+BK1352,2025-09-19,6,Deluxe,Direct Website,Leisure,33.0,4839.0,Yes,2025-09,September,9,Friday,1,Advance (31+d),29034.0,0.0
+BK2121,2025-03-05,6,Standard,Corporate,Leisure,47.0,3813.0,No,2025-03,March,3,Wednesday,0,Advance (31+d),22878.0,22878.0
+BK1165,2025-05-08,3,Suite,Travel Agent,Leisure,15.0,7947.0,No,2025-05,May,5,Thursday,0,Short-Term (8-30d),23841.0,23841.0
+BK1214,2025-05-01,2,Standard,OTA,Leisure,9.0,3077.0,No,2025-05,May,5,Thursday,0,Short-Term (8-30d),6154.0,6154.0
+BK1747,2025-02-02,1,Suite,Walk-in,Business,0.0,9732.0,No,2025-02,February,2,Sunday,1,Last-Minute (0-7d),9732.0,9732.0
+BK1297,2025-09-02,3,Standard,OTA,Business,43.0,3378.0,Yes,2025-09,September,9,Tuesday,0,Advance (31+d),10134.0,0.0
+BK1394,2025-10-11,4,Standard,Travel Agent,Leisure,92.0,3608.0,No,2025-10,October,10,Saturday,1,Advance (31+d),14432.0,14432.0
+BK1131,2025-06-24,7,Suite,Travel Agent,Leisure,77.0,9732.0,No,2025-06,June,6,Tuesday,0,Advance (31+d),68124.0,68124.0
+BK1314,2025-12-15,3,Standard,OTA,Leisure,11.0,4083.0,Yes,2025-12,December,12,Monday,0,Short-Term (8-30d),12249.0,0.0
+BK1138,2025-08-14,2,Suite,OTA,Business,14.0,9411.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),18822.0,18822.0
+BK1900,2025-04-20,5,Deluxe,Corporate,Leisure,9.0,5642.0,No,2025-04,April,4,Sunday,1,Short-Term (8-30d),28210.0,28210.0
+BK1341,2025-11-07,7,Standard,OTA,Leisure,26.0,5333.0,Yes,2025-11,November,11,Friday,1,Short-Term (8-30d),37331.0,0.0
+BK1416,2025-12-06,1,Standard,Travel Agent,Leisure,35.0,4365.0,No,2025-12,December,12,Saturday,1,Advance (31+d),4365.0,4365.0
+BK2172,2025-01-26,1,Standard,OTA,Leisure,93.0,4159.0,No,2025-01,January,1,Sunday,1,Advance (31+d),4159.0,4159.0
+BK1038,2025-10-25,2,Standard,OTA,Leisure,6.0,3542.0,Yes,2025-10,October,10,Saturday,1,Last-Minute (0-7d),7084.0,0.0
+BK1249,2025-02-28,2,Deluxe,Direct Website,Business,84.0,5061.0,No,2025-02,February,2,Friday,1,Advance (31+d),10122.0,10122.0
+BK2047,2025-05-28,3,Deluxe,OTA,Business,56.0,4829.0,No,2025-05,May,5,Wednesday,0,Advance (31+d),14487.0,14487.0
+BK1053,2025-09-19,5,Standard,OTA,Leisure,59.0,3646.0,Yes,2025-09,September,9,Friday,1,Advance (31+d),18230.0,0.0
+BK1706,2025-05-31,3,Standard,OTA,Leisure,48.0,2953.0,No,2025-05,May,5,Saturday,1,Advance (31+d),8859.0,8859.0
+BK1136,2025-06-24,3,Standard,OTA,Business,6.0,2912.0,No,2025-06,June,6,Tuesday,0,Last-Minute (0-7d),8736.0,8736.0
+BK1946,2025-06-18,7,Suite,OTA,Leisure,22.0,8640.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),60480.0,60480.0
+BK1964,2025-09-15,3,Suite,Direct Website,Business,59.0,8756.0,No,2025-09,September,9,Monday,0,Advance (31+d),26268.0,26268.0
+BK1035,2025-10-15,1,Standard,Direct Website,Business,31.0,4455.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),4455.0,4455.0
+BK1781,2025-01-26,2,Standard,Corporate,Leisure,23.0,3931.0,No,2025-01,January,1,Sunday,1,Short-Term (8-30d),7862.0,7862.0
+BK1657,2025-05-13,3,Deluxe,OTA,Business,63.0,4987.0,No,2025-05,May,5,Tuesday,0,Advance (31+d),14961.0,14961.0
+BK1378,2025-04-02,1,Deluxe,Travel Agent,Business,30.0,4788.0,No,2025-04,April,4,Wednesday,0,Short-Term (8-30d),4788.0,4788.0
+BK1923,2025-10-15,1,Standard,Travel Agent,Leisure,11.0,3608.0,No,2025-10,October,10,Wednesday,0,Short-Term (8-30d),3608.0,3608.0
+BK1578,2025-06-10,15,Deluxe,Corporate,Leisure,65.0,5642.0,Yes,2025-06,June,6,Tuesday,0,Advance (31+d),84630.0,0.0
+BK1814,2025-09-04,3,Deluxe,Corporate,Business,34.0,5580.0,No,2025-09,September,9,Thursday,0,Advance (31+d),16740.0,16740.0
+BK1748,2025-02-11,1,Deluxe,Direct Website,Leisure,9.0,5997.0,No,2025-02,February,2,Tuesday,0,Short-Term (8-30d),5997.0,5997.0
+BK2182,2025-01-24,3,Deluxe,OTA,Business,26.0,7074.0,Yes,2025-01,January,1,Friday,1,Short-Term (8-30d),21222.0,0.0
+BK1052,2025-06-13,7,Standard,OTA,Leisure,29.0,3158.0,No,2025-06,June,6,Friday,1,Short-Term (8-30d),22106.0,22106.0
+BK1377,2025-01-29,5,Standard,Travel Agent,Leisure,53.0,4278.0,No,2025-01,January,1,Wednesday,0,Advance (31+d),21390.0,21390.0
+BK1210,2025-07-25,3,Standard,Direct Website,Leisure,24.0,3566.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),10698.0,10698.0
+BK1911,2025-09-09,1,Standard,OTA,Leisure,18.0,3613.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),3613.0,3613.0
+BK1302,2025-07-24,3,Standard,Direct Website,Leisure,77.0,3623.0,No,2025-07,July,7,Thursday,0,Advance (31+d),10869.0,10869.0
+BK1246,2025-07-05,3,Standard,Direct Website,Business,24.0,4143.0,Yes,2025-07,July,7,Saturday,1,Short-Term (8-30d),12429.0,0.0
+BK2187,2025-09-11,1,Deluxe,Direct Website,Leisure,28.0,5778.0,No,2025-09,September,9,Thursday,0,Short-Term (8-30d),5778.0,5778.0
+BK1425,2025-01-28,5,Standard,Direct Website,Leisure,43.0,4531.0,Yes,2025-01,January,1,Tuesday,0,Advance (31+d),22655.0,0.0
+BK1845,2025-06-27,1,Standard,OTA,Business,55.0,3311.0,No,2025-06,June,6,Friday,1,Advance (31+d),3311.0,3311.0
+BK1028,2025-12-30,6,Suite,OTA,Leisure,31.0,11322.0,No,2025-12,December,12,Tuesday,0,Advance (31+d),67932.0,67932.0
+BK1889,2025-06-06,2,Deluxe,Direct Website,Business,19.0,4834.0,No,2025-06,June,6,Friday,1,Short-Term (8-30d),9668.0,9668.0
+BK1930,2025-06-18,7,Standard,OTA,Leisure,50.0,3512.0,No,2025-06,June,6,Wednesday,0,Advance (31+d),24584.0,24584.0
+BK1244,2025-03-07,1,Deluxe,Direct Website,Business,46.0,4765.0,No,2025-03,March,3,Friday,1,Advance (31+d),4765.0,4765.0
+BK1103,2025-12-24,1,Standard,OTA,Leisure,19.0,4291.0,No,2025-12,December,12,Wednesday,0,Short-Term (8-30d),4291.0,4291.0
+BK1276,2025-04-09,3,Standard,Direct Website,Business,66.0,2934.0,No,2025-04,April,4,Wednesday,0,Advance (31+d),8802.0,8802.0
+BK1393,2025-05-01,7,Standard,OTA,Leisure,35.0,2989.0,No,2025-05,May,5,Thursday,0,Advance (31+d),20923.0,20923.0
+BK1110,2025-09-03,2,Standard,Direct Website,Business,21.0,3654.0,Yes,2025-09,September,9,Wednesday,0,Short-Term (8-30d),7308.0,0.0
+BK1796,2025-11-29,4,Standard,Corporate,Leisure,50.0,4314.0,Yes,2025-11,November,11,Saturday,1,Advance (31+d),17256.0,0.0
+BK1159,2025-02-09,1,Deluxe,Direct Website,Business,35.0,5333.0,No,2025-02,February,2,Sunday,1,Advance (31+d),5333.0,5333.0
+BK1112,2025-08-29,5,Suite,Travel Agent,Leisure,30.0,9039.0,No,2025-08,August,8,Friday,1,Short-Term (8-30d),45195.0,45195.0
+BK1807,2025-01-14,2,Standard,OTA,Business,27.0,4724.0,No,2025-01,January,1,Tuesday,0,Short-Term (8-30d),9448.0,9448.0
+BK1660,2025-02-02,4,Deluxe,OTA,Leisure,28.0,5129.0,No,2025-02,February,2,Sunday,1,Short-Term (8-30d),20516.0,20516.0
+BK1811,2025-04-14,3,Deluxe,Direct Website,Leisure,15.0,4740.0,Yes,2025-04,April,4,Monday,0,Short-Term (8-30d),14220.0,0.0
+BK1784,2025-12-24,1,Standard,Travel Agent,Leisure,11.0,4070.0,No,2025-12,December,12,Wednesday,0,Short-Term (8-30d),4070.0,4070.0
+BK1329,2025-03-23,7,Deluxe,Walk-in,Leisure,0.0,5984.0,No,2025-03,March,3,Sunday,1,Last-Minute (0-7d),41888.0,41888.0
+BK1262,2025-05-29,3,Standard,Direct Website,Business,37.0,3113.0,Yes,2025-05,May,5,Thursday,0,Advance (31+d),9339.0,0.0
+BK1735,2025-04-11,3,Deluxe,Corporate,Leisure,18.0,5167.0,No,2025-04,April,4,Friday,1,Short-Term (8-30d),15501.0,15501.0
+BK1133,2025-12-02,3,Deluxe,OTA,Leisure,69.0,7774.0,No,2025-12,December,12,Tuesday,0,Advance (31+d),23322.0,23322.0
+BK1637,2025-03-08,3,Standard,OTA,Business,14.0,3570.0,No,2025-03,March,3,Saturday,1,Short-Term (8-30d),10710.0,10710.0
+BK1685,2025-05-16,1,Standard,Walk-in,Leisure,0.0,3022.0,No,2025-05,May,5,Friday,1,Last-Minute (0-7d),3022.0,3022.0
+BK1936,2025-10-23,3,Deluxe,Walk-in,Business,29.0,6554.0,No,2025-10,October,10,Thursday,0,Short-Term (8-30d),19662.0,19662.0
+BK1167,2025-06-29,1,Standard,Travel Agent,Business,49.0,2759.0,Yes,2025-06,June,6,Sunday,1,Advance (31+d),2759.0,0.0
+BK2119,2025-11-12,7,Deluxe,OTA,Leisure,52.0,7631.0,Yes,2025-11,November,11,Wednesday,0,Advance (31+d),53417.0,0.0
+BK2041,2025-07-05,1,Standard,Direct Website,Business,64.0,3608.0,No,2025-07,July,7,Saturday,1,Advance (31+d),3608.0,3608.0
+BK1154,2025-05-20,5,Standard,Direct Website,Leisure,13.0,3418.0,No,2025-05,May,5,Tuesday,0,Short-Term (8-30d),17090.0,17090.0
+BK1050,2025-04-20,3,Suite,OTA,Leisure,58.0,7667.0,No,2025-04,April,4,Sunday,1,Advance (31+d),23001.0,23001.0
+BK1024,2025-08-20,3,Deluxe,Unknown,Leisure,25.0,6002.0,No,2025-08,August,8,Wednesday,0,Short-Term (8-30d),18006.0,18006.0
+BK2131,2025-07-29,1,Deluxe,Direct Website,Leisure,7.0,5646.0,No,2025-07,July,7,Tuesday,0,Last-Minute (0-7d),5646.0,5646.0
+BK1443,2025-09-23,1,Standard,OTA,Leisure,13.0,3627.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),3627.0,3627.0
+BK1755,2025-04-09,2,Standard,Direct Website,Business,5.0,3144.0,No,2025-04,April,4,Wednesday,0,Last-Minute (0-7d),6288.0,6288.0
+BK2014,2025-11-03,4,Deluxe,OTA,Leisure,51.0,6893.0,No,2025-11,November,11,Monday,0,Advance (31+d),27572.0,27572.0
+BK1150,2025-09-09,5,Standard,Direct Website,Leisure,18.0,3608.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),18040.0,18040.0
+BK1553,2025-09-02,4,Standard,Travel Agent,Leisure,83.0,3511.0,No,2025-09,September,9,Tuesday,0,Advance (31+d),14044.0,14044.0
+BK1094,2025-04-27,5,Deluxe,Corporate,Leisure,21.0,4976.0,No,2025-04,April,4,Sunday,1,Short-Term (8-30d),24880.0,24880.0
+BK2145,2025-06-09,7,Deluxe,Direct Website,Leisure,24.0,4525.0,No,2025-06,June,6,Monday,0,Short-Term (8-30d),31675.0,31675.0
+BK1217,2025-07-22,2,Standard,Corporate,Leisure,24.0,3582.0,No,2025-07,July,7,Tuesday,0,Short-Term (8-30d),7164.0,7164.0
+BK1645,2025-08-25,7,Deluxe,Corporate,Leisure,87.0,4885.0,No,2025-08,August,8,Monday,0,Advance (31+d),34195.0,34195.0
+BK1381,2025-04-30,5,Standard,OTA,Leisure,38.0,2997.0,No,2025-04,April,4,Wednesday,0,Advance (31+d),14985.0,14985.0
+BK1023,2025-12-18,6,Deluxe,OTA,Leisure,17.0,7076.0,No,2025-12,December,12,Thursday,0,Short-Term (8-30d),42456.0,42456.0
+BK1292,2025-08-26,3,Suite,Travel Agent,Business,69.0,8595.0,Yes,2025-08,August,8,Tuesday,0,Advance (31+d),25785.0,0.0
+BK1712,2025-05-01,1,Suite,OTA,Leisure,50.0,8653.0,No,2025-05,May,5,Thursday,0,Advance (31+d),8653.0,8653.0
+BK1173,2025-12-08,3,Deluxe,Corporate,Business,24.0,7755.0,No,2025-12,December,12,Monday,0,Short-Term (8-30d),23265.0,23265.0
+BK1100,2025-09-30,4,Standard,Direct Website,Leisure,19.0,3504.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),14016.0,14016.0
+BK1025,2025-01-14,1,Suite,OTA,Leisure,120.0,11168.0,No,2025-01,January,1,Tuesday,0,Advance (31+d),11168.0,11168.0
+BK1603,2025-12-07,7,Suite,Direct Website,Leisure,10.0,12395.0,No,2025-12,December,12,Sunday,1,Short-Term (8-30d),86765.0,86765.0
+BK1339,2025-09-30,2,Standard,Direct Website,Leisure,11.0,3596.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),7192.0,7192.0
+BK1783,2025-06-05,5,Standard,OTA,Leisure,37.0,3285.0,No,2025-06,June,6,Thursday,0,Advance (31+d),16425.0,16425.0
+BK1834,2025-02-27,1,Suite,OTA,Leisure,39.0,10012.0,Yes,2025-02,February,2,Thursday,0,Advance (31+d),10012.0,0.0
+BK1952,2025-05-16,4,Deluxe,Travel Agent,Leisure,8.0,5343.0,Yes,2025-05,May,5,Friday,1,Short-Term (8-30d),21372.0,0.0
+BK1489,2025-03-17,3,Deluxe,OTA,Business,8.0,4970.0,No,2025-03,March,3,Monday,0,Short-Term (8-30d),14910.0,14910.0
+BK1844,2025-06-07,2,Deluxe,Corporate,Leisure,10.0,4832.0,No,2025-06,June,6,Saturday,1,Short-Term (8-30d),9664.0,9664.0
+BK1734,2025-06-30,2,Standard,OTA,Business,55.0,3254.0,No,2025-06,June,6,Monday,0,Advance (31+d),6508.0,6508.0
+BK1916,2025-08-09,2,Deluxe,OTA,Business,17.0,5855.0,Yes,2025-08,August,8,Saturday,1,Short-Term (8-30d),11710.0,0.0
+BK1700,2025-06-24,3,Suite,Corporate,Leisure,27.0,8558.0,No,2025-06,June,6,Tuesday,0,Short-Term (8-30d),25674.0,25674.0
+BK1354,2025-02-18,2,Suite,Direct Website,Business,30.0,9225.0,No,2025-02,February,2,Tuesday,0,Short-Term (8-30d),18450.0,18450.0
+BK2061,2025-05-22,3,Deluxe,Travel Agent,Business,111.0,5033.0,No,2025-05,May,5,Thursday,0,Advance (31+d),15099.0,15099.0
+BK1750,2025-01-30,2,Suite,OTA,Business,45.0,12451.0,No,2025-01,January,1,Thursday,0,Advance (31+d),24902.0,24902.0
+BK1925,2025-06-16,1,Standard,Corporate,Business,29.0,3114.0,Yes,2025-06,June,6,Monday,0,Short-Term (8-30d),3114.0,0.0
+BK1588,2025-07-15,7,Deluxe,Direct Website,Leisure,11.0,5078.0,No,2025-07,July,7,Tuesday,0,Short-Term (8-30d),35546.0,35546.0
+BK1242,2025-08-23,4,Deluxe,OTA,Leisure,38.0,5634.0,Yes,2025-08,August,8,Saturday,1,Advance (31+d),22536.0,0.0
+BK1168,2025-12-01,7,Standard,Travel Agent,Leisure,35.0,5100.0,No,2025-12,December,12,Monday,0,Advance (31+d),35700.0,35700.0
+BK1073,2025-05-10,2,Standard,Corporate,Business,52.0,3700.0,No,2025-05,May,5,Saturday,1,Advance (31+d),7400.0,7400.0
+BK1559,2025-09-01,7,Deluxe,Direct Website,Leisure,20.0,5507.0,No,2025-09,September,9,Monday,0,Short-Term (8-30d),38549.0,38549.0
+BK2054,2025-06-04,1,Standard,Corporate,Business,10.0,3041.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),3041.0,3041.0
+BK2198,2025-02-16,4,Suite,OTA,Leisure,36.0,10564.0,Yes,2025-02,February,2,Sunday,1,Advance (31+d),42256.0,0.0
+BK1118,2025-09-05,3,Standard,OTA,Business,81.0,3518.0,Yes,2025-09,September,9,Friday,1,Advance (31+d),10554.0,0.0
+BK1782,2025-02-26,1,Deluxe,OTA,Business,115.0,5567.0,No,2025-02,February,2,Wednesday,0,Advance (31+d),5567.0,5567.0
+BK1114,2025-08-10,7,Deluxe,OTA,Leisure,18.0,5857.0,No,2025-08,August,8,Sunday,1,Short-Term (8-30d),40999.0,40999.0
+BK1520,2025-03-30,7,Standard,OTA,Leisure,4.0,3274.0,No,2025-03,March,3,Sunday,1,Last-Minute (0-7d),22918.0,22918.0
+BK2042,2025-03-29,2,Standard,Walk-in,Leisure,0.0,3615.0,No,2025-03,March,3,Saturday,1,Last-Minute (0-7d),7230.0,7230.0
+BK1005,2025-12-20,1,Suite,OTA,Business,44.0,11861.0,No,2025-12,December,12,Saturday,1,Advance (31+d),11861.0,11861.0
+BK1475,2025-06-17,3,Standard,OTA,Business,54.0,3481.0,Yes,2025-06,June,6,Tuesday,0,Advance (31+d),10443.0,0.0
+BK1190,2025-06-10,1,Deluxe,Travel Agent,Business,34.0,5006.0,Yes,2025-06,June,6,Tuesday,0,Advance (31+d),5006.0,0.0
+BK1839,2025-03-16,2,Standard,Direct Website,Business,16.0,3297.0,Yes,2025-03,March,3,Sunday,1,Short-Term (8-30d),6594.0,0.0
+BK1069,2025-03-18,2,Standard,Direct Website,Business,24.0,3609.0,No,2025-03,March,3,Tuesday,0,Short-Term (8-30d),7218.0,7218.0
+BK1014,2025-05-20,7,Deluxe,OTA,Leisure,35.0,5172.0,No,2025-05,May,5,Tuesday,0,Advance (31+d),36204.0,36204.0
+BK1885,2025-12-01,2,Suite,OTA,Leisure,27.0,12291.0,Yes,2025-12,December,12,Monday,0,Short-Term (8-30d),24582.0,0.0
+BK1369,2025-02-03,3,Deluxe,OTA,Business,97.0,4983.0,Yes,2025-02,February,2,Monday,0,Advance (31+d),14949.0,0.0
+BK1078,2025-03-19,3,Deluxe,OTA,Business,19.0,5367.0,Yes,2025-03,March,3,Wednesday,0,Short-Term (8-30d),16101.0,0.0
+BK2146,2025-06-21,2,Deluxe,Direct Website,Business,78.0,5133.0,No,2025-06,June,6,Saturday,1,Advance (31+d),10266.0,10266.0
+BK1874,2025-03-11,4,Deluxe,Direct Website,Leisure,6.0,5831.0,No,2025-03,March,3,Tuesday,0,Last-Minute (0-7d),23324.0,23324.0
+BK1479,2025-05-26,1,Standard,Direct Website,Business,10.0,3135.0,No,2025-05,May,5,Monday,0,Short-Term (8-30d),3135.0,3135.0
+BK1516,2025-08-19,6,Deluxe,OTA,Leisure,13.0,5001.0,No,2025-08,August,8,Tuesday,0,Short-Term (8-30d),30006.0,30006.0
+BK2168,2025-05-06,4,Deluxe,Direct Website,Leisure,7.0,5631.0,No,2025-05,May,5,Tuesday,0,Last-Minute (0-7d),22524.0,22524.0
+BK1652,2025-11-30,1,Standard,Travel Agent,Business,56.0,4064.0,No,2025-11,November,11,Sunday,1,Advance (31+d),4064.0,4064.0
+BK1054,2025-10-26,6,Deluxe,Corporate,Leisure,28.0,7150.0,No,2025-10,October,10,Sunday,1,Short-Term (8-30d),42900.0,42900.0
+BK1467,2025-10-12,2,Deluxe,OTA,Leisure,78.0,7715.0,No,2025-10,October,10,Sunday,1,Advance (31+d),15430.0,15430.0
+BK1266,2025-10-20,6,Deluxe,Direct Website,Leisure,29.0,7891.0,No,2025-10,October,10,Monday,0,Short-Term (8-30d),47346.0,47346.0
+BK2086,2025-07-02,7,Suite,Travel Agent,Leisure,14.0,10114.0,Yes,2025-07,July,7,Wednesday,0,Short-Term (8-30d),70798.0,0.0
+BK1583,2025-11-27,5,Standard,OTA,Leisure,29.0,4965.0,Yes,2025-11,November,11,Thursday,0,Short-Term (8-30d),24825.0,0.0
+BK1766,2025-10-27,1,Deluxe,Corporate,Business,85.0,6939.0,No,2025-10,October,10,Monday,0,Advance (31+d),6939.0,6939.0
+BK1514,2025-11-09,1,Suite,Travel Agent,Leisure,20.0,11248.0,Yes,2025-11,November,11,Sunday,1,Short-Term (8-30d),11248.0,0.0
+BK2154,2025-11-10,1,Standard,Corporate,Leisure,27.0,5088.0,No,2025-11,November,11,Monday,0,Short-Term (8-30d),5088.0,5088.0
+BK1728,2025-10-11,4,Standard,OTA,Leisure,32.0,4501.0,No,2025-10,October,10,Saturday,1,Advance (31+d),18004.0,18004.0
+BK1059,2025-02-12,3,Standard,OTA,Business,12.0,3781.0,Yes,2025-02,February,2,Wednesday,0,Short-Term (8-30d),11343.0,0.0
+BK1503,2025-01-18,2,Suite,OTA,Business,56.0,11239.0,No,2025-01,January,1,Saturday,1,Advance (31+d),22478.0,22478.0
+BK1956,2025-06-25,3,Standard,Travel Agent,Leisure,39.0,3619.0,No,2025-06,June,6,Wednesday,0,Advance (31+d),10857.0,10857.0
+BK1166,2025-07-22,1,Deluxe,Travel Agent,Leisure,47.0,5722.0,No,2025-07,July,7,Tuesday,0,Advance (31+d),5722.0,5722.0
+BK1996,2025-10-29,2,Suite,Direct Website,Business,41.0,12179.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),24358.0,24358.0
+BK1951,2025-02-20,5,Suite,OTA,Leisure,51.0,9242.0,Yes,2025-02,February,2,Thursday,0,Advance (31+d),46210.0,0.0
+BK1331,2025-06-20,3,Standard,OTA,Business,27.0,3257.0,No,2025-06,June,6,Friday,1,Short-Term (8-30d),9771.0,9771.0
+BK2135,2025-03-24,4,Standard,OTA,Leisure,8.0,3277.0,No,2025-03,March,3,Monday,0,Short-Term (8-30d),13108.0,13108.0
+BK1500,2025-11-14,1,Suite,Direct Website,Business,48.0,12850.0,No,2025-11,November,11,Friday,1,Advance (31+d),12850.0,12850.0
+BK1247,2025-10-04,3,Deluxe,OTA,Business,16.0,6864.0,No,2025-10,October,10,Saturday,1,Short-Term (8-30d),20592.0,20592.0
+BK1373,2025-04-08,1,Suite,OTA,Leisure,19.0,8936.0,No,2025-04,April,4,Tuesday,0,Short-Term (8-30d),8936.0,8936.0
+BK1903,2025-06-13,6,Standard,Corporate,Leisure,30.0,3157.0,No,2025-06,June,6,Friday,1,Short-Term (8-30d),18942.0,18942.0
+BK1472,2025-06-15,1,Standard,Corporate,Leisure,49.0,3468.0,No,2025-06,June,6,Sunday,1,Advance (31+d),3468.0,3468.0
+BK1499,2025-11-16,4,Standard,Direct Website,Leisure,41.0,5069.0,No,2025-11,November,11,Sunday,1,Advance (31+d),20276.0,20276.0
+BK2062,2025-11-15,1,Suite,OTA,Leisure,40.0,11744.0,No,2025-11,November,11,Saturday,1,Advance (31+d),11744.0,11744.0
+BK2134,2025-03-10,1,Deluxe,OTA,Business,51.0,5488.0,No,2025-03,March,3,Monday,0,Advance (31+d),5488.0,5488.0
+BK1616,2025-07-01,3,Suite,Travel Agent,Business,33.0,8584.0,No,2025-07,July,7,Tuesday,0,Advance (31+d),25752.0,25752.0
+BK1563,2025-11-21,3,Deluxe,Corporate,Business,4.0,6937.0,No,2025-11,November,11,Friday,1,Last-Minute (0-7d),20811.0,20811.0
+BK1307,2025-09-16,3,Standard,Travel Agent,Leisure,39.0,3317.0,No,2025-09,September,9,Tuesday,0,Advance (31+d),9951.0,9951.0
+BK1560,2025-02-10,2,Deluxe,OTA,Business,49.0,4994.0,No,2025-02,February,2,Monday,0,Advance (31+d),9988.0,9988.0
+BK1859,2025-06-15,3,Standard,OTA,Leisure,44.0,2930.0,Yes,2025-06,June,6,Sunday,1,Advance (31+d),8790.0,0.0
+BK1720,2025-09-30,2,Standard,OTA,Leisure,48.0,3885.0,No,2025-09,September,9,Tuesday,0,Advance (31+d),7770.0,7770.0
+BK1566,2025-04-22,1,Standard,OTA,Leisure,16.0,3539.0,No,2025-04,April,4,Tuesday,0,Short-Term (8-30d),3539.0,3539.0
+BK1501,2025-04-25,2,Standard,OTA,Leisure,14.0,3491.0,No,2025-04,April,4,Friday,1,Short-Term (8-30d),6982.0,6982.0
+BK1998,2025-10-10,3,Suite,Travel Agent,Business,1.0,12122.0,No,2025-10,October,10,Friday,1,Last-Minute (0-7d),36366.0,36366.0
+BK1234,2025-11-15,1,Standard,Direct Website,Business,34.0,4045.0,No,2025-11,November,11,Saturday,1,Advance (31+d),4045.0,4045.0
+BK1626,2025-09-22,5,Suite,Direct Website,Leisure,14.0,9673.0,No,2025-09,September,9,Monday,0,Short-Term (8-30d),48365.0,48365.0
+BK2031,2025-08-18,4,Standard,Direct Website,Leisure,32.0,3479.0,No,2025-08,August,8,Monday,0,Advance (31+d),13916.0,13916.0
+BK1430,2025-07-12,3,Standard,Corporate,Business,78.0,3562.0,No,2025-07,July,7,Saturday,1,Advance (31+d),10686.0,10686.0
+BK2114,2025-06-02,1,Suite,OTA,Business,41.0,9599.0,Yes,2025-06,June,6,Monday,0,Advance (31+d),9599.0,0.0
+BK1899,2025-05-08,3,Standard,Direct Website,Leisure,8.0,3258.0,No,2025-05,May,5,Thursday,0,Short-Term (8-30d),9774.0,9774.0
+BK1191,2025-03-11,6,Deluxe,OTA,Leisure,29.0,5453.0,Yes,2025-03,March,3,Tuesday,0,Short-Term (8-30d),32718.0,0.0
+BK1880,2025-03-27,1,Deluxe,Corporate,Leisure,62.0,5241.0,No,2025-03,March,3,Thursday,0,Advance (31+d),5241.0,5241.0
+BK1151,2025-01-04,1,Suite,Direct Website,Business,60.0,11800.0,No,2025-01,January,1,Saturday,1,Advance (31+d),11800.0,11800.0
+BK1691,2025-11-07,1,Standard,Direct Website,Business,32.0,4757.0,Yes,2025-11,November,11,Friday,1,Advance (31+d),4757.0,0.0
+BK1435,2025-07-21,3,Standard,Direct Website,Business,8.0,3758.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),11274.0,11274.0
+BK1836,2025-01-08,7,Deluxe,Direct Website,Leisure,70.0,5642.0,Yes,2025-01,January,1,Wednesday,0,Advance (31+d),39494.0,0.0
+BK1666,2025-06-03,4,Standard,Travel Agent,Leisure,32.0,3159.0,No,2025-06,June,6,Tuesday,0,Advance (31+d),12636.0,12636.0
+BK1256,2025-02-01,7,Standard,Travel Agent,Leisure,21.0,3694.0,Yes,2025-02,February,2,Saturday,1,Short-Term (8-30d),25858.0,0.0
+BK1278,2025-08-27,5,Standard,Direct Website,Leisure,30.0,3171.0,No,2025-08,August,8,Wednesday,0,Short-Term (8-30d),15855.0,15855.0
+BK1960,2025-10-05,2,Deluxe,Direct Website,Business,50.0,6224.0,No,2025-10,October,10,Sunday,1,Advance (31+d),12448.0,12448.0
+BK1184,2025-12-24,2,Standard,Travel Agent,Business,8.0,4343.0,No,2025-12,December,12,Wednesday,0,Short-Term (8-30d),8686.0,8686.0
+BK1687,2025-08-04,3,Standard,OTA,Business,10.0,3191.0,No,2025-08,August,8,Monday,0,Short-Term (8-30d),9573.0,9573.0
+BK1541,2025-04-10,6,Standard,Direct Website,Leisure,12.0,3107.0,No,2025-04,April,4,Thursday,0,Short-Term (8-30d),18642.0,18642.0
+BK1638,2025-09-25,2,Standard,OTA,Business,13.0,3466.0,No,2025-09,September,9,Thursday,0,Short-Term (8-30d),6932.0,6932.0
+BK1569,2025-11-25,7,Standard,OTA,Leisure,25.0,4065.0,Yes,2025-11,November,11,Tuesday,0,Short-Term (8-30d),28455.0,0.0
+BK1582,2025-10-16,3,Standard,OTA,Business,37.0,4262.0,Yes,2025-10,October,10,Thursday,0,Advance (31+d),12786.0,0.0
+BK1383,2025-11-28,3,Standard,OTA,Leisure,65.0,4382.0,No,2025-11,November,11,Friday,1,Advance (31+d),13146.0,13146.0
+BK1145,2025-04-25,1,Standard,Travel Agent,Leisure,17.0,3554.0,No,2025-04,April,4,Friday,1,Short-Term (8-30d),3554.0,3554.0
+BK1336,2025-10-17,5,Standard,Direct Website,Leisure,40.0,4488.0,No,2025-10,October,10,Friday,1,Advance (31+d),22440.0,22440.0
+BK2153,2025-06-20,3,Deluxe,OTA,Leisure,96.0,4941.0,Yes,2025-06,June,6,Friday,1,Advance (31+d),14823.0,0.0
+BK1533,2025-05-01,21,Standard,Direct Website,Business,31.0,3193.0,Yes,2025-05,May,5,Thursday,0,Advance (31+d),67053.0,0.0
+BK1215,2025-12-16,4,Standard,Direct Website,Leisure,38.0,4414.0,No,2025-12,December,12,Tuesday,0,Advance (31+d),17656.0,17656.0
+BK2065,2025-01-31,1,Standard,Direct Website,Business,33.0,4606.0,Yes,2025-01,January,1,Friday,1,Advance (31+d),4606.0,0.0
+BK2006,2025-07-04,3,Standard,Corporate,Business,28.0,3256.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),9768.0,9768.0
+BK1798,2025-03-27,5,Suite,Direct Website,Leisure,61.0,9433.0,Yes,2025-03,March,3,Thursday,0,Advance (31+d),47165.0,0.0
+BK1954,2025-09-01,6,Suite,Travel Agent,Leisure,6.0,9309.0,No,2025-09,September,9,Monday,0,Last-Minute (0-7d),55854.0,55854.0
+BK1742,2025-04-16,6,Deluxe,OTA,Leisure,9.0,4823.0,Yes,2025-04,April,4,Wednesday,0,Short-Term (8-30d),28938.0,0.0
+BK1196,2025-02-11,6,Deluxe,OTA,Leisure,48.0,5721.0,No,2025-02,February,2,Tuesday,0,Advance (31+d),34326.0,34326.0
+BK1778,2025-05-25,4,Standard,OTA,Leisure,81.0,2869.0,No,2025-05,May,5,Sunday,1,Advance (31+d),11476.0,11476.0
+BK1495,2025-05-30,4,Standard,OTA,Leisure,29.0,2931.0,No,2025-05,May,5,Friday,1,Short-Term (8-30d),11724.0,11724.0
+BK1591,2025-04-01,7,Standard,Walk-in,Leisure,0.0,3219.0,Yes,2025-04,April,4,Tuesday,0,Last-Minute (0-7d),22533.0,0.0
+BK1017,2025-09-05,4,Standard,Corporate,Leisure,48.0,3547.0,No,2025-09,September,9,Friday,1,Advance (31+d),14188.0,14188.0
+BK1713,2025-09-16,1,Standard,Travel Agent,Business,11.0,3929.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),3929.0,3929.0
+BK1380,2025-07-10,5,Deluxe,Travel Agent,Leisure,42.0,12250.0,No,2025-07,July,7,Thursday,0,Advance (31+d),61250.0,61250.0
+BK1027,2025-12-18,3,Deluxe,OTA,Business,23.0,6694.0,No,2025-12,December,12,Thursday,0,Short-Term (8-30d),20082.0,20082.0
+BK1277,2025-06-23,7,Standard,OTA,Leisure,17.0,2992.0,No,2025-06,June,6,Monday,0,Short-Term (8-30d),20944.0,20944.0
+BK1789,2025-05-04,1,Deluxe,Corporate,Leisure,47.0,4970.0,No,2025-05,May,5,Sunday,1,Advance (31+d),4970.0,4970.0
+BK1631,2025-11-08,1,Deluxe,OTA,Business,35.0,8223.0,No,2025-11,November,11,Saturday,1,Advance (31+d),8223.0,8223.0
+BK1395,2025-11-07,1,Standard,Travel Agent,Leisure,24.0,4883.0,No,2025-11,November,11,Friday,1,Short-Term (8-30d),4883.0,4883.0
+BK1866,2025-06-10,7,Standard,Direct Website,Leisure,37.0,2892.0,No,2025-06,June,6,Tuesday,0,Advance (31+d),20244.0,20244.0
+BK1862,2025-10-13,3,Deluxe,Corporate,Business,8.0,6979.0,Yes,2025-10,October,10,Monday,0,Short-Term (8-30d),20937.0,0.0
+BK1320,2025-08-21,1,Standard,OTA,Business,16.0,3865.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),3865.0,3865.0
+BK1681,2025-05-14,1,Standard,Direct Website,Leisure,12.0,2743.0,No,2025-05,May,5,Wednesday,0,Short-Term (8-30d),2743.0,2743.0
+BK1147,2025-03-08,7,Suite,OTA,Leisure,35.0,8314.0,Yes,2025-03,March,3,Saturday,1,Advance (31+d),58198.0,0.0
+BK1797,2025-03-04,1,Deluxe,OTA,Leisure,63.0,6382.0,Yes,2025-03,March,3,Tuesday,0,Advance (31+d),6382.0,0.0
+BK1726,2025-03-29,7,Deluxe,OTA,Leisure,24.0,5418.0,No,2025-03,March,3,Saturday,1,Short-Term (8-30d),37926.0,37926.0
+BK1623,2025-09-03,4,Deluxe,OTA,Leisure,29.0,5417.0,No,2025-09,September,9,Wednesday,0,Short-Term (8-30d),21668.0,21668.0
+BK1238,2025-04-26,1,Deluxe,Walk-in,Business,0.0,5084.0,No,2025-04,April,4,Saturday,1,Last-Minute (0-7d),5084.0,5084.0
+BK1494,2025-05-29,3,Standard,Walk-in,Business,0.0,3140.0,No,2025-05,May,5,Thursday,0,Last-Minute (0-7d),9420.0,9420.0
+BK1910,2025-09-27,4,Deluxe,OTA,Leisure,20.0,5768.0,Yes,2025-09,September,9,Saturday,1,Short-Term (8-30d),23072.0,0.0
+BK1598,2025-06-28,6,Deluxe,Direct Website,Leisure,29.0,5465.0,Yes,2025-06,June,6,Saturday,1,Short-Term (8-30d),32790.0,0.0
+BK1895,2025-10-04,3,Standard,Direct Website,Business,68.0,4426.0,No,2025-10,October,10,Saturday,1,Advance (31+d),13278.0,13278.0
+BK1449,2025-06-28,1,Standard,Direct Website,Business,36.0,3395.0,No,2025-06,June,6,Saturday,1,Advance (31+d),3395.0,3395.0
+BK2094,2025-08-17,5,Standard,Direct Website,Leisure,38.0,3276.0,No,2025-08,August,8,Sunday,1,Advance (31+d),16380.0,16380.0
+BK2028,2025-07-11,2,Standard,OTA,Leisure,14.0,3728.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),7456.0,7456.0
+BK1106,2025-03-27,4,Deluxe,OTA,Leisure,17.0,5025.0,No,2025-03,March,3,Thursday,0,Short-Term (8-30d),20100.0,20100.0
+BK1350,2025-01-06,3,Standard,Direct Website,Business,18.0,4665.0,No,2025-01,January,1,Monday,0,Short-Term (8-30d),13995.0,13995.0
+BK1523,2025-03-13,1,Standard,OTA,Leisure,60.0,3444.0,No,2025-03,March,3,Thursday,0,Advance (31+d),3444.0,3444.0
+BK1650,2025-09-06,2,Standard,Walk-in,Business,0.0,3694.0,No,2025-09,September,9,Saturday,1,Last-Minute (0-7d),7388.0,7388.0
+BK1389,2025-07-30,3,Suite,OTA,Business,40.0,9519.0,Yes,2025-07,July,7,Wednesday,0,Advance (31+d),28557.0,0.0
+BK1448,2025-05-14,2,Standard,Travel Agent,Business,19.0,3184.0,No,2025-05,May,5,Wednesday,0,Short-Term (8-30d),6368.0,6368.0
+BK1093,2025-11-16,7,Deluxe,OTA,Leisure,33.0,6549.0,No,2025-11,November,11,Sunday,1,Advance (31+d),45843.0,45843.0
+BK1259,2025-10-10,5,Deluxe,Direct Website,Leisure,36.0,6203.0,No,2025-10,October,10,Friday,1,Advance (31+d),31015.0,31015.0
+BK1554,2025-05-17,3,Standard,Direct Website,Business,67.0,3184.0,Yes,2025-05,May,5,Saturday,1,Advance (31+d),9552.0,0.0
+BK1675,2025-10-28,6,Standard,OTA,Leisure,62.0,3736.0,Yes,2025-10,October,10,Tuesday,0,Advance (31+d),22416.0,0.0
+BK2155,2025-06-25,3,Deluxe,OTA,Leisure,11.0,5121.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),15363.0,15363.0
+BK1170,2025-06-05,3,Suite,Direct Website,Leisure,75.0,23155.0,No,2025-06,June,6,Thursday,0,Advance (31+d),69465.0,69465.0
+BK1254,2025-10-06,4,Standard,OTA,Leisure,38.0,4809.0,No,2025-10,October,10,Monday,0,Advance (31+d),19236.0,19236.0
+BK1731,2025-08-21,2,Deluxe,Direct Website,Business,27.0,5797.0,Yes,2025-08,August,8,Thursday,0,Short-Term (8-30d),11594.0,0.0
+BK1977,2025-03-19,4,Deluxe,Direct Website,Leisure,18.0,5086.0,No,2025-03,March,3,Wednesday,0,Short-Term (8-30d),20344.0,20344.0
+BK1602,2025-11-17,2,Standard,Corporate,Leisure,38.0,4296.0,No,2025-11,November,11,Monday,0,Advance (31+d),8592.0,8592.0
+BK1252,2025-07-28,5,Deluxe,OTA,Leisure,11.0,5294.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),26470.0,26470.0
+BK1306,2025-07-11,3,Deluxe,Direct Website,Leisure,29.0,6090.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),18270.0,18270.0
+BK1547,2025-11-21,7,Standard,Direct Website,Leisure,50.0,4203.0,No,2025-11,November,11,Friday,1,Advance (31+d),29421.0,29421.0
+BK1415,2025-11-28,1,Suite,Direct Website,Business,12.0,10451.0,No,2025-11,November,11,Friday,1,Short-Term (8-30d),10451.0,10451.0
+BK2194,2025-06-27,3,Suite,Direct Website,Leisure,14.0,8433.0,Yes,2025-06,June,6,Friday,1,Short-Term (8-30d),25299.0,0.0
+BK2035,2025-03-30,3,Suite,Walk-in,Business,0.0,9290.0,No,2025-03,March,3,Sunday,1,Last-Minute (0-7d),27870.0,27870.0
+BK1428,2025-07-14,3,Suite,OTA,Leisure,12.0,9732.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),29196.0,29196.0
+BK1186,2025-08-05,2,Standard,Travel Agent,Leisure,34.0,3254.0,No,2025-08,August,8,Tuesday,0,Advance (31+d),6508.0,6508.0
+BK1851,2025-11-09,2,Deluxe,Direct Website,Business,19.0,6533.0,No,2025-11,November,11,Sunday,1,Short-Term (8-30d),13066.0,13066.0
+BK1815,2025-03-24,1,Deluxe,Walk-in,Leisure,0.0,5387.0,No,2025-03,March,3,Monday,0,Last-Minute (0-7d),5387.0,5387.0
+BK1908,2025-10-13,3,Deluxe,OTA,Business,45.0,6775.0,No,2025-10,October,10,Monday,0,Advance (31+d),20325.0,20325.0
+BK1269,2025-12-05,7,Standard,OTA,Leisure,27.0,4313.0,No,2025-12,December,12,Friday,1,Short-Term (8-30d),30191.0,30191.0
+BK1867,2025-07-28,3,Standard,Travel Agent,Leisure,43.0,3315.0,No,2025-07,July,7,Monday,0,Advance (31+d),9945.0,9945.0
+BK1986,2025-02-04,2,Suite,OTA,Business,31.0,9950.0,Yes,2025-02,February,2,Tuesday,0,Advance (31+d),19900.0,0.0
+BK1699,2025-01-22,3,Suite,OTA,Leisure,16.0,12994.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),38982.0,38982.0
+BK1630,2025-03-09,2,Deluxe,Travel Agent,Business,50.0,5887.0,Yes,2025-03,March,3,Sunday,1,Advance (31+d),11774.0,0.0
+BK1950,2025-08-29,6,Suite,Direct Website,Leisure,6.0,9415.0,No,2025-08,August,8,Friday,1,Last-Minute (0-7d),56490.0,56490.0
+BK1162,2025-09-13,1,Deluxe,OTA,Business,19.0,5425.0,No,2025-09,September,9,Saturday,1,Short-Term (8-30d),5425.0,5425.0
+BK1413,2025-11-24,2,Deluxe,Walk-in,Business,0.0,7815.0,No,2025-11,November,11,Monday,0,Last-Minute (0-7d),15630.0,15630.0
+BK2118,2025-07-12,7,Deluxe,OTA,Leisure,32.0,5063.0,No,2025-07,July,7,Saturday,1,Advance (31+d),35441.0,35441.0
+BK1095,2025-01-21,2,Standard,OTA,Leisure,27.0,3226.0,No,2025-01,January,1,Tuesday,0,Short-Term (8-30d),6452.0,6452.0
+BK1098,2025-12-15,4,Deluxe,Direct Website,Leisure,38.0,7543.0,Yes,2025-12,December,12,Monday,0,Advance (31+d),30172.0,0.0
+BK1006,2025-01-15,6,Deluxe,OTA,Leisure,12.0,6767.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),40602.0,40602.0
+BK1876,2025-08-09,4,Deluxe,OTA,Leisure,23.0,15229.0,Yes,2025-08,August,8,Saturday,1,Short-Term (8-30d),60916.0,0.0
+BK1822,2025-05-02,2,Deluxe,Direct Website,Leisure,47.0,5157.0,No,2025-05,May,5,Friday,1,Advance (31+d),10314.0,10314.0
+BK1207,2025-08-03,3,Suite,OTA,Leisure,49.0,8189.0,No,2025-08,August,8,Sunday,1,Advance (31+d),24567.0,24567.0
+BK1803,2025-12-08,1,Deluxe,Walk-in,Business,0.0,6412.0,Yes,2025-12,December,12,Monday,0,Last-Minute (0-7d),6412.0,0.0
+BK1686,2025-08-22,2,Standard,Corporate,Leisure,16.0,2717.0,No,2025-08,August,8,Friday,1,Short-Term (8-30d),5434.0,5434.0
+BK1872,2025-11-03,5,Deluxe,Direct Website,Leisure,14.0,6847.0,No,2025-11,November,11,Monday,0,Short-Term (8-30d),34235.0,34235.0
+BK1245,2025-11-01,2,Suite,Direct Website,Leisure,1.0,10980.0,No,2025-11,November,11,Saturday,1,Last-Minute (0-7d),21960.0,21960.0
+BK1611,2025-01-29,2,Suite,Direct Website,Leisure,26.0,12596.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),25192.0,25192.0
+BK1229,2025-11-30,4,Suite,Walk-in,Leisure,0.0,35867.0,No,2025-11,November,11,Sunday,1,Last-Minute (0-7d),143468.0,143468.0
+BK1264,2025-07-14,2,Deluxe,Travel Agent,Business,33.0,5812.0,No,2025-07,July,7,Monday,0,Advance (31+d),11624.0,11624.0
+BK1906,2025-10-13,1,Standard,OTA,Business,11.0,3640.0,No,2025-10,October,10,Monday,0,Short-Term (8-30d),3640.0,3640.0
+BK1368,2025-03-18,2,Suite,Direct Website,Business,27.0,9539.0,No,2025-03,March,3,Tuesday,0,Short-Term (8-30d),19078.0,19078.0
+BK2005,2025-07-21,1,Standard,OTA,Business,18.0,2676.0,Yes,2025-07,July,7,Monday,0,Short-Term (8-30d),2676.0,0.0
+BK1896,2025-05-18,5,Suite,Direct Website,Leisure,37.0,8500.0,No,2025-05,May,5,Sunday,1,Advance (31+d),42500.0,42500.0
+BK2136,2025-08-13,3,Standard,Direct Website,Business,27.0,3302.0,Yes,2025-08,August,8,Wednesday,0,Short-Term (8-30d),9906.0,0.0
+BK1201,2025-03-15,1,Standard,Corporate,Business,55.0,3668.0,No,2025-03,March,3,Saturday,1,Advance (31+d),3668.0,3668.0
+BK1729,2025-09-30,5,Suite,Direct Website,Leisure,16.0,11478.0,No,2025-09,September,9,Tuesday,0,Short-Term (8-30d),57390.0,57390.0
+BK2163,2025-10-08,7,Deluxe,Direct Website,Leisure,84.0,7265.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),50855.0,50855.0
+BK1799,2025-10-26,1,Standard,OTA,Leisure,15.0,4305.0,No,2025-10,October,10,Sunday,1,Short-Term (8-30d),4305.0,4305.0
+BK1865,2025-11-20,3,Standard,Travel Agent,Business,15.0,4657.0,No,2025-11,November,11,Thursday,0,Short-Term (8-30d),13971.0,13971.0
+BK1403,2025-07-04,3,Standard,Direct Website,Business,29.0,3445.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),10335.0,10335.0
+BK2040,2025-08-21,1,Standard,OTA,Business,14.0,3753.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),3753.0,3753.0
+BK1791,2025-03-14,6,Standard,Direct Website,Leisure,40.0,3694.0,No,2025-03,March,3,Friday,1,Advance (31+d),22164.0,22164.0
+BK1610,2025-12-07,2,Standard,OTA,Business,24.0,4702.0,Yes,2025-12,December,12,Sunday,1,Short-Term (8-30d),9404.0,0.0
+BK1189,2025-08-11,3,Deluxe,OTA,Business,111.0,16551.0,Yes,2025-08,August,8,Monday,0,Advance (31+d),49653.0,0.0
+BK1886,2025-10-07,16,Standard,Travel Agent,Leisure,8.0,4104.0,No,2025-10,October,10,Tuesday,0,Short-Term (8-30d),65664.0,65664.0
+BK1332,2025-10-03,1,Standard,OTA,Leisure,42.0,3963.0,No,2025-10,October,10,Friday,1,Advance (31+d),3963.0,3963.0
+BK1303,2025-02-12,1,Deluxe,OTA,Leisure,26.0,5764.0,Yes,2025-02,February,2,Wednesday,0,Short-Term (8-30d),5764.0,0.0
+BK1260,2025-07-08,3,Deluxe,Walk-in,Business,0.0,5417.0,No,2025-07,July,7,Tuesday,0,Last-Minute (0-7d),16251.0,16251.0
+BK1144,2025-01-05,3,Standard,OTA,Leisure,57.0,4036.0,Yes,2025-01,January,1,Sunday,1,Advance (31+d),12108.0,0.0
+BK1828,2025-11-26,3,Standard,OTA,Business,29.0,4340.0,No,2025-11,November,11,Wednesday,0,Short-Term (8-30d),13020.0,13020.0
+BK1627,2025-10-27,3,Standard,Corporate,Business,43.0,3608.0,No,2025-10,October,10,Monday,0,Advance (31+d),10824.0,10824.0
+BK1698,2025-08-04,2,Standard,OTA,Leisure,24.0,4174.0,No,2025-08,August,8,Monday,0,Short-Term (8-30d),8348.0,8348.0
+BK1919,2025-10-28,5,Standard,Direct Website,Leisure,22.0,3935.0,No,2025-10,October,10,Tuesday,0,Short-Term (8-30d),19675.0,19675.0
+BK2128,2025-03-01,7,Deluxe,Corporate,Leisure,9.0,5820.0,No,2025-03,March,3,Saturday,1,Short-Term (8-30d),40740.0,40740.0
+BK1937,2025-12-02,2,Deluxe,Direct Website,Business,13.0,6833.0,No,2025-12,December,12,Tuesday,0,Short-Term (8-30d),13666.0,13666.0
+BK1011,2025-01-04,2,Deluxe,Direct Website,Business,49.0,7495.0,No,2025-01,January,1,Saturday,1,Advance (31+d),14990.0,14990.0
+BK1008,2025-01-14,7,Suite,OTA,Leisure,51.0,11013.0,No,2025-01,January,1,Tuesday,0,Advance (31+d),77091.0,77091.0
+BK1890,2025-08-18,4,Standard,OTA,Leisure,44.0,3249.0,No,2025-08,August,8,Monday,0,Advance (31+d),12996.0,12996.0
+BK1594,2025-05-20,3,Deluxe,OTA,Leisure,25.0,5028.0,No,2025-05,May,5,Tuesday,0,Short-Term (8-30d),15084.0,15084.0
+BK1693,2025-02-18,1,Standard,Corporate,Business,64.0,3132.0,No,2025-02,February,2,Tuesday,0,Advance (31+d),3132.0,3132.0
+BK1531,2025-11-21,1,Standard,Direct Website,Leisure,11.0,3939.0,No,2025-11,November,11,Friday,1,Short-Term (8-30d),3939.0,3939.0
+BK1894,2025-02-16,1,Deluxe,OTA,Business,29.0,5147.0,Yes,2025-02,February,2,Sunday,1,Short-Term (8-30d),5147.0,0.0
+BK2193,2025-05-03,4,Standard,OTA,Leisure,40.0,3409.0,Yes,2025-05,May,5,Saturday,1,Advance (31+d),13636.0,0.0
+BK1469,2025-07-21,4,Standard,OTA,Leisure,8.0,3788.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),15152.0,15152.0
+BK1127,2025-07-31,3,Standard,Direct Website,Business,70.0,3545.0,Yes,2025-07,July,7,Thursday,0,Advance (31+d),10635.0,0.0
+BK1736,2025-09-27,2,Standard,OTA,Business,22.0,3896.0,No,2025-09,September,9,Saturday,1,Short-Term (8-30d),7792.0,7792.0
+BK2044,2025-04-28,4,Standard,OTA,Leisure,41.0,3671.0,No,2025-04,April,4,Monday,0,Advance (31+d),14684.0,14684.0
+BK1057,2025-07-14,1,Deluxe,Direct Website,Business,15.0,5721.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),5721.0,5721.0
+BK1955,2025-04-05,3,Deluxe,OTA,Leisure,2.0,4254.0,Yes,2025-04,April,4,Saturday,1,Last-Minute (0-7d),12762.0,0.0
+BK1033,2025-09-04,3,Deluxe,OTA,Business,18.0,5191.0,No,2025-09,September,9,Thursday,0,Short-Term (8-30d),15573.0,15573.0
+BK1237,2025-01-05,3,Standard,OTA,Leisure,7.0,4796.0,Yes,2025-01,January,1,Sunday,1,Last-Minute (0-7d),14388.0,0.0
+BK2178,2025-03-30,1,Standard,Direct Website,Business,63.0,3832.0,No,2025-03,March,3,Sunday,1,Advance (31+d),3832.0,3832.0
+BK1282,2025-03-20,3,Standard,Corporate,Leisure,23.0,3757.0,No,2025-03,March,3,Thursday,0,Short-Term (8-30d),11271.0,11271.0
+BK1586,2025-07-24,2,Standard,Direct Website,Business,83.0,3730.0,No,2025-07,July,7,Thursday,0,Advance (31+d),7460.0,7460.0
+BK1934,2025-06-25,2,Standard,OTA,Business,18.0,2955.0,No,2025-06,June,6,Wednesday,0,Short-Term (8-30d),5910.0,5910.0
+BK1362,2025-02-10,7,Standard,Direct Website,Leisure,27.0,3182.0,No,2025-02,February,2,Monday,0,Short-Term (8-30d),22274.0,22274.0
+BK1243,2025-07-15,3,Deluxe,Direct Website,Business,22.0,5979.0,Yes,2025-07,July,7,Tuesday,0,Short-Term (8-30d),17937.0,0.0
+BK1092,2025-07-02,2,Standard,OTA,Business,20.0,3680.0,Yes,2025-07,July,7,Wednesday,0,Short-Term (8-30d),7360.0,0.0
+BK1337,2025-07-30,3,Deluxe,OTA,Business,18.0,6130.0,Yes,2025-07,July,7,Wednesday,0,Short-Term (8-30d),18390.0,0.0
+BK2013,2025-02-19,1,Suite,OTA,Leisure,65.0,8075.0,No,2025-02,February,2,Wednesday,0,Advance (31+d),8075.0,8075.0
+BK1947,2025-02-15,2,Deluxe,Travel Agent,Business,34.0,5862.0,No,2025-02,February,2,Saturday,1,Advance (31+d),11724.0,11724.0
+BK1039,2025-02-22,1,Suite,OTA,Business,47.0,10370.0,No,2025-02,February,2,Saturday,1,Advance (31+d),10370.0,10370.0
+BK1975,2025-03-31,3,Standard,Direct Website,Business,8.0,3660.0,No,2025-03,March,3,Monday,0,Short-Term (8-30d),10980.0,10980.0
+BK1634,2025-04-03,7,Deluxe,Direct Website,Leisure,33.0,4737.0,Yes,2025-04,April,4,Thursday,0,Advance (31+d),33159.0,0.0
+BK1764,2025-06-10,7,Suite,Corporate,Leisure,18.0,7718.0,No,2025-06,June,6,Tuesday,0,Short-Term (8-30d),54026.0,54026.0
+BK1723,2025-05-01,6,Standard,OTA,Leisure,45.0,3056.0,Yes,2025-05,May,5,Thursday,0,Advance (31+d),18336.0,0.0
+BK1063,2025-07-02,6,Standard,Direct Website,Leisure,32.0,2870.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),17220.0,17220.0
+BK1233,2025-10-15,3,Deluxe,Direct Website,Leisure,23.0,6592.0,No,2025-10,October,10,Wednesday,0,Short-Term (8-30d),19776.0,19776.0
+BK1676,2025-04-29,4,Deluxe,Travel Agent,Leisure,4.0,4561.0,No,2025-04,April,4,Tuesday,0,Last-Minute (0-7d),18244.0,18244.0
+BK1105,2025-10-23,2,Standard,Corporate,Leisure,25.0,4336.0,No,2025-10,October,10,Thursday,0,Short-Term (8-30d),8672.0,8672.0
+BK1753,2025-11-28,3,Standard,OTA,Business,11.0,4494.0,No,2025-11,November,11,Friday,1,Short-Term (8-30d),13482.0,13482.0
+BK1902,2025-01-20,1,Deluxe,Direct Website,Business,45.0,6695.0,No,2025-01,January,1,Monday,0,Advance (31+d),6695.0,6695.0
+BK1253,2025-09-14,4,Standard,Direct Website,Leisure,39.0,3407.0,No,2025-09,September,9,Sunday,1,Advance (31+d),13628.0,13628.0
+BK1422,2025-09-24,5,Suite,OTA,Leisure,21.0,9632.0,Yes,2025-09,September,9,Wednesday,0,Short-Term (8-30d),48160.0,0.0
+BK1774,2025-11-19,6,Standard,OTA,Leisure,56.0,4459.0,No,2025-11,November,11,Wednesday,0,Advance (31+d),26754.0,26754.0
+BK1858,2025-01-30,3,Deluxe,Walk-in,Business,0.0,7522.0,No,2025-01,January,1,Thursday,0,Last-Minute (0-7d),22566.0,22566.0
+BK1924,2025-01-21,7,Standard,OTA,Leisure,34.0,4318.0,No,2025-01,January,1,Tuesday,0,Advance (31+d),30226.0,30226.0
+BK1079,2025-06-12,7,Standard,OTA,Leisure,69.0,3228.0,No,2025-06,June,6,Thursday,0,Advance (31+d),22596.0,22596.0
+BK1989,2025-07-14,2,Deluxe,OTA,Business,88.0,5397.0,Yes,2025-07,July,7,Monday,0,Advance (31+d),10794.0,0.0
+BK1497,2025-01-20,2,Standard,Corporate,Business,23.0,4448.0,No,2025-01,January,1,Monday,0,Short-Term (8-30d),8896.0,8896.0
+BK2176,2025-02-08,3,Deluxe,Direct Website,Business,16.0,5774.0,No,2025-02,February,2,Saturday,1,Short-Term (8-30d),17322.0,17322.0
+BK1087,2025-09-20,2,Suite,OTA,Business,9.0,9224.0,No,2025-09,September,9,Saturday,1,Short-Term (8-30d),18448.0,18448.0
+BK1064,2025-01-10,5,Suite,Travel Agent,Leisure,12.0,12537.0,No,2025-01,January,1,Friday,1,Short-Term (8-30d),62685.0,62685.0
+BK1605,2025-06-15,2,Deluxe,Travel Agent,Leisure,40.0,5184.0,No,2025-06,June,6,Sunday,1,Advance (31+d),10368.0,10368.0
+BK1274,2025-08-31,1,Standard,OTA,Leisure,71.0,3352.0,Yes,2025-08,August,8,Sunday,1,Advance (31+d),3352.0,0.0
+BK2090,2025-07-17,1,Standard,Direct Website,Leisure,62.0,3361.0,Yes,2025-07,July,7,Thursday,0,Advance (31+d),3361.0,0.0
+BK1153,2025-09-20,3,Standard,Direct Website,Business,15.0,3302.0,No,2025-09,September,9,Saturday,1,Short-Term (8-30d),9906.0,9906.0
+BK1613,2025-12-27,1,Deluxe,Direct Website,Business,60.0,7002.0,No,2025-12,December,12,Saturday,1,Advance (31+d),7002.0,7002.0
+BK1410,2025-06-25,3,Standard,OTA,Leisure,72.0,3254.0,No,2025-06,June,6,Wednesday,0,Advance (31+d),9762.0,9762.0
+BK1830,2025-08-09,1,Standard,Direct Website,Business,55.0,3929.0,No,2025-08,August,8,Saturday,1,Advance (31+d),3929.0,3929.0
+BK1912,2025-10-06,6,Standard,Travel Agent,Leisure,25.0,4330.0,Yes,2025-10,October,10,Monday,0,Short-Term (8-30d),25980.0,0.0
+BK1517,2025-09-25,2,Deluxe,OTA,Leisure,25.0,5500.0,No,2025-09,September,9,Thursday,0,Short-Term (8-30d),11000.0,11000.0
+BK1044,2025-06-01,6,Standard,Direct Website,Leisure,13.0,3370.0,No,2025-06,June,6,Sunday,1,Short-Term (8-30d),20220.0,20220.0
+BK1390,2025-07-09,2,Deluxe,Travel Agent,Business,8.0,5638.0,No,2025-07,July,7,Wednesday,0,Short-Term (8-30d),11276.0,11276.0
+BK1140,2025-03-07,1,Standard,OTA,Business,34.0,2790.0,Yes,2025-03,March,3,Friday,1,Advance (31+d),2790.0,0.0
+BK1357,2025-07-14,1,Standard,Corporate,Leisure,29.0,3447.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),3447.0,3447.0
+BK1722,2025-03-07,5,Standard,Direct Website,Leisure,61.0,3690.0,Yes,2025-03,March,3,Friday,1,Advance (31+d),18450.0,0.0
+BK1261,2025-09-26,2,Suite,OTA,Leisure,62.0,9582.0,No,2025-09,September,9,Friday,1,Advance (31+d),19164.0,19164.0
+BK1898,2025-03-28,3,Standard,Travel Agent,Business,29.0,2848.0,No,2025-03,March,3,Friday,1,Short-Term (8-30d),8544.0,8544.0
+BK1195,2025-07-30,7,Deluxe,Direct Website,Leisure,55.0,5394.0,No,2025-07,July,7,Wednesday,0,Advance (31+d),37758.0,37758.0
+BK1115,2025-12-19,3,Standard,Corporate,Business,1.0,4109.0,No,2025-12,December,12,Friday,1,Last-Minute (0-7d),12327.0,12327.0
+BK2073,2025-12-07,3,Standard,OTA,Leisure,3.0,3967.0,No,2025-12,December,12,Sunday,1,Last-Minute (0-7d),11901.0,11901.0
+BK1718,2025-12-26,5,Standard,Travel Agent,Leisure,49.0,4543.0,No,2025-12,December,12,Friday,1,Advance (31+d),22715.0,22715.0
+BK2185,2025-12-18,5,Deluxe,Direct Website,Leisure,32.0,7513.0,No,2025-12,December,12,Thursday,0,Advance (31+d),37565.0,37565.0
+BK2088,2025-11-21,1,Deluxe,OTA,Leisure,21.0,7558.0,No,2025-11,November,11,Friday,1,Short-Term (8-30d),7558.0,7558.0
+BK1358,2025-06-04,5,Suite,OTA,Leisure,17.0,8506.0,Yes,2025-06,June,6,Wednesday,0,Short-Term (8-30d),42530.0,0.0
+BK2060,2025-07-08,6,Suite,Corporate,Leisure,41.0,8548.0,Yes,2025-07,July,7,Tuesday,0,Advance (31+d),51288.0,0.0
+BK2019,2025-01-25,1,Suite,OTA,Business,21.0,12727.0,Yes,2025-01,January,1,Saturday,1,Short-Term (8-30d),12727.0,0.0
+BK2000,2025-08-13,3,Deluxe,OTA,Business,19.0,5417.0,No,2025-08,August,8,Wednesday,0,Short-Term (8-30d),16251.0,16251.0
+BK1935,2025-05-30,1,Deluxe,OTA,Business,58.0,5265.0,No,2025-05,May,5,Friday,1,Advance (31+d),5265.0,5265.0
+BK1754,2025-06-19,3,Deluxe,Direct Website,Business,21.0,4885.0,No,2025-06,June,6,Thursday,0,Short-Term (8-30d),14655.0,14655.0
+BK1420,2025-07-11,3,Deluxe,Direct Website,Business,23.0,5642.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),16926.0,16926.0
+BK1149,2025-11-04,3,Standard,OTA,Business,46.0,4404.0,Yes,2025-11,November,11,Tuesday,0,Advance (31+d),13212.0,0.0
+BK1009,2025-10-18,1,Suite,OTA,Business,51.0,13140.0,Yes,2025-10,October,10,Saturday,1,Advance (31+d),13140.0,0.0
+BK2069,2025-01-01,2,Deluxe,Direct Website,Business,57.0,7173.0,No,2025-01,January,1,Wednesday,0,Advance (31+d),14346.0,14346.0
+BK2166,2025-12-11,3,Standard,Walk-in,Business,0.0,4261.0,No,2025-12,December,12,Thursday,0,Last-Minute (0-7d),12783.0,12783.0
+BK1534,2025-12-19,7,Suite,OTA,Leisure,19.0,11499.0,No,2025-12,December,12,Friday,1,Short-Term (8-30d),80493.0,80493.0
+BK1548,2025-01-01,6,Standard,OTA,Leisure,72.0,4571.0,No,2025-01,January,1,Wednesday,0,Advance (31+d),27426.0,27426.0
+BK1298,2025-02-05,7,Standard,Travel Agent,Leisure,41.0,3196.0,No,2025-02,February,2,Wednesday,0,Advance (31+d),22372.0,22372.0
+BK1976,2025-04-18,2,Standard,Direct Website,Leisure,20.0,3012.0,Yes,2025-04,April,4,Friday,1,Short-Term (8-30d),6024.0,0.0
+BK1122,2025-10-05,2,Deluxe,Corporate,Business,89.0,6842.0,No,2025-10,October,10,Sunday,1,Advance (31+d),13684.0,13684.0
+BK2125,2025-10-28,6,Deluxe,Corporate,Leisure,61.0,6513.0,No,2025-10,October,10,Tuesday,0,Advance (31+d),39078.0,39078.0
+BK1709,2025-07-05,2,Deluxe,Direct Website,Business,8.0,5054.0,No,2025-07,July,7,Saturday,1,Short-Term (8-30d),10108.0,10108.0
+BK2108,2025-07-27,3,Standard,Corporate,Business,29.0,3733.0,No,2025-07,July,7,Sunday,1,Short-Term (8-30d),11199.0,11199.0
+BK1769,2025-07-14,2,Standard,Direct Website,Leisure,120.0,3429.0,Yes,2025-07,July,7,Monday,0,Advance (31+d),6858.0,0.0
+BK1088,2025-12-12,5,Standard,Direct Website,Leisure,59.0,4631.0,No,2025-12,December,12,Friday,1,Advance (31+d),23155.0,23155.0
+BK2032,2025-02-26,1,Standard,Direct Website,Business,39.0,3391.0,No,2025-02,February,2,Wednesday,0,Advance (31+d),3391.0,3391.0
+BK1097,2025-12-29,2,Standard,Travel Agent,Leisure,28.0,3608.0,No,2025-12,December,12,Monday,0,Short-Term (8-30d),7216.0,7216.0
+BK1348,2025-05-30,1,Standard,Travel Agent,Leisure,12.0,3182.0,No,2025-05,May,5,Friday,1,Short-Term (8-30d),3182.0,3182.0
+BK1509,2025-09-12,2,Deluxe,Walk-in,Leisure,0.0,6092.0,No,2025-09,September,9,Friday,1,Last-Minute (0-7d),12184.0,12184.0
+BK1211,2025-06-24,1,Deluxe,Walk-in,Business,0.0,4609.0,No,2025-06,June,6,Tuesday,0,Last-Minute (0-7d),4609.0,4609.0
+BK1703,2025-12-01,7,Deluxe,Direct Website,Leisure,12.0,5785.0,No,2025-12,December,12,Monday,0,Short-Term (8-30d),40495.0,40495.0
+BK1746,2025-01-27,3,Deluxe,OTA,Leisure,34.0,6605.0,No,2025-01,January,1,Monday,0,Advance (31+d),19815.0,19815.0
+BK2045,2025-01-23,5,Standard,Corporate,Leisure,31.0,4159.0,No,2025-01,January,1,Thursday,0,Advance (31+d),20795.0,20795.0
+BK1939,2025-11-04,1,Standard,Corporate,Leisure,13.0,4379.0,No,2025-11,November,11,Tuesday,0,Short-Term (8-30d),4379.0,4379.0
+BK2175,2025-07-31,3,Deluxe,Direct Website,Business,32.0,5011.0,Yes,2025-07,July,7,Thursday,0,Advance (31+d),15033.0,0.0
+BK2123,2025-01-22,3,Deluxe,OTA,Business,4.0,6444.0,No,2025-01,January,1,Wednesday,0,Last-Minute (0-7d),19332.0,19332.0
+BK1478,2025-05-11,5,Standard,OTA,Leisure,9.0,3332.0,No,2025-05,May,5,Sunday,1,Short-Term (8-30d),16660.0,16660.0
+BK1491,2025-05-01,1,Deluxe,Direct Website,Business,53.0,5170.0,No,2025-05,May,5,Thursday,0,Advance (31+d),5170.0,5170.0
+BK1841,2025-09-10,1,Deluxe,OTA,Leisure,29.0,6114.0,No,2025-09,September,9,Wednesday,0,Short-Term (8-30d),6114.0,6114.0
+BK2070,2025-03-31,3,Standard,OTA,Business,8.0,3278.0,No,2025-03,March,3,Monday,0,Short-Term (8-30d),9834.0,9834.0
+BK1364,2025-07-15,4,Standard,Corporate,Leisure,9.0,3593.0,No,2025-07,July,7,Tuesday,0,Short-Term (8-30d),14372.0,14372.0
+BK1296,2025-03-13,5,Deluxe,Corporate,Leisure,8.0,4902.0,No,2025-03,March,3,Thursday,0,Short-Term (8-30d),24510.0,24510.0
+BK1049,2025-04-03,3,Suite,Travel Agent,Business,84.0,8179.0,No,2025-04,April,4,Thursday,0,Advance (31+d),24537.0,24537.0
+BK1224,2025-09-24,3,Deluxe,Direct Website,Business,70.0,5877.0,No,2025-09,September,9,Wednesday,0,Advance (31+d),17631.0,17631.0
+BK1850,2025-01-23,1,Deluxe,Walk-in,Business,0.0,7365.0,No,2025-01,January,1,Thursday,0,Last-Minute (0-7d),7365.0,7365.0
+BK1647,2025-08-27,2,Deluxe,OTA,Leisure,11.0,5991.0,No,2025-08,August,8,Wednesday,0,Short-Term (8-30d),11982.0,11982.0
+BK1562,2025-05-25,3,Standard,Travel Agent,Leisure,39.0,3173.0,No,2025-05,May,5,Sunday,1,Advance (31+d),9519.0,9519.0
+BK1622,2025-02-13,3,Standard,Corporate,Leisure,101.0,2852.0,No,2025-02,February,2,Thursday,0,Advance (31+d),8556.0,8556.0
+BK2087,2025-11-09,3,Deluxe,Corporate,Leisure,6.0,7101.0,No,2025-11,November,11,Sunday,1,Last-Minute (0-7d),21303.0,21303.0
+BK1804,2025-11-14,6,Suite,Corporate,Leisure,10.0,10482.0,No,2025-11,November,11,Friday,1,Short-Term (8-30d),62892.0,62892.0
+BK1604,2025-08-05,6,Standard,Corporate,Leisure,42.0,3375.0,No,2025-08,August,8,Tuesday,0,Advance (31+d),20250.0,20250.0
+BK1442,2025-07-18,6,Standard,Direct Website,Leisure,14.0,4031.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),24186.0,24186.0
+BK2147,2025-02-18,3,Deluxe,Direct Website,Leisure,38.0,5315.0,No,2025-02,February,2,Tuesday,0,Advance (31+d),15945.0,15945.0
+BK2024,2025-05-27,3,Standard,Direct Website,Business,28.0,3073.0,No,2025-05,May,5,Tuesday,0,Short-Term (8-30d),9219.0,9219.0
+BK1539,2025-08-21,3,Deluxe,Travel Agent,Business,23.0,5145.0,No,2025-08,August,8,Thursday,0,Short-Term (8-30d),15435.0,15435.0
+BK1767,2025-01-13,6,Standard,OTA,Leisure,49.0,3897.0,Yes,2025-01,January,1,Monday,0,Advance (31+d),23382.0,0.0
+BK1762,2025-10-14,3,Suite,OTA,Leisure,20.0,11925.0,Yes,2025-10,October,10,Tuesday,0,Short-Term (8-30d),35775.0,0.0
+BK1868,2025-05-01,5,Deluxe,OTA,Leisure,37.0,5314.0,Yes,2025-05,May,5,Thursday,0,Advance (31+d),26570.0,0.0
+BK1689,2025-09-26,5,Standard,OTA,Leisure,9.0,3642.0,Yes,2025-09,September,9,Friday,1,Short-Term (8-30d),18210.0,0.0
+BK1187,2025-12-13,2,Standard,Direct Website,Leisure,68.0,4362.0,Yes,2025-12,December,12,Saturday,1,Advance (31+d),8724.0,0.0
+BK1406,2025-01-18,1,Standard,Direct Website,Business,28.0,3984.0,No,2025-01,January,1,Saturday,1,Short-Term (8-30d),3984.0,3984.0
+BK2011,2025-02-08,2,Standard,OTA,Leisure,34.0,3673.0,No,2025-02,February,2,Saturday,1,Advance (31+d),7346.0,7346.0
+BK1751,2025-06-17,5,Suite,OTA,Leisure,46.0,9146.0,No,2025-06,June,6,Tuesday,0,Advance (31+d),45730.0,45730.0
+BK2050,2025-12-27,3,Standard,Corporate,Business,30.0,4541.0,No,2025-12,December,12,Saturday,1,Short-Term (8-30d),13623.0,13623.0
+BK1461,2025-01-13,3,Deluxe,OTA,Business,3.0,7453.0,No,2025-01,January,1,Monday,0,Last-Minute (0-7d),22359.0,22359.0
+BK1670,2025-06-19,7,Deluxe,Direct Website,Leisure,14.0,4969.0,No,2025-06,June,6,Thursday,0,Short-Term (8-30d),34783.0,34783.0
+BK1655,2025-07-30,1,Standard,Walk-in,Business,0.0,3419.0,No,2025-07,July,7,Wednesday,0,Last-Minute (0-7d),3419.0,3419.0
+BK1785,2025-02-28,6,Deluxe,Direct Website,Leisure,77.0,5757.0,No,2025-02,February,2,Friday,1,Advance (31+d),34542.0,34542.0
+BK1714,2025-07-25,1,Standard,Direct Website,Business,119.0,3856.0,No,2025-07,July,7,Friday,1,Advance (31+d),3856.0,3856.0
+BK1424,2025-10-15,5,Deluxe,Direct Website,Leisure,14.0,7094.0,No,2025-10,October,10,Wednesday,0,Short-Term (8-30d),35470.0,35470.0
+BK1043,2025-08-11,2,Standard,Direct Website,Leisure,49.0,3045.0,No,2025-08,August,8,Monday,0,Advance (31+d),6090.0,6090.0
+BK1661,2025-03-14,3,Standard,Direct Website,Leisure,92.0,3320.0,Yes,2025-03,March,3,Friday,1,Advance (31+d),9960.0,0.0
+BK1635,2025-05-18,3,Deluxe,OTA,Business,8.0,5187.0,Yes,2025-05,May,5,Sunday,1,Short-Term (8-30d),15561.0,0.0
+BK1528,2025-03-25,1,Deluxe,Walk-in,Leisure,0.0,5447.0,No,2025-03,March,3,Tuesday,0,Last-Minute (0-7d),5447.0,5447.0
+BK1987,2025-11-29,3,Standard,Direct Website,Business,29.0,3815.0,Yes,2025-11,November,11,Saturday,1,Short-Term (8-30d),11445.0,0.0
+BK1218,2025-06-06,4,Standard,OTA,Leisure,23.0,3042.0,No,2025-06,June,6,Friday,1,Short-Term (8-30d),12168.0,12168.0
+BK1820,2025-07-18,6,Standard,Direct Website,Leisure,22.0,3516.0,No,2025-07,July,7,Friday,1,Short-Term (8-30d),21096.0,21096.0
+BK2183,2025-02-21,4,Deluxe,OTA,Leisure,45.0,5656.0,No,2025-02,February,2,Friday,1,Advance (31+d),22624.0,22624.0
+BK1855,2025-08-22,3,Standard,Walk-in,Business,0.0,3538.0,No,2025-08,August,8,Friday,1,Last-Minute (0-7d),10614.0,10614.0
+BK1609,2025-09-01,6,Standard,Corporate,Leisure,38.0,3945.0,No,2025-09,September,9,Monday,0,Advance (31+d),23670.0,23670.0
+BK1485,2025-08-03,4,Deluxe,Direct Website,Leisure,22.0,5968.0,No,2025-08,August,8,Sunday,1,Short-Term (8-30d),23872.0,23872.0
+BK2149,2025-05-09,1,Suite,Direct Website,Leisure,54.0,8132.0,No,2025-05,May,5,Friday,1,Advance (31+d),8132.0,8132.0
+BK2017,2025-07-19,3,Standard,OTA,Business,18.0,3911.0,No,2025-07,July,7,Saturday,1,Short-Term (8-30d),11733.0,11733.0
+BK2085,2025-01-13,1,Standard,Direct Website,Business,20.0,4211.0,No,2025-01,January,1,Monday,0,Short-Term (8-30d),4211.0,4211.0
+BK1081,2025-06-21,4,Standard,Direct Website,Leisure,24.0,3442.0,No,2025-06,June,6,Saturday,1,Short-Term (8-30d),13768.0,13768.0
+BK1324,2025-12-11,2,Suite,OTA,Leisure,135.0,10045.0,Yes,2025-12,December,12,Thursday,0,Advance (31+d),20090.0,0.0
+BK2080,2025-01-08,3,Deluxe,OTA,Leisure,8.0,5824.0,Yes,2025-01,January,1,Wednesday,0,Short-Term (8-30d),17472.0,0.0
+BK1019,2025-02-15,3,Standard,Travel Agent,Business,38.0,3436.0,No,2025-02,February,2,Saturday,1,Advance (31+d),10308.0,10308.0
+BK1454,2025-04-22,1,Deluxe,Walk-in,Leisure,0.0,4931.0,No,2025-04,April,4,Tuesday,0,Last-Minute (0-7d),4931.0,4931.0
+BK2110,2025-01-29,3,Standard,OTA,Leisure,81.0,4706.0,Yes,2025-01,January,1,Wednesday,0,Advance (31+d),14118.0,0.0
+BK1758,2025-02-07,3,Deluxe,OTA,Leisure,34.0,5480.0,No,2025-02,February,2,Friday,1,Advance (31+d),16440.0,16440.0
+BK1034,2025-01-30,5,Deluxe,OTA,Leisure,54.0,6789.0,No,2025-01,January,1,Thursday,0,Advance (31+d),33945.0,33945.0
+BK1808,2025-06-18,7,Deluxe,Walk-in,Leisure,0.0,5237.0,No,2025-06,June,6,Wednesday,0,Last-Minute (0-7d),36659.0,36659.0
+BK2162,2025-10-09,5,Deluxe,Direct Website,Leisure,42.0,6776.0,No,2025-10,October,10,Thursday,0,Advance (31+d),33880.0,33880.0
+BK1904,2025-12-08,3,Deluxe,OTA,Leisure,29.0,6333.0,Yes,2025-12,December,12,Monday,0,Short-Term (8-30d),18999.0,0.0
+BK1800,2025-06-27,4,Suite,OTA,Leisure,57.0,8939.0,Yes,2025-06,June,6,Friday,1,Advance (31+d),35756.0,0.0
+BK1096,2025-09-05,3,Deluxe,Direct Website,Leisure,14.0,5310.0,No,2025-09,September,9,Friday,1,Short-Term (8-30d),15930.0,15930.0
+BK2107,2025-12-25,4,Deluxe,OTA,Leisure,146.0,5842.0,Yes,2025-12,December,12,Thursday,0,Advance (31+d),23368.0,0.0
+BK1446,2025-05-18,6,Deluxe,OTA,Leisure,36.0,5345.0,No,2025-05,May,5,Sunday,1,Advance (31+d),32070.0,32070.0
+BK1474,2025-12-30,1,Standard,OTA,Business,63.0,4119.0,Yes,2025-12,December,12,Tuesday,0,Advance (31+d),4119.0,0.0
+BK1366,2025-07-19,7,Standard,Direct Website,Leisure,43.0,4009.0,No,2025-07,July,7,Saturday,1,Advance (31+d),28063.0,28063.0
+BK2186,2025-10-05,4,Standard,Travel Agent,Leisure,40.0,4238.0,No,2025-10,October,10,Sunday,1,Advance (31+d),16952.0,16952.0
+BK1760,2025-06-26,2,Deluxe,Direct Website,Business,4.0,4823.0,Yes,2025-06,June,6,Thursday,0,Last-Minute (0-7d),9646.0,0.0
+BK1918,2025-01-08,5,Deluxe,Travel Agent,Leisure,18.0,7233.0,No,2025-01,January,1,Wednesday,0,Short-Term (8-30d),36165.0,36165.0
+BK1759,2025-07-31,2,Standard,OTA,Business,31.0,7743.0,No,2025-07,July,7,Thursday,0,Advance (31+d),15486.0,15486.0
+BK1392,2025-09-12,5,Suite,OTA,Leisure,21.0,8445.0,Yes,2025-09,September,9,Friday,1,Short-Term (8-30d),42225.0,0.0
+BK1506,2025-09-16,5,Standard,OTA,Leisure,36.0,3957.0,Yes,2025-09,September,9,Tuesday,0,Advance (31+d),19785.0,0.0
+BK1434,2025-10-19,4,Deluxe,Direct Website,Leisure,130.0,7610.0,No,2025-10,October,10,Sunday,1,Advance (31+d),30440.0,30440.0
+BK1648,2025-10-03,3,Deluxe,Direct Website,Business,29.0,6092.0,No,2025-10,October,10,Friday,1,Short-Term (8-30d),18276.0,18276.0
+BK1942,2025-06-16,5,Deluxe,Direct Website,Leisure,12.0,4862.0,No,2025-06,June,6,Monday,0,Short-Term (8-30d),24310.0,24310.0
+BK1132,2025-08-08,3,Standard,Corporate,Business,34.0,3607.0,No,2025-08,August,8,Friday,1,Advance (31+d),10821.0,10821.0
+BK2074,2025-01-13,3,Deluxe,OTA,Leisure,45.0,7202.0,No,2025-01,January,1,Monday,0,Advance (31+d),21606.0,21606.0
+BK1972,2025-06-16,4,Standard,OTA,Leisure,73.0,3121.0,No,2025-06,June,6,Monday,0,Advance (31+d),12484.0,12484.0
+BK1450,2025-01-09,1,Standard,OTA,Leisure,25.0,3946.0,Yes,2025-01,January,1,Thursday,0,Short-Term (8-30d),3946.0,0.0
+BK1031,2025-11-29,6,Deluxe,Travel Agent,Leisure,65.0,6177.0,No,2025-11,November,11,Saturday,1,Advance (31+d),37062.0,37062.0
+BK1121,2025-05-11,6,Standard,Corporate,Leisure,117.0,3440.0,No,2025-05,May,5,Sunday,1,Advance (31+d),20640.0,20640.0
+BK2112,2025-12-22,7,Suite,OTA,Leisure,20.0,9732.0,No,2025-12,December,12,Monday,0,Short-Term (8-30d),68124.0,68124.0
+BK1255,2025-12-25,6,Suite,OTA,Leisure,14.0,11407.0,No,2025-12,December,12,Thursday,0,Short-Term (8-30d),68442.0,68442.0
+BK1892,2025-08-11,3,Deluxe,Direct Website,Business,47.0,5126.0,No,2025-08,August,8,Monday,0,Advance (31+d),15378.0,15378.0
+BK1359,2025-12-07,3,Standard,OTA,Leisure,25.0,4393.0,No,2025-12,December,12,Sunday,1,Short-Term (8-30d),13179.0,13179.0
+BK1051,2025-11-17,2,Suite,Corporate,Business,9.0,10983.0,Yes,2025-11,November,11,Monday,0,Short-Term (8-30d),21966.0,0.0
+BK1875,2025-12-23,1,Standard,Corporate,Leisure,14.0,5185.0,No,2025-12,December,12,Tuesday,0,Short-Term (8-30d),5185.0,5185.0
+BK1938,2025-04-27,2,Suite,OTA,Leisure,89.0,8493.0,No,2025-04,April,4,Sunday,1,Advance (31+d),16986.0,16986.0
+BK1772,2025-03-29,2,Deluxe,OTA,Leisure,29.0,5772.0,No,2025-03,March,3,Saturday,1,Short-Term (8-30d),11544.0,11544.0
+BK2126,2025-10-08,1,Deluxe,Direct Website,Business,72.0,7740.0,No,2025-10,October,10,Wednesday,0,Advance (31+d),7740.0,7740.0
+BK1679,2025-06-01,1,Deluxe,Direct Website,Business,20.0,5358.0,No,2025-06,June,6,Sunday,1,Short-Term (8-30d),5358.0,5358.0
+BK1805,2025-06-27,1,Standard,Travel Agent,Leisure,31.0,2923.0,No,2025-06,June,6,Friday,1,Advance (31+d),2923.0,2923.0
+BK1124,2025-07-02,1,Deluxe,OTA,Business,23.0,5557.0,No,2025-07,July,7,Wednesday,0,Short-Term (8-30d),5557.0,5557.0
+BK1404,2025-02-16,1,Suite,Walk-in,Business,0.0,11157.0,No,2025-02,February,2,Sunday,1,Last-Minute (0-7d),11157.0,11157.0
+BK1730,2025-11-01,6,Standard,OTA,Leisure,60.0,4014.0,No,2025-11,November,11,Saturday,1,Advance (31+d),24084.0,24084.0
+BK1831,2025-02-14,7,Deluxe,OTA,Leisure,20.0,5727.0,No,2025-02,February,2,Friday,1,Short-Term (8-30d),40089.0,40089.0
+BK2071,2025-10-06,3,Deluxe,Travel Agent,Business,20.0,6908.0,No,2025-10,October,10,Monday,0,Short-Term (8-30d),20724.0,20724.0
+BK1725,2025-11-01,3,Standard,Walk-in,Business,0.0,4923.0,No,2025-11,November,11,Saturday,1,Last-Minute (0-7d),14769.0,14769.0
+BK1587,2025-08-23,2,Standard,Direct Website,Business,4.0,3825.0,No,2025-08,August,8,Saturday,1,Last-Minute (0-7d),7650.0,7650.0
+BK1607,2025-04-10,1,Suite,Travel Agent,Leisure,22.0,8448.0,No,2025-04,April,4,Thursday,0,Short-Term (8-30d),8448.0,8448.0
+BK1433,2025-08-12,1,Standard,OTA,Leisure,25.0,3071.0,No,2025-08,August,8,Tuesday,0,Short-Term (8-30d),3071.0,3071.0
+BK1674,2025-07-28,3,Deluxe,Direct Website,Leisure,12.0,4474.0,No,2025-07,July,7,Monday,0,Short-Term (8-30d),13422.0,13422.0
+BK1360,2025-10-16,4,Standard,OTA,Leisure,4.0,4336.0,Yes,2025-10,October,10,Thursday,0,Last-Minute (0-7d),17344.0,0.0
+BK2099,2025-12-11,2,Suite,OTA,Leisure,12.0,11460.0,No,2025-12,December,12,Thursday,0,Short-Term (8-30d),22920.0,22920.0
+BK1466,2025-07-23,3,Standard,Travel Agent,Leisure,6.0,3000.0,Yes,2025-07,July,7,Wednesday,0,Last-Minute (0-7d),9000.0,0.0
+BK1299,2025-01-28,2,Deluxe,Direct Website,Business,53.0,7151.0,Yes,2025-01,January,1,Tuesday,0,Advance (31+d),14302.0,0.0
+BK1493,2025-09-24,3,Deluxe,OTA,Leisure,83.0,6130.0,Yes,2025-09,September,9,Wednesday,0,Advance (31+d),18390.0,0.0
+BK1527,2025-08-13,6,Deluxe,Direct Website,Leisure,49.0,5725.0,No,2025-08,August,8,Wednesday,0,Advance (31+d),34350.0,34350.0
+BK2192,2025-06-14,3,Deluxe,OTA,Business,57.0,4961.0,Yes,2025-06,June,6,Saturday,1,Advance (31+d),14883.0,0.0
